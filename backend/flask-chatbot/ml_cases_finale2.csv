@@ -1,0 +1,182 @@
+ML_ID,ML_type,first_trx_date,total_amount,key_entities,n_entities_involved,explaination
+cycle_1,cycle,2000-01-01 00:00:00,15000000.0,Masa Metonia Abadi;  Musmuliadi;  Citra Lestari;  Masa Metonia Abadi;  Budi Setiawan,8,"**Jenis Pencucian Uang: Round-Trip**
+
+**Alasan Mengapa Skema Transaksi Ini Mencurigakan:**
+
+1. **Jumlah Entitas yang Terlibat:** Ada 8 entitas yang terlibat dalam siklus transaksi ini, yang menunjukkan kompleksitas dan upaya untuk menyamarkan asal-usul dana.
+
+2. **Jumlah Transaksi yang Besar:** Total jumlah transaksi mencapai 15.000.000,00, yang merupakan jumlah signifikan dan mencurigakan jika dibandingkan dengan transaksi biasa.
+
+3. **Transaksi Berulang:** Dana berpindah dari satu akun ke akun lain dalam pola yang berulang, yang merupakan ciri khas dari skema pencucian uang jenis **round-trip**.
+
+4. **Transaksi Tidak Wajar:** Beberapa transaksi memiliki jumlah yang sangat besar, seperti 375.849,41 dan 355.107,71, yang tidak sesuai dengan profil transaksi normal.
+
+5. **Transaksi Tanpa Nilai:** Ada transaksi dengan jumlah 0,00 yang dilakukan oleh **Masa Metonia Abadi**, yang tidak memiliki tujuan jelas dan mencurigakan.
+
+6. **Waktu Transaksi yang Tidak Konsisten:** Tanggal dan waktu transaksi yang tidak konsisten, termasuk transaksi yang dilakukan pada tahun 2000, menunjukkan upaya untuk mengaburkan jejak dana.
+
+7. **Jenis Transaksi Beragam:** Penggunaan berbagai jenis transaksi seperti wire, trade, dan direktur menunjukkan upaya untuk menyamarkan aliran dana.
+
+8. **Hubungan Antar Akun:** Beberapa akun saling berhubungan dan melakukan transaksi bolak-balik, yang merupakan indikasi kuat dari pencucian uang."
+cycle_2,cycle,2022-08-01 14:49:00,61138.22,Bob Smith;  Judy Harris;  Grace Taylor,10,"**Jenis Pencucian Uang: Round-Trip**
+
+Skema transaksi ini mencurigakan karena beberapa alasan:
+
+1. **Jumlah Entitas yang Terlibat**: Ada 10 entitas berbeda yang terlibat dalam siklus transaksi ini, yang menunjukkan upaya untuk menyamarkan asal-usul dana.
+2. **Jumlah Transaksi yang Tidak Biasa**: Transaksi dilakukan dalam jumlah yang relatif kecil dan berulang, yang kemudian diakhiri dengan satu transaksi besar sebesar 61.138,22 USD.
+3. **Polanya Berulang**: Setiap entitas menerima dan mengirimkan dana dalam jumlah yang hampir sama, yang menunjukkan pola berulang dan tidak wajar.
+4. **Waktu Transaksi**: Transaksi dilakukan dalam jangka waktu yang singkat, dari 1 Agustus hingga 2 September 2022, yang menunjukkan upaya untuk menyelesaikan siklus dengan cepat.
+5. **Transaksi Akhir yang Besar**: Transaksi terakhir oleh **Bob Smith** sebesar 61.138,22 USD sangat mencolok dibandingkan dengan transaksi sebelumnya, yang menunjukkan upaya untuk menggabungkan dana yang telah dicuci.
+
+Skema ini menunjukkan tanda-tanda klasik dari **pencucian uang jenis round-trip**, di mana dana dipindahkan melalui serangkaian transaksi untuk menyamarkan asal-usulnya sebelum dikembalikan ke titik awal."
+cycle_3,cycle,2022-08-01 14:55:00,1684.0,Oscar White;  Mallory Martin;  Trent Moore,3,"**Tipe Pencucian Uang: Round-Trip**
+
+**Alasan Mengapa Skema Transaksi Ini Mencurigakan:**
+
+1. **Transaksi Berulang**: Terdapat pola transaksi berulang antara tiga entitas, yaitu **Mallory Martin**, **Oscar White**, dan **Trent Moore**. Ini menunjukkan adanya kemungkinan upaya untuk menyamarkan asal-usul dana.
+
+2. **Jumlah Transaksi yang Mirip**: Jumlah uang yang ditransfer dalam setiap transaksi sangat mirip, berkisar antara $1527.50 hingga $1684.00. Ini bisa menjadi indikasi bahwa dana tersebut sedang ""diputar"" untuk menciptakan ilusi aktivitas bisnis yang sah.
+
+3. **Waktu Transaksi yang Tidak Biasa**: Beberapa transaksi dilakukan pada waktu yang tidak biasa, seperti pada tengah malam (00:27:00) dan pagi hari (08:17:00). Ini bisa menjadi tanda bahwa pelaku mencoba menghindari deteksi.
+
+4. **Jumlah Entitas yang Terlibat**: Hanya ada tiga entitas yang terlibat dalam siklus ini, yang membuatnya lebih mudah untuk mengontrol dan menyamarkan aliran dana.
+
+5. **Total Jumlah yang Sama**: Total jumlah uang yang ditransfer dalam siklus ini adalah $1684.00, yang menunjukkan bahwa dana tersebut mungkin hanya berputar-putar tanpa ada tujuan bisnis yang jelas.
+
+Skema ini mencurigakan karena menunjukkan karakteristik umum dari **pencucian uang tipe round-trip**, di mana dana diputar melalui beberapa akun untuk menyamarkan asal-usulnya."
+cycle_4,cycle,2022-08-01 00:19:00,1378736.88,John Doe;  Daniel Thompson;  Jane Smith,12,"**Jenis pencucian uang:** **Round-trip**
+
+**Alasan skema transaksi ini mencurigakan:**
+
+1. **Jumlah entitas yang terlibat:** Ada 12 entitas yang berbeda terlibat dalam siklus transaksi ini, yang menunjukkan upaya untuk menyamarkan asal-usul dana.
+2. **Jumlah transaksi yang besar:** Total jumlah transaksi mencapai 1.378.736,88, yang merupakan jumlah yang signifikan dan mencurigakan.
+3. **Polanya berulang:** Dana berpindah dari satu akun ke akun lain dan akhirnya kembali ke akun awal (**John Doe**), yang merupakan ciri khas dari skema **round-trip**.
+4. **Frekuensi transaksi:** Transaksi terjadi dalam jangka waktu yang relatif singkat (dari 1 Agustus 2022 hingga 30 Agustus 2022), menunjukkan upaya untuk cepat menyamarkan dana.
+5. **Jumlah transaksi yang tidak biasa:** Beberapa transaksi memiliki jumlah yang sangat spesifik dan tidak bulat, yang sering kali merupakan tanda pencucian uang.
+6. **Tidak ada alasan bisnis yang jelas:** Tidak ada indikasi bahwa transaksi ini terkait dengan aktivitas bisnis yang sah, mengingat pola dan jumlah yang terlibat.
+
+Analisis ini menunjukkan bahwa skema transaksi ini sangat mencurigakan dan memerlukan penyelidikan lebih lanjut untuk memastikan apakah ini adalah kasus pencucian uang."
+cycle_6,cycle,2022-08-01 02:58:00,115727.45,Hari Nugroho;  Indah Rahayu;  Ahmad Sutrisno,9,"Skema transaksi ini menunjukkan pola **money laundering** jenis **round-trip**. Berikut adalah alasan mengapa skema ini mencurigakan:
+
+1. **Jumlah Entitas**: Terdapat 9 entitas yang terlibat dalam siklus transaksi ini, yang menunjukkan upaya untuk menyamarkan asal-usul dana.
+2. **Jumlah Transaksi**: Total jumlah transaksi adalah 115727.45, yang menunjukkan adanya perputaran dana dalam jumlah besar.
+3. **Polanya Berulang**: Dana berpindah dari satu akun ke akun lain dan akhirnya kembali ke akun awal, yaitu **Ahmad Sutrisno**.
+4. **Waktu Transaksi**: Transaksi dilakukan dalam jangka waktu yang relatif singkat, dari 1 Agustus 2022 hingga 2 September 2022, yang menunjukkan upaya untuk menyelesaikan siklus dengan cepat.
+5. **Jumlah yang Serupa**: Jumlah transaksi yang dilakukan oleh beberapa entitas sangat mirip, yang menunjukkan adanya upaya untuk menghindari deteksi dengan memecah jumlah besar menjadi beberapa transaksi kecil.
+
+Pola ini mencurigakan karena menunjukkan upaya untuk menyamarkan asal-usul dana melalui serangkaian transaksi yang kompleks dan berulang."
+cycle_7,cycle,2022-08-01 07:35:00,60433.11,Utari Puspita;  Vera Melati;  Yani Wulandari,12,"**Jenis Pencucian Uang: Round-Trip**
+
+Skema transaksi ini mencurigakan karena beberapa alasan:
+
+1. **Jumlah Entitas yang Terlibat**: Ada 12 entitas yang terlibat dalam siklus transaksi ini, yang menunjukkan upaya untuk menyamarkan asal-usul dana.
+2. **Jumlah Transaksi yang Sama**: Total jumlah transaksi adalah **60433.11**, yang sama dengan jumlah yang ditransfer oleh **Vera Melati** ke **Utari Puspita**. Ini menunjukkan bahwa dana tersebut mungkin berputar kembali ke titik awal.
+3. **Frekuensi dan Pola Transaksi**: Transaksi terjadi dalam jangka waktu yang relatif singkat, dari 1 Agustus 2022 hingga 1 September 2022, dengan pola yang konsisten.
+4. **Jumlah Transaksi yang Tidak Biasa**: Jumlah transaksi yang dilakukan tidak bulat dan bervariasi, yang sering kali merupakan tanda upaya untuk menghindari deteksi.
+5. **Keterlibatan Banyak Akun**: Penggunaan banyak akun untuk memindahkan dana dalam jumlah besar adalah taktik umum dalam pencucian uang untuk mempersulit pelacakan asal-usul dana.
+
+Analisis ini menunjukkan bahwa skema transaksi ini adalah kasus **pencucian uang round-trip** yang mencurigakan dan memerlukan investigasi lebih lanjut."
+cycle_8,cycle,2000-01-01 00:00:00,95729.2,Linggar Jati Perkasa;  Liris Enggar Wardhani;  Dadan Saputra;  Cici Kartika;  Kiki Sumirat,13,"Jenis pencucian uang yang teridentifikasi dalam skema transaksi ini adalah **round-trip**. Berikut adalah alasan mengapa skema transaksi ini mencurigakan:
+
+1. **Jumlah Entitas yang Terlibat**: Ada 13 entitas yang terlibat dalam siklus transaksi ini, yang menunjukkan upaya untuk menyamarkan asal-usul dana.
+2. **Jumlah Transaksi yang Besar**: Total jumlah transaksi mencapai 95,729.20, yang merupakan jumlah signifikan dan mencurigakan.
+3. **Polanya Berulang**: Dana berpindah dari satu akun ke akun lain dalam pola yang berulang, yang merupakan karakteristik umum dari pencucian uang jenis round-trip.
+4. **Transaksi Tanpa Alasan Jelas**: Beberapa transaksi tampak tidak memiliki alasan bisnis yang jelas, seperti transaksi dari **Liris Enggar Wardhani** ke **Linggar Jati Perkasa** dengan jumlah 0.00.
+5. **Waktu Transaksi yang Tidak Biasa**: Beberapa transaksi dilakukan pada waktu yang tidak biasa, seperti pada dini hari atau larut malam, yang dapat menunjukkan upaya untuk menghindari deteksi.
+6. **Keterlibatan Berbagai Jenis Transaksi**: Selain wire transfer, ada juga transaksi dengan tipe ""komisaris"" dan ""vendor"", yang menambah kompleksitas dan mencurigakan.
+
+Analisis ini menunjukkan adanya upaya untuk menyamarkan asal-usul dana melalui serangkaian transaksi yang kompleks dan berulang."
+fan-in_1,fan-in,2022-08-01 00:08:00,6750000.0,Olivia Harris;  Olivia Adams;  Olivia Baker,10,"**Fan-in** adalah jenis pencucian uang di mana banyak transaksi kecil dari berbagai sumber dikumpulkan ke dalam satu akun. Dalam kasus ini, akun **Olivia Harris** menerima sejumlah besar uang dari beberapa akun berbeda dengan nama depan yang sama, yaitu **Olivia**.
+
+Poin-poin yang membuat skema transaksi ini mencurigakan:
+1. **Jumlah Transaksi Besar**: Setiap transaksi bernilai 750.000, yang merupakan jumlah signifikan dan dapat menimbulkan kecurigaan.
+2. **Frekuensi Transaksi**: Transaksi terjadi dalam jangka waktu yang relatif singkat, dari 1 Agustus hingga 4 September 2022.
+3. **Nama Pengirim yang Sama**: Semua pengirim memiliki nama depan yang sama, yaitu Olivia, yang bisa menunjukkan upaya untuk menyamarkan identitas sebenarnya.
+4. **Sumber Dana Beragam**: Dana datang dari berbagai akun, yang bisa menjadi tanda upaya untuk mengaburkan asal dana.
+5. **Total Jumlah Besar**: Total dana yang diterima oleh Olivia Harris mencapai 6.750.000, yang merupakan jumlah yang sangat besar dan tidak biasa untuk transaksi pribadi.
+
+Kombinasi dari faktor-faktor ini menunjukkan pola yang mencurigakan dan kemungkinan besar merupakan upaya pencucian uang melalui skema **fan-in**."
+fan-out_1,fan-out,2022-08-01 12:46:00,892021191.1243511,Boni Arfan;  Ferdi Santoso;  Bambang Suprapto,15,"**Jenis Pencucian Uang: Smurfing**
+
+Skema transaksi ini mencurigakan karena beberapa alasan berikut:
+
+1. **Jumlah Transaksi Besar**: Total jumlah transaksi mencapai 892,021,191.12, yang merupakan jumlah yang sangat besar dan mencurigakan.
+2. **Banyak Penerima**: Ada 15 entitas berbeda yang menerima dana dari satu akun pengirim, **Boni Arfan**. Ini menunjukkan upaya untuk menyebarkan dana agar tidak terdeteksi.
+3. **Frekuensi Transaksi**: Transaksi dilakukan dalam jangka waktu yang relatif singkat, dari 1 Agustus 2022 hingga 2 September 2022, yang menunjukkan pola yang tidak biasa.
+4. **Jumlah Transaksi yang Tidak Biasa**: Beberapa transaksi memiliki jumlah yang sangat besar, seperti 88,900,233 dan 95,998,770, yang tidak sesuai dengan transaksi normal.
+5. **Penggunaan Wire Transfer**: Semua transaksi dilakukan melalui wire transfer, yang sering digunakan dalam skema pencucian uang karena memungkinkan transfer dana dalam jumlah besar dengan cepat.
+
+Pola ini menunjukkan upaya untuk menyembunyikan asal-usul dana dengan membaginya menjadi beberapa transaksi kecil, yang merupakan ciri khas dari **smurfing**."
+fan-out_2,fan-out,2022-08-01 13:24:00,84344886.53306216,Indra Wijaya;  Lina Marlina;  Doni Nugroho,13,"**Fan-out** adalah jenis pencucian uang di mana dana dari satu sumber didistribusikan ke banyak penerima untuk menyamarkan asal-usulnya. Dalam kasus ini, **Indra Wijaya** mengirimkan sejumlah besar uang melalui transfer kawat ke 12 penerima berbeda dalam periode waktu yang singkat.
+
+Poin-poin yang membuat skema transaksi ini mencurigakan:
+1. **Jumlah Transaksi Besar**: Total jumlah yang ditransfer mencapai lebih dari 84 juta, yang sangat besar dan tidak biasa untuk transaksi individu.
+2. **Frekuensi Tinggi**: Transaksi dilakukan dalam rentang waktu yang relatif singkat, dari 1 Agustus hingga 31 Agustus 2022.
+3. **Penerima Beragam**: Ada 12 penerima berbeda, yang bisa menunjukkan upaya untuk menyamarkan sumber dana.
+4. **Transaksi Terakhir Sangat Besar**: Transaksi terakhir ke Lina Marlina sebesar 83 juta lebih, jauh lebih besar dibandingkan transaksi lainnya, yang bisa menunjukkan upaya untuk mengakhiri skema dengan jumlah besar.
+5. **Polanya Konsisten**: Semua transaksi dilakukan oleh satu pengirim yang sama, Indra Wijaya, yang menunjukkan pola yang konsisten dan terencana.
+
+Analisis ini menunjukkan adanya indikasi kuat bahwa skema ini adalah upaya pencucian uang melalui metode **fan-out**."
+fan-out_3,fan-out,2022-08-01 14:46:00,445609871.42696464,Victor King;  Steve Clark;  Quinn Perez,12,"**Jenis pencucian uang:** **Fan-out**
+
+**Alasan skema transaksi ini mencurigakan:**
+1. **Jumlah entitas yang terlibat:** Ada 12 entitas yang terlibat dalam transaksi ini, yang menunjukkan pola distribusi dana yang kompleks.
+2. **Jumlah transaksi besar:** Beberapa transaksi memiliki jumlah yang sangat besar, seperti 85.912.810, 80.557.190, dan 97.462.900, yang tidak biasa untuk transaksi reguler.
+3. **Frekuensi transaksi:** Transaksi terjadi dalam jangka waktu yang relatif singkat, dari 1 Agustus 2022 hingga 4 September 2022, yang menunjukkan upaya untuk menyamarkan asal dana.
+4. **Pola pengiriman dana:** Dana dikirim dari satu akun (Victor King) ke banyak penerima yang berbeda, yang merupakan karakteristik umum dari skema pencucian uang **fan-out**.
+5. **Jumlah yang sama:** Beberapa transaksi memiliki jumlah yang sama persis (29.000), yang bisa menjadi tanda upaya untuk menghindari deteksi dengan membagi dana menjadi jumlah yang lebih kecil.
+6. **Tidak ada alasan bisnis yang jelas:** Tidak ada indikasi alasan bisnis yang sah untuk transfer dana dalam jumlah besar ini ke berbagai akun dalam waktu singkat.
+
+Analisis ini menunjukkan bahwa skema transaksi ini memiliki banyak indikator yang sesuai dengan pola pencucian uang, sehingga perlu penyelidikan lebih lanjut."
+fan-out_5,fan-out,2022-08-01 11:01:00,523463878.9397142,Asep Wahyu;  Ujang Suryana;  Lilis Sukmawati,14,"**Jenis Pencucian Uang: Smurfing**
+
+**Alasan Mengapa Skema Transaksi Ini Mencurigakan:**
+
+1. **Jumlah Entitas yang Terlibat:** Ada 14 penerima berbeda yang menerima dana dari satu pengirim, **Asep Wahyu**, dalam periode waktu yang relatif singkat.
+2. **Jumlah Transaksi yang Besar:** Total jumlah uang yang ditransfer mencapai lebih dari 523 juta rupiah, yang merupakan jumlah signifikan.
+3. **Frekuensi Transaksi:** Transaksi dilakukan secara berurutan dalam jangka waktu satu bulan, menunjukkan pola yang teratur dan terencana.
+4. **Variasi Jumlah Transaksi:** Ada variasi besar dalam jumlah uang yang ditransfer, dari 29 ribu hingga hampir 96 juta rupiah, yang bisa menjadi upaya untuk menghindari deteksi.
+5. **Penggunaan Banyak Akun:** Penggunaan banyak akun penerima untuk memecah jumlah besar menjadi beberapa transaksi kecil adalah ciri khas dari **smurfing**, sebuah teknik untuk menghindari pelaporan transaksi mencurigakan.
+6. **Waktu Transaksi:** Beberapa transaksi dilakukan pada waktu yang tidak biasa, seperti dini hari, yang bisa menunjukkan upaya untuk menghindari perhatian.
+
+Skema ini menunjukkan tanda-tanda klasik dari **smurfing**, di mana dana besar dipecah menjadi beberapa transaksi kecil untuk menghindari deteksi oleh otoritas keuangan."
+gather-scatter_1,gather-scatter,2022-08-01 11:40:00,534628571.4952402,Bang Windah Bersaudara;  Ratna Sari;  Indah Permata,19,"Skema transaksi ini menunjukkan pola **money laundering** jenis **gather-scatter**. Berikut adalah alasan mengapa skema ini mencurigakan:
+
+1. **Jumlah Transaksi Besar**: Akun **Bang Windah Bersaudara** menerima sejumlah besar uang dari beberapa akun berbeda dalam waktu singkat.
+2. **Pengiriman Uang Kembali**: Setelah menerima dana, akun **Bang Windah Bersaudara** mengirimkan uang kembali ke beberapa akun lain dengan jumlah yang lebih kecil.
+3. **Frekuensi Tinggi**: Transaksi terjadi dengan frekuensi tinggi dalam periode waktu yang relatif singkat, menunjukkan upaya untuk menyamarkan asal-usul dana.
+4. **Jumlah Entitas Terlibat**: Sebanyak 19 entitas terlibat dalam transaksi ini, yang menunjukkan upaya untuk memecah-mecah dana agar sulit dilacak.
+5. **Total Jumlah Besar**: Total jumlah uang yang terlibat mencapai lebih dari 534 juta, yang sangat mencurigakan untuk transaksi biasa.
+
+Pola ini menunjukkan upaya untuk mencuci uang dengan cara memecah-mecah dan menyebarkan dana melalui berbagai akun untuk mengaburkan jejak asal-usul dana tersebut."
+gather-scatter_2,gather-scatter,2022-08-01 13:07:00,533783372.61382514,Yusuf Arifin;  Zainal Abidin;  Indah Pratiwi,26,"**Gather-Scatter** adalah jenis pencucian uang yang melibatkan pengumpulan dana dari berbagai sumber ke satu akun, kemudian menyebarkannya kembali ke berbagai akun lain. Berikut adalah alasan mengapa skema transaksi ini mencurigakan:
+
+1. **Jumlah Transaksi Besar**: Yusuf Arifin menerima dan mengirimkan sejumlah besar uang dalam waktu singkat, dengan total lebih dari 533 juta rupiah.
+2. **Banyak Pihak Terlibat**: Ada 26 entitas berbeda yang terlibat dalam transaksi ini, baik sebagai pengirim maupun penerima.
+3. **Frekuensi Tinggi**: Transaksi terjadi hampir setiap hari, menunjukkan aktivitas yang tidak biasa untuk akun pribadi.
+4. **Polanya Jelas**: Yusuf Arifin menerima dana dalam jumlah besar dan kemudian mendistribusikannya ke banyak akun lain dalam jumlah yang lebih kecil.
+5. **Waktu Transaksi**: Beberapa transaksi dilakukan pada waktu yang tidak biasa, seperti tengah malam atau dini hari, yang bisa menunjukkan upaya untuk menghindari deteksi.
+
+Skema ini menunjukkan karakteristik **pencucian uang** yang jelas, di mana dana dikumpulkan dan kemudian disebarkan untuk menyamarkan asal-usulnya."
+gather-scatter_3,gather-scatter,2022-08-01 00:10:00,494773354.2278455,Michael Walker;  Benjamin Hall;  Henry Young,25,"**Jenis Pencucian Uang: Smurfing (Gather-Scatter)**
+
+**Alasan Mengapa Skema Transaksi Ini Mencurigakan:**
+
+1. **Jumlah Transaksi yang Besar:** Michael Walker menerima sejumlah besar uang dari berbagai pengirim dalam waktu singkat, dengan total lebih dari 494 juta USD.
+2. **Banyaknya Entitas yang Terlibat:** Ada 25 entitas berbeda yang terlibat dalam transaksi ini, yang menunjukkan upaya untuk menyamarkan sumber dana.
+3. **Jumlah Transaksi yang Sama:** Banyak transaksi yang dilakukan dengan jumlah yang sama, yaitu 29.000 USD, yang merupakan ciri khas dari smurfing untuk menghindari deteksi.
+4. **Frekuensi Transaksi:** Transaksi dilakukan dalam rentang waktu yang relatif singkat, dari 1 Agustus 2022 hingga 6 Oktober 2022, menunjukkan pola yang tidak biasa.
+5. **Penggunaan Transfer Wire:** Semua transaksi dilakukan melalui transfer wire, yang sering digunakan dalam pencucian uang karena kecepatan dan kemudahan transfer antar rekening.
+6. **Distribusi Dana:** Setelah menerima dana, Michael Walker mendistribusikan kembali uang tersebut ke berbagai akun, yang merupakan tanda klasik dari skema gather-scatter.
+
+Analisis ini menunjukkan pola yang mencurigakan dan memerlukan investigasi lebih lanjut untuk memastikan apakah ini adalah kasus pencucian uang."
+scatter-gather_1,scatter-gather,2022-08-01 05:41:00,181175554.3335213,Chandra Surya;  Krisna Wijaya;  Lukman Hakim,12,"**Scatter-gather** adalah jenis pencucian uang di mana dana besar dipecah menjadi beberapa transaksi kecil dan kemudian dikumpulkan kembali. Dalam skema ini, **Chandra Surya** mengirimkan sejumlah besar uang ke beberapa penerima, yang kemudian mengirimkan kembali uang tersebut ke **Dian Arifin** dalam jumlah yang lebih kecil.
+
+Poin-poin yang membuat skema ini mencurigakan:
+1. **Jumlah Transaksi Besar**: Chandra Surya mengirimkan total lebih dari 180 juta ke berbagai akun dalam waktu singkat.
+2. **Penerima yang Sama**: Semua penerima mengirimkan kembali uang ke satu akun, yaitu Dian Arifin.
+3. **Jumlah Kecil yang Konsisten**: Setiap penerima mengirimkan kembali uang dalam jumlah yang hampir sama, sekitar 50 ribu hingga 60 ribu.
+4. **Waktu Transaksi**: Transaksi terjadi dalam rentang waktu yang singkat, menunjukkan upaya untuk menghindari deteksi.
+5. **Banyak Entitas Terlibat**: Ada 12 entitas yang terlibat dalam skema ini, yang menunjukkan upaya untuk menyamarkan asal-usul dana.
+
+Skema ini mencurigakan karena pola transaksi yang tidak biasa dan upaya jelas untuk menyamarkan sumber dana melalui banyak akun dan transaksi kecil."

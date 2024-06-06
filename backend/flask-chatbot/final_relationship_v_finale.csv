@@ -1,0 +1,1216 @@
+Unnamed: 0,RECEIVER_ACCOUNT,SENDER_ACCOUNT,CURRENCY,TX_ID,TX_AMOUNT,TIMESTAMP,ML_ID,TX_TYPE
+0,Bang Windah Bersaudara,Aliya Zahra,IDR,0,85288343.75,2022-08-01 11:40:00,gather-scatter_1,wire
+1,Bang Windah Bersaudara,Ratna Sari,IDR,3,99744072.02,2022-08-05 13:16:00,gather-scatter_1,wire
+2,Bang Windah Bersaudara,Dinda Puspita,IDR,718,89123335.48,2022-08-07 9:23:00,gather-scatter_1,wire
+3,Bang Windah Bersaudara,Sulastri,IDR,11,96541249.38,2022-08-08 11:24:00,gather-scatter_1,wire
+4,Bang Windah Bersaudara,Dewi Lestari,IDR,0,81636241.28,2022-08-16 14:39:00,gather-scatter_1,wire
+5,Bang Windah Bersaudara,Rina Kumala,IDR,3,88330866.11,2022-08-21 0:38:00,gather-scatter_1,wire
+6,Bang Windah Bersaudara,Bunga Cempaka,IDR,1,96304539.26,2022-08-22 5:10:00,gather-scatter_1,wire
+7,Bang Windah Bersaudara,Indah Permata,IDR,21418,97231875.98,2022-09-05 5:12:00,gather-scatter_1,wire
+8,Siti Nurhaliza,Bang Windah Bersaudara,EUR,1831,50353.73875,2022-09-05 0:41:00,gather-scatter_1,wire
+9,Mutiara Hati,Bang Windah Bersaudara,IDR,1831,82304403.1,2022-09-06 2:57:00,gather-scatter_1,wire
+10,Putri Khalisha,Bang Windah Bersaudara,USD,1831,56714.89297,2022-09-09 1:11:00,gather-scatter_1,wire
+11,Tania Nadira,Bang Windah Bersaudara,IDR,1831,80089841.52,2022-09-12 13:21:00,gather-scatter_1,wire
+12,Keisha Talita,Bang Windah Bersaudara,IDR,1831,91465284.65,2022-09-14 14:52:00,gather-scatter_1,wire
+13,Cinta Laura,Bang Windah Bersaudara,IDR,1831,80896193.24,2022-09-14 16:58:00,gather-scatter_1,wire
+14,Bunga Melati,Bang Windah Bersaudara,EUR,1831,53834.30481,2022-09-16 17:21:00,gather-scatter_1,wire
+15,Rama Arjuna,Bang Windah Bersaudara,EUR,1831,53298.66867,2022-09-19 11:54:00,gather-scatter_1,wire
+16,Aliya Mustika,Bang Windah Bersaudara,USD,1831,54695.61531,2022-09-24 19:26:00,gather-scatter_1,wire
+17,Aisyah Zaskia,Bang Windah Bersaudara,CAD,1831,32000,2022-10-04 18:44:00,gather-scatter_1,wire
+18,Andreas Dwi,Boni Arfan,IDR,27,80885312.52,2022-08-01 12:46:00,fan-out_1,wire
+19,Mega Alexander,Boni Arfan,USD,27,58592.68558,2022-08-05 7:15:00,fan-out_1,wire
+20,David Gadgetin,Boni Arfan,RM,27,29000,2022-08-07 4:28:00,fan-out_1,wire
+21,Andrew Septembrianto,Boni Arfan,IDR,27,87250137.97,2022-08-09 15:01:00,fan-out_1,wire
+22,Rina Kusumah,Boni Arfan,IDR,27,88867288.18,2022-08-10 15:55:00,fan-out_1,wire
+23,Bambang Suprapto,Boni Arfan,IDR,27,92641149.99,2022-08-11 0:40:00,fan-out_1,wire
+24,Indah Sastradihardja,Boni Arfan,IDR,27,90748797.43,2022-08-11 10:16:00,fan-out_1,wire
+25,Hendra Gunawan,Boni Arfan,BRL,27,29000,2022-08-11 14:15:00,fan-out_1,wire
+26,Anita Widyasari,Boni Arfan,IDR,27,86106940.36,2022-08-12 12:09:00,fan-out_1,wire
+27,Toni Sugiarto,Boni Arfan,IDR,27,88800781.93,2022-08-18 6:25:00,fan-out_1,wire
+28,Budi Prasetyo,Boni Arfan,RM,27,29000,2022-08-24 18:35:00,fan-out_1,wire
+29,Dian Anggraini,Boni Arfan,IDR,27,89002330.73,2022-08-29 8:34:00,fan-out_1,wire
+30,Edi Kusmayadi,Boni Arfan,IDR,27,91574087.03,2022-08-30 3:34:00,fan-out_1,wire
+31,Ferdi Santoso,Boni Arfan,IDR,27,95998772.28,2022-09-02 16:12:00,fan-out_1,wire
+32,Asep Ramadhan,Budi Prasetyo,USD,6,4835.08,2022-08-01 13:52:00,cycle_1,wire
+33,Budi Setiawan,Asep Ramadhan,IDR,111554,32383.44,2022-08-20 6:59:00,cycle_1,wire
+34,Musmuliadi,Budi Setiawan,IDR,139674,355107.71,2022-08-23 19:24:00,cycle_1,wire
+35,Masa Metonia Abadi,Musmuliadi,,0,0,2000-01-01 0:00:00,cycle_1,direktur
+36,Citra Lestari,Masa Metonia Abadi,,1003,15000000,2023-05-17 11:15:00,cycle_1,trade
+37,Dewi Sartika,Citra Lestari,EUR,260994,4024.83,2022-08-24 7:07:00,cycle_1,wire
+38,Budi Prasetyo,Dewi Sartika,USD,114874,5117.5,2022-08-26 15:07:00,cycle_1,wire
+39,Ayu Lestari,Budi Prasetyo,IDR,112010,375849.41,2022-09-03 16:42:00,cycle_1,wire
+40,Ani Susanti,Indra Wijaya,USD,21,56787.43011,2022-08-01 13:24:00,fan-out_2,wire
+41,Bayu Pranata,Indra Wijaya,EUR,21,52358.85796,2022-08-01 15:06:00,fan-out_2,wire
+42,Citra Dewi,Indra Wijaya,EUR,21,53532.02146,2022-08-01 16:37:00,fan-out_2,wire
+43,Doni Nugroho,Indra Wijaya,EUR,21,57711.0717,2022-08-02 0:13:00,fan-out_2,wire
+44,Eka Saputra,Indra Wijaya,USD,21,56678.36522,2022-08-03 16:59:00,fan-out_2,wire
+45,Fahmi Hidayat,Indra Wijaya,USD,21,55426.20911,2022-08-05 9:48:00,fan-out_2,wire
+46,Galih Pratama,Indra Wijaya,USD,21,54341.97164,2022-08-08 16:45:00,fan-out_2,wire
+47,Hani Kusuma,Indra Wijaya,EUR,21,57344.91692,2022-08-12 21:59:00,fan-out_2,wire
+48,Iwan Setiawan,Indra Wijaya,USD,21,56920.30881,2022-08-17 15:45:00,fan-out_2,wire
+49,Joko Susilo,Indra Wijaya,EUR,21,50578.67887,2022-08-21 7:03:00,fan-out_2,wire
+50,Kiki Andriani,Indra Wijaya,EUR,21,52294.28305,2022-08-24 15:21:00,fan-out_2,wire
+51,Lina Marlina,Indra Wijaya,IDR,21,83740912.42,2022-08-31 11:23:00,fan-out_2,wire
+52,Yusuf Arifin,Zainal Abidin,IDR,4687,99743996.48,2022-08-01 13:07:00,gather-scatter_2,wire
+53,Yusuf Arifin,Dewi Anggraini,IDR,2416,91130131.26,2022-08-02 13:15:00,gather-scatter_2,wire
+54,Yusuf Arifin,Feri Widodo,IDR,16327,90581181.95,2022-08-02 13:43:00,gather-scatter_2,wire
+55,Yusuf Arifin,Gilang Saputra,IDR,14,84794483.23,2022-08-06 21:39:00,gather-scatter_2,wire
+56,Yusuf Arifin,Hana Rahayu,IDR,1512,90256959.63,2022-08-07 16:18:00,gather-scatter_2,wire
+57,Yusuf Arifin,Indah Pratiwi,IDR,211621,96892044.02,2022-08-21 18:00:00,gather-scatter_2,wire
+58,Yusuf Arifin,Joko Prasetyo,IDR,25,86542771.13,2022-08-23 16:32:00,gather-scatter_2,wire
+59,Yusuf Arifin,Kiki Amalia,IDR,220,82395260.55,2022-08-26 0:20:00,gather-scatter_2,wire
+60,Yusuf Arifin,Lina Suryani,IDR,4292,90474203.03,2022-08-27 11:26:00,gather-scatter_2,wire
+61,Yusuf Arifin,Mira Andriani,IDR,26967,81573062.37,2022-08-27 21:02:00,gather-scatter_2,wire
+62,Yusuf Arifin,Nina Kurnia,IDR,357,80723275.84,2022-09-03 5:18:00,gather-scatter_2,wire
+63,Rina Suryani,Yusuf Arifin,USD,14902,51409.13491,2022-09-03 15:36:00,gather-scatter_2,wire
+64,Sinta Kurnia,Yusuf Arifin,USD,14902,52260.05253,2022-09-07 12:53:00,gather-scatter_2,wire
+65,Tina Marlina,Yusuf Arifin,EUR,14902,58883.01756,2022-09-15 3:15:00,gather-scatter_2,wire
+66,Udin Surya,Yusuf Arifin,USD,14902,55619.33696,2022-09-15 19:49:00,gather-scatter_2,wire
+67,Vita Dewi,Yusuf Arifin,EUR,14902,54907.3341,2022-09-16 18:01:00,gather-scatter_2,wire
+68,Wahyu Prasetya,Yusuf Arifin,EUR,14902,54830.64682,2022-09-19 7:12:00,gather-scatter_2,wire
+69,Xena Ardi,Yusuf Arifin,USD,14902,56251.77126,2022-09-20 11:34:00,gather-scatter_2,wire
+70,Yudi Santoso,Yusuf Arifin,USD,14902,59740.17572,2022-09-26 20:39:00,gather-scatter_2,wire
+71,Zara Wijaya,Yusuf Arifin,USD,14902,53599.937,2022-09-28 4:10:00,gather-scatter_2,wire
+72,Asep Ramadhan,Yusuf Arifin,EUR,14902,54181.20055,2022-09-28 17:53:00,gather-scatter_2,wire
+73,Budi Sudirman,Yusuf Arifin,IDR,14902,91742933.99,2022-10-01 4:48:00,gather-scatter_2,wire
+74,Citra Dewi,Yusuf Arifin,USD,14902,53441.16489,2022-10-02 16:33:00,gather-scatter_2,wire
+75,Doni Nugroho,Yusuf Arifin,EUR,14902,52731.53096,2022-10-03 16:00:00,gather-scatter_2,wire
+76,Eka Saputra,Yusuf Arifin,EUR,14902,58586.4478,2022-10-05 16:26:00,gather-scatter_2,wire
+77,Adi Sutarya,Bayu Firmansyah,USD,234525,8240.65,2022-08-01 10:20:00,cycle_8,wire
+78,Cici Kartika,Adi Sutarya,RM,82734,1050.01,2022-08-02 20:00:00,cycle_8,wire
+79,Dadan Saputra,Cici Kartika,JPY,281507,95729.2,2022-08-03 3:47:00,cycle_8,wire
+80,Euis Sulastri,Dadan Saputra,IDR,223529,1230.39,2022-08-09 10:46:00,cycle_8,wire
+81,Fajar Supriatna,Euis Sulastri,RM,1,1199.77,2022-08-11 15:59:00,cycle_8,wire
+82,Gina Nurdiana,Fajar Supriatna,IDR,152330,1405.88,2022-08-18 13:06:00,cycle_8,wire
+83,Hendi Kurnia,Gina Nurdiana,RM,226788,1199.77,2022-08-21 13:56:00,cycle_8,wire
+84,Liris Enggar Wardhani,Hendi Kurnia,IDR,226788,1199.77,2022-08-21 13:56:00,cycle_8,wire
+85,Linggar Jati Perkasa,Liris Enggar Wardhani,,0,0,2000-01-01 0:00:00,cycle_8,komisaris
+86,Hendi Kurnia,Linggar Jati Perkasa,IDR,7030,1495.88,2022-08-23 15:03:00,cycle_8,vendor
+87,Iis Rohendi,Hendi Kurnia,IDR,7030,1405.88,2022-08-23 15:03:00,cycle_8,wire
+88,Jajang Wahyudi,Iis Rohendi,RM,1442,1341.38,2022-08-29 8:13:00,cycle_8,wire
+89,Kiki Sumirat,Jajang Wahyudi,USD,234466,10672.9,2022-08-29 15:48:00,cycle_8,wire
+90,Bayu Firmansyah,Kiki Sumirat,IDR,115813,1579.94,2022-08-29 17:54:00,cycle_8,wire
+0,Alice Johnson,Bob Smith,RM,250403,557.99,2022-08-01 14:49:00,cycle_2,wire
+1,Carol Brown,Alice Johnson,RM,50251,585.12,2022-08-03 15:55:00,cycle_2,wire
+2,Dave Wilson,Carol Brown,IDR,31224,685.64,2022-08-05 8:56:00,cycle_2,wire
+3,Eve Davis,Dave Wilson,IDR,40363,667.32,2022-08-07 9:22:00,cycle_2,wire
+4,Frank Miller,Eve Davis,IDR,29977,705.42,2022-08-08 16:04:00,cycle_2,wire
+5,Grace Taylor,Frank Miller,IDR,276490,705.42,2022-08-11 13:46:00,cycle_2,wire
+6,Heidi Anderson,Grace Taylor,USD,27512,4590.34,2022-08-12 0:44:00,cycle_2,wire
+7,Ivan Thomas,Heidi Anderson,IDR,132268,672.34,2022-08-13 11:56:00,cycle_2,wire
+8,Judy Harris,Ivan Thomas,RM,120788,546.13,2022-08-24 12:01:00,cycle_2,wire
+9,Bob Smith,Judy Harris,SGD,214872,61138.22,2022-09-02 2:57:00,cycle_2,wire
+10,Mallory Martin,Oscar White,IDR,83840,1587.15,2022-08-01 14:55:00,cycle_3,wire
+11,Oscar White,Mallory Martin,IDR,256086,1642.77,2022-08-05 0:27:00,cycle_3,wire
+12,Trent Moore,Oscar White,IDR,9238,1684,2022-08-11 8:17:00,cycle_3,wire
+13,Oscar White,Trent Moore,IDR,20937,1527.5,2022-09-01 16:46:00,cycle_3,wire
+14,Victor King,37048,RM,22184,29000,2022-08-01 14:46:00,fan-out_3,wire
+15,Walter Scott,Victor King,IDR,122407,85912813.79,2022-08-06 12:08:00,fan-out_3,wire
+16,Xander Young,Victor King,IDR,15398,80557193.96,2022-08-11 21:23:00,fan-out_3,wire
+17,Yvonne Hall,Victor King,USD,4252,51437.75514,2022-08-14 16:10:00,fan-out_3,wire
+18,Zach Lee,Victor King,RM,1512,29000,2022-08-18 12:06:00,fan-out_3,wire
+19,Quinn Perez,Victor King,IDR,8917,92225586,2022-08-20 11:14:00,fan-out_3,wire
+20,Ralph Brown,Victor King,SGD,50719,57297.32255,2022-08-22 12:44:00,fan-out_3,wire
+21,Steve Clark,Victor King,IDR,5610,97462899.09,2022-08-24 9:28:00,fan-out_3,wire
+22,Tiffany Adams,Victor King,IDR,60001,89226643.5,2022-08-31 11:04:00,fan-out_3,wire
+23,Uma Turner,Victor King,RM,13305,29000,2022-09-02 18:55:00,fan-out_3,wire
+24,Vivian Cooper,Victor King,RM,3806,29000,2022-09-04 12:20:00,fan-out_3,wire
+25,John Doe,Jane Smith,USD,36925,132713.46,2022-08-01 0:19:00,cycle_4,wire
+26,Mark Brown,John Doe,IDR,119211,18264.2,2022-08-01 13:05:00,cycle_4,wire
+27,Sarah Davis,Mark Brown,RM,132965,14567.69,2022-08-03 13:28:00,cycle_4,wire
+28,Paul Johnson,Sarah Davis,USD,137089,114329.26,2022-08-09 2:32:00,cycle_4,wire
+29,Anna White,Paul Johnson,RM,216618,14567.69,2022-08-11 7:16:00,cycle_4,wire
+30,Peter Clark,Anna White,RM,24083,13629.75,2022-08-13 5:09:00,cycle_4,wire
+31,Laura Lewis,Peter Clark,USD,38110,97481.96,2022-08-15 18:04:00,cycle_4,wire
+32,James Martinez,Laura Lewis,IDR,225015,14054.71,2022-08-20 8:57:00,cycle_4,wire
+33,David Rodriguez,James Martinez,IDR,18112,13718.22,2022-08-22 12:08:00,cycle_4,wire
+34,Jessica Anderson,David Rodriguez,IDR,7818,12908.33,2022-08-22 19:53:00,cycle_4,wire
+35,Daniel Thompson,Jessica Anderson,RM,121523,10636.75,2022-08-27 7:10:00,cycle_4,wire
+36,John Doe,Daniel Thompson,SGD,134266,1378736.88,2022-08-30 11:54:00,cycle_4,wire
+37,Olivia Harris,Olivia Green,JPY,266946,750000,2022-08-01 0:08:00,fan-in_1,wire
+38,Olivia Harris,Olivia Baker,JPY,266946,750000,2022-08-03 5:11:00,fan-in_1,wire
+39,Olivia Harris,Olivia Carter,JPY,266946,750000,2022-08-05 17:35:00,fan-in_1,wire
+40,Olivia Harris,Olivia Wright,JPY,266946,750000,2022-08-09 2:58:00,fan-in_1,wire
+41,Olivia Harris,Olivia Hill,JPY,266946,750000,2022-08-10 16:00:00,fan-in_1,wire
+42,Olivia Harris,Olivia Scott,JPY,266946,750000,2022-08-13 9:37:00,fan-in_1,wire
+43,Olivia Harris,Olivia Nelson,JPY,266946,750000,2022-08-19 17:43:00,fan-in_1,wire
+44,Olivia Harris,Olivia Adams,JPY,266946,750000,2022-08-30 3:09:00,fan-in_1,wire
+45,Olivia Harris,Olivia Clark,JPY,266946,750000,2022-09-04 12:09:00,fan-in_1,wire
+46,Michael Walker,Andrew Parker,RM,214872,29000,2022-08-01 0:10:00,gather-scatter_3,wire
+47,Michael Walker,Emily Harris,RM,214872,29000,2022-08-01 9:21:00,gather-scatter_3,wire
+48,Michael Walker,Kevin Allen,RM,214872,29000,2022-08-06 1:57:00,gather-scatter_3,wire
+49,Michael Walker,Laura Young,RM,214872,29000,2022-08-20 7:19:00,gather-scatter_3,wire
+50,Michael Walker,Richard Baker,RM,214872,29000,2022-08-20 16:11:00,gather-scatter_3,wire
+51,Michael Walker,Patricia Lee,RM,214872,29000,2022-08-29 16:22:00,gather-scatter_3,wire
+52,Michael Walker,Timothy King,RM,214872,29000,2022-09-02 7:22:00,gather-scatter_3,wire
+53,Michael Walker,Angela Scott,RM,214872,29000,2022-09-03 10:20:00,gather-scatter_3,wire
+54,Henry Young,Michael Walker,IDR,12582,98281551.73,2022-09-03 14:58:00,gather-scatter_3,wire
+55,Emily Allen,Michael Walker,IDR,131185,87096710.41,2022-09-05 5:20:00,gather-scatter_3,wire
+56,George King,Michael Walker,IDR,24750,95781236.93,2022-09-05 15:33:00,gather-scatter_3,wire
+57,Samantha Wright,Michael Walker,IDR,252970,80642193.15,2022-09-08 15:14:00,gather-scatter_3,wire
+58,Grace Turner,Michael Walker,USD,18184,58468.03411,2022-09-12 11:49:00,gather-scatter_3,wire
+59,Elizabeth Johnson,Michael Walker,IDR,42957,82267994.2,2022-09-15 14:13:00,gather-scatter_3,wire
+60,Christopher Harris,Michael Walker,RM,14639,29000,2022-09-18 1:51:00,gather-scatter_3,wire
+61,Matthew Clark,Michael Walker,IDR,24528,85713736.01,2022-09-19 16:40:00,gather-scatter_3,wire
+62,Patricia Martinez,Michael Walker,CNY,295119,750000,2022-09-21 13:43:00,gather-scatter_3,wire
+63,Joshua Lopez,Michael Walker,IDR,24833,91793150.83,2022-09-21 16:16:00,gather-scatter_3,wire
+64,Sophia Robinson,Michael Walker,IDR,110200,89362883.26,2022-09-23 5:15:00,gather-scatter_3,wire
+65,Anthony Clark,Michael Walker,RM,249712,29000,2022-09-26 15:04:00,gather-scatter_3,wire
+66,Isabella Lewis,Michael Walker,IDR,23608,96653383.01,2022-10-03 16:39:00,gather-scatter_3,wire
+67,Charles Lee,Michael Walker,RM,235362,29000,2022-10-04 3:14:00,gather-scatter_3,wire
+68,Megan Harris,Michael Walker,IDR,25222,80990726.19,2022-10-06 18:35:00,gather-scatter_3,wire
+69,Benjamin Hall,Michael Walker,IDR,15027,99835674.7,2022-10-06 22:33:00,gather-scatter_3,wire
+70,Ahmad Sutrisno,Budi Santoso,RM,19876,15030.85,2022-08-01 2:58:00,cycle_6,wire
+71,Dewi Andayani,Ahmad Sutrisno,RM,24168,15030.85,2022-08-02 17:54:00,cycle_6,wire
+72,Eka Purnama,Dewi Andayani,IDR,8917,17529.17,2022-08-05 2:24:00,cycle_6,wire
+73,Fajar Wibowo,Eka Purnama,IDR,256525,17523.41,2022-08-06 15:36:00,cycle_6,wire
+74,Gita Lestari,Fajar Wibowo,IDR,11848,16211.36,2022-08-08 11:46:00,cycle_6,wire
+75,Hari Nugroho,Gita Lestari,IDR,9238,17278.94,2022-08-20 11:01:00,cycle_6,wire
+76,Indah Rahayu,Hari Nugroho,USD,139674,115727.45,2022-08-25 13:04:00,cycle_6,wire
+77,Joko Prasetyo,Indah Rahayu,IDR,110859,15740.34,2022-08-28 16:45:00,cycle_6,wire
+78,Ahmad Sutrisno,Joko Prasetyo,IDR,13676,15980.75,2022-09-02 8:57:00,cycle_6,wire
+79,Bayu Kurnia,Chandra Surya,IDR,23435,87222358.69,2022-08-01 5:41:00,scatter-gather_1,wire
+80,Dian Arifin,Bayu Kurnia,USD,117909,59430.42873,2022-08-19 18:03:00,scatter-gather_1,wire
+81,Elang Wijaya,Chandra Surya,USD,35862,51159.50173,2022-08-02 13:14:00,scatter-gather_1,wire
+82,Dian Arifin,Elang Wijaya,USD,117909,52788.36869,2022-08-25 6:41:00,scatter-gather_1,wire
+83,Feni Rahman,Chandra Surya,RM,17291,29000,2022-08-03 12:42:00,scatter-gather_1,wire
+84,Dian Arifin,Feni Rahman,USD,117909,59963.1509,2022-08-28 9:27:00,scatter-gather_1,wire
+85,Gilang Saputra,Chandra Surya,RM,2044,29000,2022-08-05 18:24:00,scatter-gather_1,wire
+86,Dian Arifin,Gilang Saputra,USD,117909,52828.85583,2022-08-28 14:20:00,scatter-gather_1,wire
+87,Hendro Setiawan,Chandra Surya,RM,16902,29000,2022-08-10 4:05:00,scatter-gather_1,wire
+88,Dian Arifin,Hendro Setiawan,USD,117909,59322.39417,2022-08-29 8:48:00,scatter-gather_1,wire
+89,Ika Permata,Chandra Surya,RM,27656,29000,2022-08-10 9:39:00,scatter-gather_1,wire
+90,Dian Arifin,Ika Permata,USD,117909,59997.88707,2022-09-01 9:10:00,scatter-gather_1,wire
+91,Jaya Mahendra,Chandra Surya,IDR,29556,87019913.88,2022-08-12 12:16:00,scatter-gather_1,wire
+92,Dian Arifin,Jaya Mahendra,USD,117909,57722.33971,2022-09-01 19:22:00,scatter-gather_1,wire
+93,Krisna Wijaya,Chandra Surya,IDR,239258,93824386.06,2022-08-13 3:52:00,scatter-gather_1,wire
+94,Dian Arifin,Krisna Wijaya,USD,117909,56475.53571,2022-09-03 16:56:00,scatter-gather_1,wire
+95,Lukman Hakim,Chandra Surya,IDR,135332,93524196.97,2022-08-17 6:07:00,scatter-gather_1,wire
+96,Dian Arifin,Lukman Hakim,USD,117909,51800.30489,2022-09-04 5:56:00,scatter-gather_1,wire
+97,Maya Sari,Chandra Surya,RM,22483,29000,2022-08-18 5:50:00,scatter-gather_1,wire
+98,Dian Arifin,Maya Sari,USD,117909,53764.29484,2022-09-04 19:51:00,scatter-gather_1,wire
+99,Nina Ayu,Siti Nurjanah,RM,12866,6969.27,2022-08-01 7:35:00,cycle_7,wire
+100,Tri Haryanto,Nina Ayu,IDR,164686,8798.1,2022-08-05 13:55:00,cycle_7,wire
+101,Utari Puspita,Tri Haryanto,IDR,213868,9074.27,2022-08-06 6:38:00,cycle_7,wire
+102,Vera Melati,Utari Puspita,USD,162967,60433.11,2022-08-08 12:51:00,cycle_7,wire
+103,Wawan Firmansyah,Vera Melati,GBP,18,7004.25,2022-08-15 8:50:00,cycle_7,wire
+104,Yani Wulandari,Wawan Firmansyah,RM,211768,7088.05,2022-08-16 16:27:00,cycle_7,wire
+105,Zainal Arifin,Yani Wulandari,USD,127838,55627.99,2022-08-21 18:21:00,cycle_7,wire
+106,Arif Rahman,Zainal Arifin,RM,1213,7088.05,2022-08-22 13:45:00,cycle_7,wire
+107,Bambang Suharto,Arif Rahman,IDR,215070,7714.33,2022-08-25 10:04:00,cycle_7,wire
+108,Citra Nuraini,Bambang Suharto,RM,3806,6554.56,2022-08-29 16:12:00,cycle_7,wire
+109,Doni Hidayat,Citra Nuraini,IDR,171860,7239.53,2022-08-30 12:16:00,cycle_7,wire
+110,Siti Nurjanah,Doni Hidayat,IDR,82745,7574.53,2022-09-01 13:47:00,cycle_7,wire
+111,Lilis Sukmawati,Asep Wahyu,IDR,20,89828097.65,2022-08-01 11:01:00,fan-out_5,wire
+112,Mamat Permana,Asep Wahyu,GBP,6,6592.91,2022-08-01 11:34:00,fan-out_5,wire
+113,Nani Cahyani,Asep Wahyu,IDR,5838,87600784.19,2022-08-04 12:40:00,fan-out_5,wire
+114,Ono Iskandar,Asep Wahyu,RM,28174,29000,2022-08-18 4:56:00,fan-out_5,wire
+115,Pipit Wulandari,Asep Wahyu,RM,210278,29000,2022-08-19 11:50:00,fan-out_5,wire
+116,Qori Apriyani,Asep Wahyu,RM,12,29000,2022-08-20 12:18:00,fan-out_5,wire
+117,Roni Sudirman,Asep Wahyu,IDR,9888,84436765.61,2022-08-21 3:48:00,fan-out_5,wire
+118,Susi Hartini,Asep Wahyu,IDR,213723,80018063.93,2022-08-27 8:57:00,fan-out_5,wire
+119,Tatang Supardi,Asep Wahyu,RM,2035,29000,2022-08-27 15:04:00,fan-out_5,wire
+120,Ujang Suryana,Asep Wahyu,IDR,13514,95655820.92,2022-08-28 10:06:00,fan-out_5,wire
+121,Vivi Setiawati,Asep Wahyu,USD,43948,59320.56911,2022-08-28 17:23:00,fan-out_5,wire
+122,Wawan Sopian,Asep Wahyu,RM,11469,29000,2022-09-04 9:39:00,fan-out_5,wire
+123,Xeni Sukri,Asep Wahyu,IDR,10057,85713433.15,2022-09-04 16:29:00,fan-out_5,wire
+124,Edward Morrison,John Lowery,IDR,0,2549.61,2022-09-02 15:21:00,,cheque
+125,Danielle Mcbride,Angela Miller,INR,1,2159711.37,2022-09-01 18:16:00,,cheque
+126,Hunter Robinson,Michelle Holmes,BRL,2,246088.7,2022-09-02 14:22:00,,cheque
+127,Jessica Rodriguez,Joshua Best,AUD,3,124.25,2022-09-09 15:13:00,,cheque
+128,Jenna Ryan,Jenna Ryan,IDR,4,13.72,2022-09-01 0:12:00,,reinvestment
+129,Tracy Jones,Megan Welch,IDR,5,2408390.04,2022-09-02 4:16:00,,cheque
+130,Darlene Goodwin,Jennifer Clay,ILS,6,75686.71,2022-09-02 23:34:00,,cheque
+131,Ronald Lewis,Daniel Nelson,IDR,7,32003.16,2022-09-07 22:30:00,,wire
+132,Jennifer Hanson,Ashley Baxter,CAD,8,130.69,2022-09-05 21:28:00,,wire
+133,Hector Ponce,Lisa Benson,IDR,9,702.01,2022-09-08 11:02:00,,credit card
+134,Ashley Gonzales,Scott Brown,USD,10,13203.35,2022-09-07 11:46:00,,cheque
+135,Brenda Rosales,Amy Figueroa,INR,11,955581.87,2022-09-01 5:09:00,,wire
+136,Steven Sosa,Crystal Briggs,IDR,12,126917.24,2022-09-09 16:22:00,,cheque
+137,Denise David,Kevin Robinson,IDR,13,174.89,2022-09-02 10:08:00,,credit card
+138,Madison Newman,April Flores,INR,14,6243.24,2022-09-07 10:06:00,,wire
+139,Brian Murray,Brian Murray,USD,15,10994.13,2022-09-01 20:49:00,,reinvestment
+140,Eric Hancock,Tracy Bell,USD,16,711.97,2022-09-08 21:20:00,,cheque
+141,Jill Parsons,Alan Mata,IDR,17,918.55,2022-09-04 19:48:00,,cheque
+142,Jacqueline James,Ashley Thompson,IDR,18,118.2,2022-09-09 11:49:00,,cheque
+143,Mario Rogers,Jon Johnson,BTC,19,0.391101,2022-09-02 22:04:00,,bitcoin
+144,Dr. Tyler Cooley,Damon Hernandez,IDR,20,705.07,2022-09-10 3:29:00,,cheque
+145,Stephanie Powell DVM,Jacqueline Rodriguez,CNY,21,882.5,2022-09-08 2:31:00,,cash
+146,Kelly Goodman,Crystal Smith,BTC,22,0.005974,2022-09-08 4:14:00,,bitcoin
+147,Kristin Miller DVM,Kristin Miller DVM,IDR,23,403561.51,2022-09-01 0:14:00,,reinvestment
+148,Susan Le,Sandra Snyder,BRL,24,943.96,2022-09-05 7:17:00,,credit card
+149,Arthur Jackson,Alan Mata,IDR,25,3572.53,2022-09-06 22:48:00,,cheque
+150,James Gray,Pamela Doyle,USD,26,3298.34,2022-09-01 0:22:00,,cheque
+151,Jacqueline Lloyd,Veronica Manning,RUB,27,30265983.99,2022-09-01 5:33:00,,wire
+152,Whitney Torres,Dakota Reyes,INR,28,4451.71,2022-09-06 17:29:00,,cheque
+153,Shannon Bowers,Zachary Jones,USD,29,22816.86,2022-09-01 15:19:00,,credit card
+154,Paul Becker,Devin Jones,USD,30,1624.19,2022-09-04 14:33:00,,credit card
+155,Mary Myers,Kayla Hawkins,SAR,31,7571.6,2022-09-08 18:48:00,,cheque
+156,Andrew Hall,Mrs. Tamara Tran,IDR,32,20863.71,2022-09-02 7:50:00,,credit card
+157,Christopher Perez,Dan Hall,USD,33,149.07,2022-09-09 23:16:00,,cash
+158,Erin Woodward,Jacob Sellers,IDR,34,154.18,2022-09-06 18:55:00,,cheque
+159,Anthony Robbins,Bethany Johnson,CAD,35,233.56,2022-09-02 6:40:00,,cheque
+160,William Dyer,Bradley Taylor,GBP,36,118028.79,2022-09-08 1:47:00,,cheque
+161,Derrick Webb,Toni Neal,IDR,37,355.63,2022-09-02 3:55:00,,credit card
+162,William Barron,Thomas Smith,BTC,38,5.367813,2022-09-09 20:44:00,,bitcoin
+163,Sharon Hanson,Sara Robles,IDR,39,7051,2022-09-02 10:03:00,,credit card
+164,Allen Valdez,Shane Cook,SAR,40,677.45,2022-09-07 11:44:00,,credit card
+165,Joanna Rice,Alan Mata,IDR,41,710.15,2022-09-06 13:09:00,,cash
+166,Angela Evans DVM,Ryan Jordan,ILS,42,204.21,2022-09-02 19:03:00,,cash
+167,Amy Mays,Jennifer Daugherty,IDR,43,1700.48,2022-09-02 18:15:00,,cheque
+168,Jordan Guerrero,Kimberly Wilson,CHF,44,21958.87,2022-09-01 7:40:00,,cheque
+169,Nicole Ruiz,April Anderson DDS,IDR,45,180.25,2022-09-08 1:25:00,,cheque
+170,Jack Valentine,Jack Valentine,CNY,46,41420.46,2022-09-02 23:54:00,,wire
+171,Ann Flores,Christopher Suarez,IDR,47,172.94,2022-09-02 10:06:00,,cash
+172,David Zuniga,Lisa Chambers,BRL,48,35892.53,2022-09-02 0:04:00,,wire
+173,Terry Mckay,Terry Mckay,USD,49,116542.12,2022-09-01 3:08:00,,reinvestment
+174,James Sims,Misty Lamb,IDR,50,48.16,2022-09-05 0:17:00,,credit card
+175,Stephanie Mccann,Peter Webb,USD,51,31.32,2022-09-04 9:14:00,,cheque
+176,Marvin Rodriguez,Carrie Anderson,CNY,52,68595.42,2022-09-10 3:13:00,,credit card
+177,Mrs. Crystal Wilson,Katie Smith,USD,53,438.21,2022-09-10 22:07:00,,cash
+178,Nicholas Baker,Steven Mercado,IDR,54,1937.62,2022-09-01 0:12:00,,wire
+179,Anthony Stanley,Andrew Thompson,MXN,55,239.42,2022-09-10 15:22:00,,cheque
+180,Kathleen Curry,Anita Ruiz,IDR,56,4894.35,2022-09-07 9:12:00,,wire
+181,Joseph Jackson,Eric Rice,IDR,57,20.99,2022-09-08 23:22:00,,wire
+182,Sean Jordan,Hannah George,BTC,58,0.008702,2022-09-06 9:59:00,,bitcoin
+183,Jason Ward,Jason Ward,INR,59,13757660.8,2022-09-01 0:10:00,,reinvestment
+184,Meredith Rice,Meredith Rice,INR,60,1516506.97,2022-09-01 0:15:00,,reinvestment
+185,Katherine Thomas,Zachary Moore,SAR,61,24698.61,2022-09-09 12:49:00,,cheque
+186,Joshua Jones,Alan Mata,IDR,62,1931.52,2022-09-04 4:09:00,,credit card
+187,Mike Atkinson,Mike Atkinson,IDR,63,8.98,2022-09-01 2:43:00,,reinvestment
+188,Helen Richards,Jessica Jimenez DVM,IDR,64,660.59,2022-09-09 13:25:00,,credit card
+189,William Lester,Steven Barnes,USD,65,148.17,2022-09-05 21:06:00,,credit card
+190,Michael Bailey,Edward Newton,USD,66,868.89,2022-09-04 1:05:00,,cheque
+191,Dennis Walker,Donald Webb,IDR,67,6445.61,2022-09-06 6:02:00,,cheque
+192,Jennifer Edwards,Brian Lewis,IDR,68,150.87,2022-09-01 17:59:00,,credit card
+193,Emily Cole,Stanley Stephens,IDR,69,340.33,2022-09-09 2:47:00,,cheque
+194,Amy Brooks,Anne Kelly,IDR,70,152.24,2022-09-09 7:05:00,,wire
+195,Jacqueline Harris,Chad Davis,JPY,71,13404439.67,2022-09-08 1:35:00,,wire
+196,Maria Carter,Sean Lee,JPY,72,2627935.39,2022-09-02 21:02:00,,credit card
+197,Gregg Bryan,Diane Cunningham,IDR,73,851.52,2022-09-06 2:04:00,,credit card
+198,Ashley Rodriguez,Stephanie Andrews,USD,74,126.33,2022-09-02 9:19:00,,cheque
+199,Sherry Wagner,Matthew Cross,SAR,75,14353.04,2022-09-02 11:10:00,,credit card
+200,Mario Martin,Frederick Mclaughlin,USD,76,972.33,2022-09-08 5:52:00,,cheque
+201,Karen Cruz,Jill Wagner,IDR,77,3169.47,2022-09-03 12:01:00,,cheque
+202,Brenda Perry,Brenda Perry,IDR,78,29.04,2022-09-01 20:24:00,,reinvestment
+203,Amy Walker,Blake Arroyo,USD,79,11823.47,2022-09-08 17:26:00,,cheque
+204,Spencer Ryan,Joshua Williams,IDR,80,6831.01,2022-09-08 22:51:00,,credit card
+205,Jason Hubbard,Laurie Morris MD,USD,81,501.16,2022-09-09 20:18:00,,cheque
+206,Isaiah Small,Paul Perez,USD,82,81.35,2022-09-02 3:13:00,,wire
+207,Paul Evans DDS,Paul Evans DDS,SAR,83,46.23,2022-09-01 0:12:00,,reinvestment
+208,Krystal Nelson,Joseph Montoya,BTC,84,29.128014,2022-09-08 19:49:00,,bitcoin
+209,Michael Moore,Julie Forbes,BTC,85,2.00E-06,2022-09-07 6:48:00,,bitcoin
+210,Raymond Choi,Dr. Paul Lane,USD,86,286.17,2022-09-04 12:42:00,,cheque
+211,Samuel Smith,Kevin Stark MD,ILS,87,75.92,2022-09-05 0:06:00,,credit card
+212,Alex Howard,Kristy Gonzalez,BTC,88,0.143786,2022-09-09 21:13:00,,bitcoin
+213,Carol Williams MD,Robin Gilbert,SAR,89,34.47,2022-09-10 15:53:00,,credit card
+214,Amanda Peterson,Monica Keller,IDR,90,526778.41,2022-09-08 0:08:00,,cash
+215,Ryan Martin,Steven Winters,IDR,91,8515.53,2022-09-01 4:36:00,,wire
+216,Vanessa Coleman,Samantha Walton,IDR,92,4266.38,2022-09-07 14:46:00,,cheque
+217,Jenna Chang,Amanda Blevins,USD,93,616.74,2022-09-02 8:12:00,,cheque
+218,Tyler Ellis,Vanessa Carpenter,IDR,94,2828958.59,2022-09-07 23:28:00,,wire
+219,Nancy Spence,Jennifer Scott,USD,95,146297.85,2022-09-02 16:28:00,,cheque
+220,Darrell Cummings,Jeremy Ross,ILS,96,44058.4,2022-09-05 2:04:00,,cash
+221,Randy Gray,Brandi Colon,AUD,97,548.04,2022-09-05 7:19:00,,cash
+222,Michael Briggs,John Torres,INR,98,17832.1,2022-09-08 7:09:00,,credit card
+223,Laura Anderson,Laura Anderson,AUD,99,78150.06,2022-09-01 13:39:00,,reinvestment
+224,Jeffrey Harris DDS,Tony Green,IDR,100,1090.24,2022-09-07 8:43:00,,wire
+225,Taylor Krueger,Jimmy Curry,USD,101,20.66,2022-09-02 0:57:00,,wire
+226,William Bird,Jeffrey West,IDR,102,12417.84,2022-09-06 3:24:00,,wire
+227,Melody Perez,Heather Edwards,INR,103,56740.41,2022-09-06 1:22:00,,cheque
+228,Gary Alvarez,Carol James,USD,104,53.48,2022-09-04 5:38:00,,wire
+229,Alexandra Newman,Andrew Glover,IDR,105,52.05,2022-09-02 0:03:00,,credit card
+230,Terri Morris,Jerry Weiss,USD,106,98.85,2022-09-06 8:28:00,,cheque
+231,Courtney Hill,Michael Thomas,CNY,107,6026.04,2022-09-07 3:50:00,,credit card
+232,Gina Walter,Erica Martinez,CNY,108,3839.98,2022-09-10 4:51:00,,credit card
+233,Jacqueline Shah,Alan Mata,IDR,109,1373.91,2022-09-03 18:01:00,,cash
+234,Carol Murray,Bill Garcia,BTC,110,0.02811,2022-09-09 13:07:00,,bitcoin
+235,Matthew Mcclure,Kari Bullock,MXN,111,1543.76,2022-09-10 15:18:00,,credit card
+236,Daniel Middleton,Daniel Middleton,CNY,112,5313078.21,2022-09-01 22:49:00,,reinvestment
+237,Jacqueline Fisher,Carl Griffin,CAD,113,1704.21,2022-09-10 17:44:00,,cheque
+238,John Mccarthy,William Monroe,IDR,114,575.48,2022-09-02 5:49:00,,cash
+239,Laurie Mora,Michelle Jacobson,IDR,115,1132.92,2022-09-09 17:38:00,,credit card
+240,Michael Rowland,Michael Rowland,USD,116,6202.59,2022-09-01 0:15:00,,reinvestment
+241,Christopher Kelly,Eric Hoffman,AUD,117,212.83,2022-09-09 2:42:00,,cheque
+242,Gerald Chung,Nicholas Stanley,USD,118,6.19,2022-09-10 0:26:00,,credit card
+243,Wayne Leonard,David Campbell,JPY,119,41137.75,2022-09-06 14:15:00,,cheque
+244,Maria Adams,Alisha Kirby,CNY,120,8522.97,2022-09-09 1:26:00,,credit card
+245,Ryan Villegas,Lisa Parker,CNY,121,6831.45,2022-09-03 4:33:00,,cheque
+246,Luis Guerrero,Kimberly Bailey,IDR,122,11013187.25,2022-09-05 21:12:00,,cheque
+247,Joe Harris,Tracy Bell,USD,123,7087.22,2022-09-02 11:51:00,,cash
+248,Brandon Jackson,Sheryl Reed,IDR,124,4932.13,2022-09-10 9:05:00,,cheque
+249,Richard Guzman,Nicole Fisher,IDR,125,222.72,2022-09-06 21:14:00,,wire
+250,Joanna Rhodes,John Gilbert,IDR,126,871.41,2022-09-09 11:59:00,,cheque
+251,Margaret Davis,Brandi Colon,AUD,127,1306.36,2022-09-09 14:10:00,,cheque
+252,Ashley Snyder,Susan Hartman,INR,128,2627195.4,2022-09-06 15:58:00,,cash
+253,Brendan Rice,Brendan Rice,CNY,129,62.9,2022-09-01 3:58:00,,reinvestment
+254,Justin Wolf,Alan Mata,IDR,130,2504.48,2022-09-07 18:30:00,,cheque
+255,Tiffany Martinez,Jessica Hernandez,CNY,131,36051.03,2022-09-01 10:03:00,,credit card
+256,Matthew Stevenson,Dale Allen,USD,132,5022.9,2022-09-09 5:09:00,,cheque
+257,Cody Bailey,Alan Mata,IDR,133,17.96,2022-09-03 17:59:00,,credit card
+258,Brandon Salazar,Brandi Hartman,IDR,134,1006.91,2022-09-09 1:03:00,,cheque
+259,Dillon Villarreal,William Anthony,USD,135,164.02,2022-09-02 23:32:00,,cheque
+260,Heather Klein,Cindy Alvarado,USD,136,37.66,2022-09-01 0:28:00,,credit card
+261,Todd Wise,Todd Wise,USD,137,909.44,2022-09-01 0:28:00,,reinvestment
+262,Amanda Sanchez,Chloe Bishop,USD,138,23694.21,2022-09-07 18:26:00,,credit card
+263,Karen Vargas,Tyler Martin,BRL,139,82526.82,2022-09-07 6:54:00,,cheque
+264,Yvette Sullivan,Cheryl Lewis,CAD,140,46.1,2022-09-09 0:03:00,,cheque
+265,Timothy Newman,Tracy Bell,USD,141,135.54,2022-09-02 21:14:00,,cheque
+266,Lisa Rasmussen,Kimberly Parks,USD,142,92.46,2022-09-10 17:12:00,,credit card
+267,Mary Cunningham,Cody Patel,IDR,143,967.17,2022-09-04 3:53:00,,credit card
+268,Cindy Michael,Sierra Smith,INR,144,4274.96,2022-09-02 0:54:00,,credit card
+269,Ryan Williams,Tracy Nelson,IDR,145,1.67,2022-09-06 7:14:00,,cash
+270,Craig Bailey,Derrick Gray,JPY,146,87662.19,2022-09-01 1:12:00,,cheque
+271,Pamela Kline MD,Alan Mata,IDR,147,223.28,2022-09-01 8:33:00,,credit card
+272,Tanner Miller,Stephanie Hebert,CHF,148,608.72,2022-09-07 17:33:00,,cheque
+273,Thomas Hobbs,William Green,IDR,149,1835.16,2022-09-02 4:15:00,,wire
+274,Michael Hart,Robert Hernandez,USD,150,17440.85,2022-09-02 12:42:00,,cheque
+275,Jessica Brown,John Jones,IDR,151,1807.8,2022-09-05 9:44:00,,cheque
+276,Marc Landry,Marc Landry,BTC,152,0.015982,2022-09-01 3:35:00,,bitcoin
+277,Lee Hardin,Anthony Carson,IDR,153,1633.26,2022-09-10 4:19:00,,cheque
+278,Kaitlyn Peterson,Valerie Mason,USD,154,1714.99,2022-09-06 5:34:00,,wire
+279,Jose Jordan,Cynthia Rodriguez,CNY,155,809617.81,2022-09-04 15:31:00,,wire
+280,Alex Jones,Alex Jones,JPY,156,290357.35,2022-09-01 11:29:00,,reinvestment
+281,Shelby Hernandez,Shelby Hernandez,IDR,157,5338.52,2022-09-01 22:28:00,,reinvestment
+282,Cynthia Waller,Heather Jenkins,BTC,158,0.178549,2022-09-10 7:25:00,,bitcoin
+283,Tara Miller,Tara Miller,SAR,159,15.02,2022-09-01 3:01:00,,reinvestment
+284,John Ward,Chad Beasley,JPY,160,134543201.7,2022-09-09 15:04:00,,wire
+285,James Robinson,David Murphy,IDR,161,261.63,2022-09-01 6:24:00,,wire
+286,Ashley Holmes,Jacqueline Foley,USD,162,251.12,2022-09-07 12:19:00,,wire
+287,Eric Wilson,Julie Evans,AUD,163,3373.55,2022-09-09 12:05:00,,cash
+288,Sarah Gilbert DDS,Julie Underwood,CNY,164,140.61,2022-09-09 6:58:00,,wire
+289,Kimberly Bryant,George Anderson DDS,CNY,165,20124.75,2022-09-05 17:25:00,,credit card
+290,Christopher Parker,Christopher Parker,RUB,166,247619.58,2022-09-02 19:05:00,,credit card
+291,Katie Moses,Carl Murphy,CAD,167,279003.22,2022-09-01 4:28:00,,cash
+292,April Patrick MD,Bryan Mayo,USD,168,2175.42,2022-09-10 22:54:00,,wire
+293,Matthew Pena,John Taylor,IDR,169,2333.8,2022-09-08 23:05:00,,cheque
+294,Michael Chapman,Shelly Gamble,CHF,170,94.55,2022-09-09 14:05:00,,cheque
+295,Antonio Davis,James Parsons,USD,171,21.91,2022-09-05 0:20:00,,credit card
+296,Mr. Benjamin Smith,Robert Harvey,INR,172,67090.18,2022-09-10 19:19:00,,cheque
+297,Sonya Jones,Stacy Pena,CNY,173,497.2,2022-09-08 23:38:00,,wire
+298,Patrick Pierce,Patrick Pierce,CAD,174,11.87,2022-09-01 22:29:00,,reinvestment
+299,Ashlee Ortega,Michael Salazar,IDR,175,3717.6,2022-09-08 18:51:00,,credit card
+300,Alex Hernandez,Brittany Daniels,IDR,176,559.87,2022-09-09 12:39:00,,wire
+301,Mariah Reid,David Summers,IDR,177,8704.5,2022-09-09 4:05:00,,credit card
+302,Emily Oliver,Taylor Martinez,MXN,178,11629.34,2022-09-01 3:54:00,,cheque
+303,Christina Wang,Eric Reyes,SAR,179,6067091.27,2022-09-07 11:45:00,,wire
+304,Kathy Cook,Chad Miller,CNY,180,13001.88,2022-09-07 9:32:00,,credit card
+305,Amanda Estrada,Cindy Hall,IDR,181,5211.67,2022-09-01 9:45:00,,credit card
+306,Ian Carrillo,Robert Cooper,USD,182,207.24,2022-09-02 21:06:00,,cheque
+307,Mary Bailey,Mary Bailey,IDR,183,2611.99,2022-09-01 11:43:00,,reinvestment
+308,Kara Henry,Christopher Hensley,BTC,184,7.386175,2022-09-07 2:02:00,,bitcoin
+309,Ryan Perkins,Lisa Choi,IDR,185,919.26,2022-09-04 20:44:00,,cheque
+310,Christopher Collier,Joseph Cooper DVM,USD,186,20515.64,2022-09-05 16:19:00,,cheque
+311,Jeffrey Smith,Jeffrey Smith,IDR,187,371367.33,2022-09-01 18:56:00,,reinvestment
+312,Kevin Watkins,Gloria Thompson,IDR,188,3466.37,2022-09-05 5:41:00,,cheque
+313,Amanda Jordan,Brett Williams,AUD,189,40120.87,2022-09-07 2:59:00,,credit card
+314,Diana Aguirre,Edward Burgess,IDR,190,2364.39,2022-09-08 3:46:00,,credit card
+315,Stephen Barry,Jennifer Johnson,USD,191,4031.78,2022-09-02 8:37:00,,cash
+316,Jennifer Mendoza,Alan Mata,IDR,192,259.75,2022-09-08 13:37:00,,credit card
+317,Grace Neal,Jason Burke,USD,193,164.36,2022-09-04 21:21:00,,wire
+318,Christopher Reyes,Amber Saunders,IDR,194,4362.12,2022-09-09 1:10:00,,cheque
+319,Christopher Chavez,Audrey Carter,USD,195,5.01,2022-09-05 21:24:00,,wire
+320,Jonathan Abbott,Jonathan Abbott,USD,196,6577.03,2022-09-01 0:13:00,,reinvestment
+321,Vanessa Rodriguez,Angel Taylor,IDR,197,33.62,2022-09-07 0:01:00,,credit card
+322,Jennifer Mitchell,Wanda Ayala,IDR,198,4038.49,2022-09-09 5:04:00,,cheque
+323,Tommy Lee,Danny Mora MD,CNY,199,209332.95,2022-09-01 0:13:00,,wire
+324,Margaret Chung,Alan Mata,IDR,200,453.98,2022-09-01 6:08:00,,cheque
+325,Elizabeth Howe,Darlene Cross,CNY,201,170418.07,2022-09-01 0:27:00,,cheque
+326,George Reyes,Abigail Romero,MXN,202,126976.65,2022-09-09 11:48:00,,credit card
+327,Gary Drake,Lauren Arnold,CAD,203,1.05,2022-09-01 13:39:00,,cheque
+328,Michelle Mccarthy,Taylor Ortiz,BTC,204,2.00E-06,2022-09-06 16:55:00,,bitcoin
+329,Lisa Hernandez,Shannon Little,INR,205,19000.41,2022-09-02 23:05:00,,cheque
+330,Chad Parker,Thomas Montes,BTC,206,0.028458,2022-09-06 23:22:00,,bitcoin
+331,Amy Young DVM,Amy Young DVM,BRL,207,26925.94,2022-09-01 0:12:00,,reinvestment
+332,Tony Cummings,Joanna Meyer,ILS,208,2555.01,2022-09-08 4:33:00,,credit card
+333,Peter Clarke,Katherine Wolfe,BRL,209,813.7,2022-09-08 8:06:00,,cheque
+334,Patrick Hunt,Valerie Maldonado,CNY,210,162081.87,2022-09-06 20:17:00,,cheque
+335,Brianna Perez,Alan Mata,IDR,211,288.54,2022-09-02 2:39:00,,cash
+336,Bradley Evans,Rachel Jordan,JPY,212,27458.48,2022-09-07 20:55:00,,cheque
+337,Jeremy Cohen,Jeremy Cohen,RUB,213,4432.48,2022-09-02 0:08:00,,wire
+338,Ruben Clark,Theresa Schmidt MD,BTC,214,0.0104,2022-09-02 16:54:00,,bitcoin
+339,Fred King,Fred King,CNY,215,44675.52,2022-09-01 5:54:00,,reinvestment
+340,Brandon Mann,Brandon Mann,IDR,216,12945.76,2022-09-01 0:23:00,,reinvestment
+341,James Paul,Allison Lopez,IDR,217,780.19,2022-09-05 1:02:00,,credit card
+342,Darrell Kelley,Lauren Kelly,JPY,218,651968.5,2022-09-09 21:35:00,,cheque
+343,Scott Morgan,Joseph Parks,IDR,219,915.26,2022-09-02 3:06:00,,cheque
+344,Heather Turner,Kimberly Howard,IDR,220,156152.85,2022-09-07 18:32:00,,cheque
+345,Jeffrey Rodriguez,Gabrielle Hogan DVM,IDR,221,211.27,2022-09-02 6:54:00,,cheque
+346,Todd Cole,Sharon Foster,IDR,222,4520.89,2022-09-07 20:40:00,,wire
+347,Kevin Ortiz,Elizabeth Rodriguez,USD,223,132.09,2022-09-02 14:36:00,,cash
+348,Michael Ramirez,Tracy Bell,USD,224,6319.7,2022-09-09 6:29:00,,cash
+349,Dr. Anthony Cantu PhD,Michelle Davis,IDR,225,9289.73,2022-09-09 9:57:00,,credit card
+350,Jason Peck,Nathaniel Phillips,USD,226,106.35,2022-09-05 0:00:00,,cash
+351,Sara Johnson,Chase Davies,USD,227,9738.51,2022-09-01 3:32:00,,cheque
+352,Joseph Martin,Joseph Martin,IDR,228,677.62,2022-09-01 0:10:00,,reinvestment
+353,Oscar Levine,Pamela Arias,IDR,229,714.62,2022-09-04 5:37:00,,credit card
+354,Kendra Cunningham,Erin Jones,IDR,230,19910.54,2022-09-01 3:47:00,,credit card
+355,Anthony Perez,Anthony Perez,IDR,231,60.97,2022-09-01 14:46:00,,reinvestment
+356,Adriana Nunez,Adriana Nunez,IDR,232,19.26,2022-09-01 0:17:00,,reinvestment
+357,Raymond Roman,Stephanie Reyes,BTC,233,0.029341,2022-09-05 22:14:00,,bitcoin
+358,Sarah Stephens,Anne Pineda,IDR,234,236.74,2022-09-07 6:07:00,,cheque
+359,Michael Hernandez,Michael Hernandez,USD,235,8.43,2022-09-01 0:07:00,,reinvestment
+360,Adam Oliver,Matthew Davis,IDR,236,390.71,2022-09-08 23:34:00,,wire
+361,Manuel Ingram,Pam Allen,USD,237,97.9,2022-09-08 19:46:00,,credit card
+362,Melvin Brown,Vincent Gilmore,JPY,238,66224.03,2022-09-07 3:54:00,,wire
+363,Stacey Colon,Timothy Jones,USD,239,56.15,2022-09-09 20:49:00,,cheque
+364,Marisa Pineda,Larry Chan,IDR,240,565.48,2022-09-05 0:00:00,,credit card
+365,Brandon Oconnor,Glenda Mclean,SAR,241,17895.3,2022-09-01 12:53:00,,wire
+366,Christina Gardner,Karen Taylor,IDR,242,693.34,2022-09-07 5:03:00,,wire
+367,Joshua Peters DDS,Melissa Moon,CAD,243,6780.9,2022-09-07 3:56:00,,credit card
+368,Veronica Oconnell,Michael Holt,CHF,244,240.91,2022-09-07 9:53:00,,cheque
+369,Mr. Richard Edwards,Jonathan York,AUD,245,303.4,2022-09-02 12:36:00,,credit card
+370,Rhonda Lewis,Rhonda Lewis,BTC,246,0.093128,2022-09-01 17:02:00,,bitcoin
+371,Courtney Thomas,Thomas Alexander,INR,247,4478.33,2022-09-06 22:59:00,,cheque
+372,Patrick Evans,Gregory Brooks,CNY,248,2999.59,2022-09-02 10:22:00,,cheque
+373,Austin Yang,Gregory Meyer,IDR,249,206.98,2022-09-05 11:16:00,,credit card
+374,Mary Blair,Mark Trevino,USD,250,1557.25,2022-09-10 18:42:00,,cheque
+375,Devin Robinson,Michael Smith,IDR,251,2270.12,2022-09-06 9:29:00,,cash
+376,Kimberly Johns,Joseph Sullivan,USD,252,8.39,2022-09-02 0:01:00,,credit card
+377,Derrick Jimenez,Justin French,INR,253,39426.99,2022-09-06 14:46:00,,wire
+378,Lorraine Keller,Danny Graham,MXN,254,3095.62,2022-09-04 9:21:00,,cheque
+379,Shelley Howard,Molly Holden,CNY,255,19153.37,2022-09-05 5:45:00,,wire
+380,Mitchell Gutierrez,Alan Mata,IDR,256,1272.79,2022-09-01 23:41:00,,cheque
+381,Kaitlin Navarro,Julie Perry,USD,257,1201.34,2022-09-07 23:14:00,,cheque
+382,Daniel Reynolds,Connor Shepherd,USD,258,4101.7,2022-09-09 6:50:00,,cheque
+383,Stephanie Lewis,Samantha Allen,BTC,259,2.604277,2022-09-09 21:01:00,,bitcoin
+384,Michael Burke,Jessica Bridges,USD,260,94.07,2022-09-07 21:03:00,,cheque
+385,Hailey Martinez,Tracy Bell,USD,261,12.66,2022-09-08 19:05:00,,credit card
+386,Lori Arnold,Mike Walters,IDR,262,148.16,2022-09-06 9:30:00,,credit card
+387,Leslie Figueroa,Tracy Walton,USD,263,0.51,2022-09-01 9:21:00,,wire
+388,Maria Mcintyre,Thomas Mills,IDR,264,248.24,2022-09-05 4:43:00,,cash
+389,Natalie Phillips,Jason Zhang,USD,265,158.33,2022-09-03 9:10:00,,credit card
+390,Javier Alexander,Javier Alexander,BTC,266,0.000395,2022-09-01 0:13:00,,bitcoin
+391,Robert Romero,Derek Jackson,INR,267,75822.87,2022-09-01 19:11:00,,cheque
+392,Donna Morris,John Suarez,IDR,268,170.75,2022-09-01 21:21:00,,credit card
+393,Misty Young,Gregory Cunningham,USD,269,189.02,2022-09-08 1:08:00,,credit card
+394,Victor Murphy,Julie Griffin,USD,270,3697.48,2022-09-06 13:13:00,,cash
+395,Patrick Miller,Melissa Moon,CAD,271,407.79,2022-09-07 10:30:00,,credit card
+396,Amanda Sullivan,David Winters,IDR,272,6895.16,2022-09-09 16:03:00,,cash
+397,Wayne Huynh,Renee Hensley,GBP,273,63.55,2022-09-05 10:59:00,,cash
+398,Steve Glass,Steve Glass,USD,274,22.99,2022-09-01 20:34:00,,reinvestment
+399,Heidi Greene,Stephen Morrison,BRL,275,4978.96,2022-09-02 15:10:00,,wire
+400,Anthony Patton,Anthony Patton,CNY,276,6524.05,2022-09-01 1:06:00,,reinvestment
+401,Crystal Saunders,Connor Patterson,IDR,277,1249.08,2022-09-02 16:57:00,,credit card
+402,David Robertson,Alexander Kirby,CNY,278,5.66,2022-09-06 21:23:00,,wire
+403,Kenneth Sanders,Ryan Melendez,IDR,279,223613.33,2022-09-08 6:48:00,,cheque
+404,Lisa Dickerson,Evan Perez,IDR,280,581.27,2022-09-08 12:44:00,,cheque
+405,Terri Zhang,Kathleen Harding,USD,281,57.48,2022-09-09 15:10:00,,wire
+406,Henry Erickson,Cindy Smith,IDR,282,229.21,2022-09-07 10:42:00,,credit card
+407,Ann Edwards,Shannon Little,INR,283,311123.67,2022-09-02 0:17:00,,credit card
+408,Lauren Ryan,Lauren Ryan,IDR,284,18.59,2022-09-01 0:25:00,,reinvestment
+409,Wayne Jackson,Elizabeth Pearson,IDR,285,63748.15,2022-09-05 2:55:00,,cheque
+410,Joan Lee,Catherine Trevino,BTC,286,0.064504,2022-09-09 18:35:00,,bitcoin
+411,Juan Anderson,Marvin Jones,USD,287,11586.95,2022-09-02 22:18:00,,cheque
+412,Timothy Singh,Timothy Singh,IDR,288,3.64,2022-09-01 0:17:00,,reinvestment
+413,Eric Pham,Brian Clark,BTC,289,0.02442,2022-09-07 21:22:00,,bitcoin
+414,Tiffany Brown,Tiffany Brown,IDR,290,5986.57,2022-09-09 9:29:00,,wire
+415,Lindsay Johnson,John Smith DVM,BRL,291,883.92,2022-09-08 1:39:00,,cash
+416,Alyssa Simmons,Jessica Herrera,USD,292,775.59,2022-09-02 23:43:00,,credit card
+417,Valerie Sparks,Shannon Little,INR,293,1419025.94,2022-09-06 0:49:00,,credit card
+418,Marc Solomon,Christina Tate,CHF,294,2755.1,2022-09-09 3:06:00,,cheque
+419,Jamie Fitzpatrick,Peggy Smith,AUD,295,1562623.76,2022-09-05 4:52:00,,cheque
+420,Jacqueline Kennedy,Angela Roman,MXN,296,78.12,2022-09-01 0:11:00,,credit card
+421,Bryan Hoover,Bryan Hoover,CNY,297,3656.03,2022-09-01 0:13:00,,reinvestment
+422,Theresa Mccarthy,Theresa Mccarthy,IDR,298,12285.13,2022-09-01 0:20:00,,reinvestment
+423,Seth Coleman,Michael Turner,USD,299,40.01,2022-09-03 7:19:00,,wire
+424,Anna Smith,Vanessa Bird,CNY,300,55.51,2022-09-01 0:39:00,,wire
+425,Kelly Snow,David Tate,USD,301,120.2,2022-09-05 12:09:00,,wire
+426,Keith Gill,Christopher Malone,IDR,302,12586.01,2022-09-01 23:48:00,,cheque
+427,Theodore Leach,Mia Baker,IDR,303,83.13,2022-09-08 3:56:00,,cheque
+428,Miguel Stephenson,Dominique Smith,CNY,304,6517.01,2022-09-06 9:44:00,,wire
+429,Bianca Hernandez,Kyle Wagner,USD,305,2694.54,2022-09-02 1:25:00,,cheque
+430,Marcus Schneider,Robert Roberts,MXN,306,89451.41,2022-09-01 13:47:00,,cheque
+431,Karina Stein,Stephen Perry,BTC,307,0.003761,2022-09-01 0:22:00,,bitcoin
+432,Kara Hudson,Kevin Price,CNY,308,309699.7,2022-09-06 0:39:00,,wire
+433,Joseph Marsh,Brandon Smith,BRL,309,39737.77,2022-09-06 16:05:00,,cheque
+434,Frank Kelly,Frank Kelly,INR,310,1512.21,2022-09-01 4:42:00,,reinvestment
+435,Amy Santos,Joshua Figueroa,CAD,311,72209.33,2022-09-07 22:22:00,,cheque
+436,Leah Hudson,Mr. Justin Brown,USD,312,97.69,2022-09-08 13:49:00,,wire
+437,Lindsey Johnson,Timothy Wood,CAD,313,38.81,2022-09-05 21:38:00,,wire
+438,Anita Paul,Teresa Schmidt,USD,314,4489.31,2022-09-08 5:33:00,,cheque
+439,Tammy Owen,Tammy Owen,IDR,315,248924.82,2022-09-01 22:35:00,,reinvestment
+440,Keith Young,Morgan Marshall,SAR,316,914.79,2022-09-02 23:49:00,,cheque
+441,Christina Jenkins,Derrick Gray,JPY,317,33979.43,2022-09-07 12:18:00,,credit card
+442,Jeanette Owens,Alan Mata,IDR,318,464.36,2022-09-07 7:22:00,,cheque
+443,Michelle Chen,John Coleman,USD,319,1202.8,2022-09-08 1:41:00,,cheque
+444,Paige Boone,Amy Cook,CNY,320,20761.93,2022-09-01 10:51:00,,credit card
+445,Christina Smith,Morgan Marshall,SAR,321,1625.29,2022-09-03 19:08:00,,credit card
+446,Daniel Allen,Kayla Snyder,CNY,322,635883.31,2022-09-08 4:36:00,,cash
+447,Veronica Savage,Connor Holloway V,IDR,323,5709.7,2022-09-05 12:31:00,,cheque
+448,Sarah Garza,Daniel Williams,USD,324,29306.45,2022-09-02 19:43:00,,wire
+449,Cheyenne Hughes,Matthew Little,IDR,325,2008.85,2022-09-02 14:48:00,,cheque
+450,Joshua Guerrero,Charles Smith,CHF,326,1653.27,2022-09-08 3:12:00,,wire
+451,Kayla Dodson,Miss Christina Hudson MD,IDR,327,601.46,2022-09-06 18:25:00,,cash
+452,Susan Rodriguez,Glenn Cooper,INR,328,7072100.24,2022-09-02 13:56:00,,cheque
+453,Lori Watkins,Alejandro Smith,CHF,329,55.53,2022-09-05 17:46:00,,cheque
+454,Alicia Bush,Philip Adams,USD,330,36.72,2022-09-04 11:01:00,,wire
+455,Tara Smith,Leonard Mckinney,IDR,331,13558.22,2022-09-06 10:36:00,,credit card
+456,Jane Burton,Sean Graham,IDR,332,157.14,2022-09-04 0:21:00,,cheque
+457,Kristina Guerra,Kristina Guerra,USD,333,238706.38,2022-09-09 5:10:00,,wire
+458,Jeremy Morgan,Tracy Simpson,USD,334,209.19,2022-09-03 6:47:00,,cheque
+459,Justin Carlson,Gabriel Arnold,BTC,335,0.264346,2022-09-02 11:54:00,,bitcoin
+460,Jane Anderson,Travis Madden,BRL,336,575.29,2022-09-02 10:04:00,,cheque
+461,Elizabeth Hanson,Devon Griffith,IDR,337,10791.05,2022-09-01 22:16:00,,cheque
+462,Dana Hamilton,Dana Hamilton,IDR,338,4679.9,2022-09-01 7:34:00,,wire
+463,Kara Smith,Douglas Trevino,AUD,339,298.48,2022-09-01 17:48:00,,credit card
+464,Robert Fleming,Maxwell Warren,SAR,340,1567.67,2022-09-01 17:28:00,,credit card
+465,Wesley Mcguire,Jason Burton,AUD,341,37491.37,2022-09-02 13:55:00,,credit card
+466,Ariel Henson PhD,Ariel Henson PhD,CNY,342,4789.41,2022-09-01 0:01:00,,reinvestment
+467,Miranda Garcia,Stephen Ortiz,USD,343,102.33,2022-09-08 0:06:00,,credit card
+468,Jackie Johnson,Timothy Cole,USD,344,189.14,2022-09-09 6:32:00,,cheque
+469,Juan Welch,Tyler Ware,AUD,345,0.01,2022-09-01 2:10:00,,wire
+470,Cindy Reyes,Juan Miller,USD,346,26.84,2022-09-08 16:53:00,,credit card
+471,Jessica Vasquez DVM,Susan Turner,INR,347,24418.31,2022-09-01 21:08:00,,credit card
+472,Lonnie Brooks,Crystal David,IDR,348,7.91,2022-09-06 15:54:00,,cheque
+473,Kevin Reyes,Kevin Reyes,IDR,349,1276.9,2022-09-01 0:03:00,,reinvestment
+474,Kenneth Mcbride,Nicholas Fowler,CNY,350,2778.64,2022-09-02 19:24:00,,credit card
+475,Christopher Le,Marvin Duran,CNY,351,4593.53,2022-09-09 4:09:00,,credit card
+476,Justin Downs,Glenda Cohen,JPY,352,39968.02,2022-09-03 22:18:00,,credit card
+477,Eric Mendez,Shannon Little,INR,353,660448.6,2022-09-07 16:22:00,,cheque
+478,Arthur Robinson,Monica Bradshaw,INR,354,399850.85,2022-09-09 11:52:00,,wire
+479,Kristen Warren,Allen Garcia,USD,355,1723.53,2022-09-08 17:50:00,,wire
+480,Todd Alexander,Cheryl Owens,INR,356,5606720.62,2022-09-02 10:48:00,,cheque
+481,Cathy Martin,David Ortiz,IDR,357,1216.32,2022-09-03 16:03:00,,credit card
+482,Daniel Avila,Mr. George Stewart MD,CAD,358,331,2022-09-05 22:53:00,,wire
+483,Amanda Wilkins,Robert Cummings,IDR,359,151.26,2022-09-05 21:10:00,,credit card
+484,Joshua Miles,Stephen Harris,IDR,360,22.78,2022-09-01 1:00:00,,cash
+485,Roy Carlson,Mackenzie Lam,INR,361,1279390.01,2022-09-09 8:26:00,,credit card
+486,Cole Moss,Donald Perry,BRL,362,118614.43,2022-09-05 3:22:00,,credit card
+487,Alicia James,Lynn Campbell,IDR,363,51972.92,2022-09-10 22:58:00,,cheque
+488,Jean Roberts MD,Mr. Ronnie Johnson,IDR,364,477.58,2022-09-06 12:59:00,,wire
+489,Mrs. Stacy Ware DVM,Amanda Wilkerson,ILS,365,1604.32,2022-09-04 9:04:00,,credit card
+490,Elizabeth Thomas,Carolyn Hernandez,IDR,366,83.08,2022-09-02 15:21:00,,credit card
+491,James Mckay,Wesley Richardson,IDR,367,200.78,2022-09-06 3:40:00,,cheque
+492,Christine Smith,Gary Roberts,BTC,368,0.165322,2022-09-06 12:48:00,,bitcoin
+493,Tiffany Rivers,Tiffany Rivers,BTC,369,18.055331,2022-09-01 4:42:00,,bitcoin
+494,Adam Hill,Adam Hill,IDR,370,456576.57,2022-09-01 17:11:00,,reinvestment
+495,Michelle Wilson,Tracy Bell,USD,371,659.29,2022-09-01 8:55:00,,credit card
+496,Lisa Nichols,Nathan Holden,SAR,372,753.44,2022-09-05 21:36:00,,cheque
+497,April York,Brittany Thompson,USD,373,5532.83,2022-09-02 8:41:00,,credit card
+498,Dale Gonzalez,Mary Rogers,IDR,374,98.2,2022-09-05 21:47:00,,cheque
+499,Melanie Zamora,Stephen Taylor,AUD,375,10599.87,2022-09-05 4:40:00,,cheque
+500,Sarah Pace,Gary White,USD,376,4569.97,2022-09-01 22:44:00,,credit card
+501,Carol Hernandez,Melissa Moon,CAD,377,1737.04,2022-09-02 0:31:00,,cheque
+502,Matthew Ellis,Alex Larsen,CAD,378,128.23,2022-09-08 0:54:00,,cash
+503,Jeffrey Cordova,Samuel Rivera,SAR,379,1376.23,2022-09-07 14:01:00,,credit card
+504,Wesley Johnson,Alan Mata,IDR,380,4058.82,2022-09-03 1:00:00,,cheque
+505,Aaron Wheeler,Steven Berger,USD,381,63389.95,2022-09-01 0:02:00,,wire
+506,Cassie Sanford,Rachel Jacobs,IDR,382,22961.93,2022-09-04 9:47:00,,wire
+507,Sarah Wright,Angela Fitzgerald,IDR,383,521.78,2022-09-07 6:32:00,,wire
+508,Tara Erickson,Melissa Morris,IDR,384,1314.69,2022-09-03 20:48:00,,cheque
+509,Alexandra Burke,Alexandra Burke,USD,385,39.41,2022-09-07 2:39:00,,wire
+510,Brian Steele,Gerald Stevenson,USD,386,494.87,2022-09-07 19:01:00,,credit card
+511,Bryan Kirk,Samantha Robinson,IDR,387,1766.9,2022-09-09 5:38:00,,cash
+512,Kimberly Jensen,Alan Mata,IDR,388,23214.3,2022-09-09 12:58:00,,cash
+513,Joseph Kerr,Jill Hicks,IDR,389,116.42,2022-09-08 16:22:00,,cheque
+514,Amber Hill,John Hull,BRL,390,1023.14,2022-09-07 3:28:00,,credit card
+515,Maria Collins,Jonathan Willis,ILS,391,64.17,2022-09-09 23:19:00,,credit card
+516,Laurie Jordan,Colleen Norris,AUD,392,1566855.58,2022-09-01 1:34:00,,cheque
+517,Jose Williams,Jose Williams,CAD,393,145.56,2022-09-01 0:15:00,,reinvestment
+518,Hector Haynes,Kelly Sullivan,JPY,394,427641.21,2022-09-01 10:49:00,,cash
+519,Amanda Wilson,Mrs. Sandy Spears,USD,395,1554.58,2022-09-02 9:49:00,,cheque
+520,Samuel Clark,Samuel Clark,USD,396,33218.8,2022-09-01 0:01:00,,reinvestment
+521,Kyle Baldwin,Steven Goodman,IDR,397,8.83,2022-09-03 11:03:00,,cheque
+522,Amy Johnston,Amy Williams,IDR,398,1.63,2022-09-09 19:26:00,,wire
+523,Hailey Briggs,Brenda Lee,USD,399,878.23,2022-09-03 14:11:00,,cheque
+524,Anthony Smith,Lori Bell,INR,400,237585309.9,2022-09-01 22:19:00,,cheque
+525,Karina Meadows,Melissa Moon,CAD,401,1574.79,2022-09-08 18:56:00,,cheque
+526,Jessica Jackson,Melissa Riddle,USD,402,81658.53,2022-09-01 11:59:00,,wire
+527,Erica Roy,Rebecca Cortez,RUB,403,51809.73,2022-09-02 9:12:00,,credit card
+528,Nicole Perez,Nicole Perez,IDR,404,12228.76,2022-09-01 6:02:00,,reinvestment
+529,Raymond White,Mr. Joel Bailey,CNY,405,19371.62,2022-09-01 5:33:00,,cheque
+530,John Hess,Morgan Grant,IDR,406,96.55,2022-09-06 3:29:00,,credit card
+531,Amanda Warren,Timothy Smith,GBP,407,5112.13,2022-09-09 8:12:00,,credit card
+532,Joan Nichols,Brian Stuart,IDR,408,437.27,2022-09-02 15:25:00,,wire
+533,Brian Zimmerman,Kenneth Boyd,INR,409,4760.08,2022-09-09 0:06:00,,credit card
+534,David Mcdaniel,Kevin Burton,CNY,410,137663.64,2022-09-08 15:17:00,,wire
+535,Hunter James,Joshua Holder,IDR,411,755.94,2022-09-04 20:43:00,,credit card
+536,Natalie Campos,Scott Velazquez,MXN,412,36228.61,2022-09-02 16:41:00,,credit card
+537,Margaret Davies,Julia Brown,IDR,413,736.52,2022-09-09 9:56:00,,cash
+538,Shannon Paul,Shannon Paul,IDR,414,579.26,2022-09-01 15:28:00,,wire
+539,Luis Hall,Luis Hall,BTC,415,314.563929,2022-09-01 0:09:00,,bitcoin
+540,Jonathan Marshall,Gary Roberts,BTC,416,0.511232,2022-09-04 10:48:00,,bitcoin
+541,Nicole Mercado,Chad Burns,MXN,417,29858.05,2022-09-04 19:48:00,,credit card
+542,Christine Horton,Christina Daniels,IDR,418,4562.27,2022-09-09 18:47:00,,wire
+543,Stephanie Rosario,Matthew Miller,BRL,419,2961.04,2022-09-02 3:16:00,,credit card
+544,Joshua Smith,Kristen Gutierrez,CNY,420,53295.94,2022-09-08 7:28:00,,credit card
+545,Tyler Ramirez,Jean Thornton,USD,421,14864.53,2022-09-05 2:34:00,,credit card
+546,Joseph Thornton,Joseph Thornton,AUD,422,638.06,2022-09-01 0:19:00,,reinvestment
+547,Louis Oneal,Sean Wade,SAR,423,37.85,2022-09-03 11:40:00,,cheque
+548,Lindsay Castillo,Brittany Peterson,USD,424,7.51,2022-09-09 0:00:00,,cheque
+549,David Scott,Dominique Jones,SAR,425,775.99,2022-09-02 0:33:00,,cheque
+550,Peter Gonzalez V,Isabel Sharp,CHF,426,75.33,2022-09-09 5:15:00,,wire
+551,Patricia Mccarty,Miranda Phelps,CNY,427,11376.2,2022-09-10 14:09:00,,wire
+552,Jessica Hooper,Alan Mata,IDR,428,302.36,2022-09-03 21:23:00,,cash
+553,Nicole Blackburn,Tracey Chaney,USD,429,10902.73,2022-09-02 7:01:00,,cheque
+554,Angelica Lucas,Gary Roberts,BTC,430,1.25111,2022-09-06 6:12:00,,bitcoin
+555,Joel Meyer,Jean Fletcher,USD,431,242.17,2022-09-09 2:19:00,,wire
+556,Christina Watson,Kevin Adams,GBP,432,2808.27,2022-09-05 11:29:00,,wire
+557,Gwendolyn Schmidt,Alicia Sanchez,AUD,433,180.93,2022-09-07 13:14:00,,credit card
+558,Adrian Cohen,Matthew Quinn,USD,434,8069.38,2022-09-03 12:02:00,,cheque
+559,Jennifer Gallagher,Jennifer Gallagher,IDR,435,780.33,2022-09-01 13:20:00,,reinvestment
+560,Kenneth Marshall,Karen Rhodes,IDR,436,16328.91,2022-09-09 9:04:00,,credit card
+561,Kenneth Yoder,Michelle White,IDR,437,1519.44,2022-09-10 0:41:00,,cash
+562,Stephanie Estrada,Alan Mata,IDR,438,6287.49,2022-09-02 21:15:00,,cheque
+563,Mr. Mathew Hogan,Rhonda Miller,IDR,439,3273.04,2022-09-09 23:44:00,,cheque
+564,Sandra Cook,Jonathon Shields,AUD,440,2.79,2022-09-08 6:27:00,,wire
+565,Jon Spencer,Jon Spencer,USD,441,3829.45,2022-09-08 18:01:00,,wire
+566,Julia Wolfe,Shelly Martinez,USD,442,105.19,2022-09-08 6:30:00,,cheque
+567,Peggy Vaughn,Luis Edwards,IDR,443,3348.41,2022-09-07 22:18:00,,cheque
+568,Christopher Taylor,Jon Holmes,IDR,444,1272.75,2022-09-02 5:28:00,,cheque
+569,Brian Vargas,Brian Vargas,BTC,445,6.739188,2022-09-01 9:27:00,,bitcoin
+570,Melissa Webb,Sandra Johnson,GBP,446,2014.06,2022-09-08 1:34:00,,cheque
+571,Javier West,Javier West,USD,447,7635.21,2022-09-01 4:45:00,,reinvestment
+572,Craig Jordan,Jerry Carpenter,USD,448,6107.12,2022-09-03 8:26:00,,credit card
+573,Curtis Olson,Dr. Whitney Hoffman MD,BRL,449,3620.11,2022-09-02 2:18:00,,cheque
+574,Maxwell Gibson MD,Kevin Sanders,BRL,450,12768.09,2022-09-08 17:10:00,,cash
+575,Jacqueline Martinez,John Zhang,IDR,451,22320.88,2022-09-09 16:57:00,,cheque
+576,Michelle Jordan,Dr. Matthew Wright,SAR,452,213.81,2022-09-01 2:58:00,,cheque
+577,David Nash,Darryl Galvan,RUB,453,2001476.76,2022-09-04 3:21:00,,cheque
+578,April Mullins,Richard Holmes,SAR,454,92373.96,2022-09-09 0:23:00,,credit card
+579,Ian Turner,James Strickland,IDR,455,1344.49,2022-09-09 20:48:00,,cheque
+580,Rachel Rogers,Mark Goodman,CAD,456,3.5,2022-09-07 13:46:00,,wire
+581,Harold Cruz,Alexa Goodwin,USD,457,751.03,2022-09-08 23:26:00,,wire
+582,Kevin Rios,Angela Neal,ILS,458,993.35,2022-09-09 16:26:00,,credit card
+583,Mary Burke,Tracy Bell,USD,459,266.62,2022-09-09 9:21:00,,cheque
+584,Tina Barron,Tina Barron,SAR,460,36.16,2022-09-01 0:02:00,,reinvestment
+585,Michelle Smith,Sarah Smith,BTC,461,0.015288,2022-09-07 7:40:00,,bitcoin
+586,Carmen Lopez,Mr. Kyle Cooper,IDR,462,1511.92,2022-09-04 19:06:00,,cheque
+587,Chelsea Miller,Mary Payne,INR,463,126722533.1,2022-09-09 6:45:00,,cheque
+588,Ashley Bennett,Andre Butler,CAD,464,181.2,2022-09-01 16:55:00,,cheque
+589,Donna Mann,Donna Mann,IDR,465,4079.16,2022-09-01 0:11:00,,reinvestment
+590,Tammy Ortiz,Duane Bennett,CNY,466,96736.39,2022-09-07 4:51:00,,credit card
+591,Christopher Henderson,Sabrina Hicks,IDR,467,828.24,2022-09-08 12:47:00,,credit card
+592,Janet Pena,Edward Howard,IDR,468,562.58,2022-09-01 17:50:00,,cheque
+593,Kevin Rodriguez,Justin Terry,INR,469,16830930.36,2022-09-02 7:39:00,,cheque
+594,Melissa Cole,Tracy Bell,USD,470,576.61,2022-09-04 13:22:00,,credit card
+595,Troy Campbell,Curtis Hunter,IDR,471,3226.98,2022-09-02 14:06:00,,cheque
+596,Adam Best,Lisa Wood,SAR,472,11654.98,2022-09-10 22:41:00,,cheque
+597,Kevin Moreno,Shawn Gutierrez,IDR,473,2431.81,2022-09-02 22:06:00,,cheque
+598,Rebecca Romero,Julie Nichols,IDR,474,19.92,2022-09-09 6:10:00,,cash
+599,Amy Garcia,James Stone,CAD,475,943.05,2022-09-09 14:27:00,,credit card
+600,Omar Walker,Pamela Greene,IDR,476,4852.76,2022-09-08 21:14:00,,cheque
+601,Marisa Ramirez,Olivia Mcintosh,IDR,477,42.34,2022-09-07 9:22:00,,cash
+602,Jessica Horne,Thomas Rowe,USD,478,32000.82,2022-09-09 5:08:00,,cheque
+603,Brett Olson,Tracy Bell,USD,479,468.29,2022-09-06 9:53:00,,credit card
+604,Michelle Oneill,Catherine Morse,CNY,480,6413.55,2022-09-08 16:14:00,,cheque
+605,David Berger,Robert Johnson,USD,481,54825.74,2022-09-05 1:05:00,,cash
+606,Mary Jacobs,Justin Bell Jr.,IDR,482,2040.89,2022-09-01 21:23:00,,cheque
+607,Robin Cross,Robin Cross,IDR,483,8941049.96,2022-09-01 0:21:00,,reinvestment
+608,William Gordon,Mikayla Combs,IDR,484,13.95,2022-09-08 17:54:00,,cash
+609,Keith Buck,Tyler Smith,USD,485,292.71,2022-09-07 18:44:00,,cheque
+610,Teresa Ashley,Teresa Ashley,IDR,486,23718.73,2022-09-01 12:54:00,,reinvestment
+611,Jon Landry,Christopher Rodriguez,CNY,487,26458.66,2022-09-01 15:13:00,,credit card
+612,Kenneth Edwards,Kenneth Edwards,CNY,488,160.11,2022-09-01 0:09:00,,reinvestment
+613,Donna Hayes,Paul Chang,IDR,489,440056.5,2022-09-08 21:10:00,,cheque
+614,Rhonda Fisher,Rhonda Fisher,CNY,490,8931.9,2022-09-01 4:47:00,,reinvestment
+615,Amanda Wade,Robin Price,USD,491,99.29,2022-09-01 18:23:00,,cheque
+616,Christine Parker,Abigail Ryan,IDR,492,701.15,2022-09-07 18:03:00,,cheque
+617,Michael Reyes,Carla Jackson,USD,493,216.2,2022-09-09 11:58:00,,wire
+618,Larry Mcneil,Renee Greene,CHF,494,51.77,2022-09-09 11:46:00,,wire
+619,Sarah Rodriguez,Cheryl Arnold,CNY,495,24171.69,2022-09-05 20:57:00,,credit card
+620,Catherine Perez,Shannon Little,INR,496,142460.38,2022-09-01 0:27:00,,cheque
+621,Seth Bray,Jeffrey Trevino,BRL,497,2696.31,2022-09-10 22:07:00,,credit card
+622,Faith Robinson,Susan Reynolds,ILS,498,1829204.46,2022-09-07 7:24:00,,cheque
+623,Monica Rodgers,Amber Hernandez,CNY,499,8660.12,2022-09-01 4:22:00,,cash
+624,Devin Bailey,Julie White,IDR,500,928.88,2022-09-05 1:39:00,,cheque
+625,Joel Blevins,Lauren Washington,CAD,501,109725.31,2022-09-08 12:32:00,,cheque
+626,Vanessa Smith,Vanessa Smith,GBP,502,511.94,2022-09-02 14:22:00,,wire
+627,Wendy Gibbs,Duane Turner,CNY,503,9230.69,2022-09-09 18:01:00,,cheque
+628,Patrick Ramirez,Juan Hatfield,USD,504,64.15,2022-09-09 9:22:00,,cheque
+629,Dana Dunn,Brittney Robinson,IDR,505,157.98,2022-09-06 9:59:00,,credit card
+630,Christopher Baldwin,Yolanda West,USD,506,7881.68,2022-09-03 3:02:00,,credit card
+631,Charles Luna,Vicki Zimmerman,IDR,507,65430.74,2022-09-03 23:49:00,,cheque
+632,Christopher Maynard,Julie Peterson,IDR,508,239.13,2022-09-08 21:51:00,,credit card
+633,Christopher Smith,Lori Ewing,IDR,509,65.57,2022-09-01 12:18:00,,cash
+634,Clarence Hopkins,Melinda Davis,USD,510,272.91,2022-09-09 20:11:00,,wire
+635,Eric Lewis,Dr. Amy Ward,USD,511,143.22,2022-09-09 18:21:00,,wire
+636,Andrea Barton,John Williams,IDR,512,3722.34,2022-09-07 7:27:00,,credit card
+637,Lisa Estrada,Paul Mitchell,USD,513,2856.21,2022-09-09 7:39:00,,credit card
+638,Ebony Sullivan,Alexis Soto,USD,514,85.99,2022-09-02 0:19:00,,credit card
+639,Ryan Hernandez,Regina Hammond,SAR,515,46426.82,2022-09-07 10:20:00,,cheque
+640,Jeremiah Casey,Jeremiah Casey,IDR,516,120.96,2022-09-02 7:09:00,,wire
+641,Judy Mcclure,Judy Mcclure,CNY,517,127.77,2022-09-01 12:34:00,,reinvestment
+642,Kelly Petty,Ruth Parker,USD,518,24798.47,2022-09-02 3:02:00,,cash
+643,Anita Wilson,Danielle Wilson,CNY,519,32983.86,2022-09-02 5:02:00,,cheque
+644,Edward Hill,Amy Nichols,CNY,520,32804.75,2022-09-08 4:09:00,,cheque
+645,Kevin English,Jeremy Curry,CNY,521,1149.57,2022-09-03 3:52:00,,credit card
+646,Brian Rose,Diane Kent,SAR,522,60667.97,2022-09-07 4:14:00,,cheque
+647,Timothy Russell,Alejandra Gaines,AUD,523,9.96,2022-09-07 3:28:00,,wire
+648,Dawn Perry,Timothy Owens,CAD,524,639.49,2022-09-09 15:01:00,,cheque
+649,Amanda Hampton,Peter Watts,USD,525,2383.96,2022-09-08 10:41:00,,cheque
+650,Travis Miller,Anthony Miller,IDR,526,146.96,2022-09-10 6:27:00,,cheque
+651,Kelly Miller,Kelly Miller,BTC,527,13.667796,2022-09-01 13:46:00,,bitcoin
+652,Nicole Cook,Dalton Wheeler,IDR,528,6692.69,2022-09-04 10:10:00,,cheque
+653,Charlotte Baker,Dr. Catherine Schwartz,USD,529,41572.5,2022-09-05 1:54:00,,wire
+654,Carly Maddox,Robert Boyle,IDR,530,40.15,2022-09-03 9:29:00,,credit card
+655,Alyssa Pena,Alyssa Pena,IDR,531,6824.69,2022-09-02 14:57:00,,wire
+656,Cheyenne Castro,Ashley Daniel,IDR,532,38.6,2022-09-06 9:44:00,,credit card
+657,Ashley Green,Phyllis Watts,ILS,533,16.7,2022-09-01 4:29:00,,credit card
+658,Leslie Patterson,Eric Martin,USD,534,747271.29,2022-09-02 14:53:00,,cheque
+659,Peter Hall,Emma Perry,INR,535,45160.67,2022-09-05 12:14:00,,credit card
+660,Jason Bradley,Katherine Wilson,IDR,536,90.04,2022-09-06 21:27:00,,cash
+661,Ashley Davis,Dr. Tyler Bell MD,CHF,537,798.34,2022-09-06 22:47:00,,credit card
+662,Catherine Hill,Alan Mata,IDR,538,3376.05,2022-09-07 7:45:00,,credit card
+663,Joanna Meyer,Joanna Meyer,ILS,539,218.9,2022-09-01 0:13:00,,reinvestment
+664,Paula Torres,Janice Holt,USD,540,1314.84,2022-09-01 5:15:00,,cheque
+665,Jennifer Ramirez,Megan Mccarty,SAR,541,65252.88,2022-09-05 8:59:00,,credit card
+666,Rhonda Stewart,Dana Alvarado,JPY,542,1067150906,2022-09-10 5:19:00,,cheque
+667,John Perkins,Anne Stone,IDR,543,642.72,2022-09-07 11:52:00,,credit card
+668,Craig Mccoy,Richard York,IDR,544,1608.11,2022-09-08 19:43:00,,credit card
+669,Frederick Wilson,Briana Miller,IDR,545,3148.16,2022-09-01 14:16:00,,cheque
+670,Jasmine Greer,Brent Anderson,INR,546,4991134686,2022-09-02 17:09:00,,cash
+671,Clayton Alvarez,Janet Wood,IDR,547,256.09,2022-09-02 22:43:00,,cheque
+672,Jason Pineda,Jason Pineda,USD,548,3.21,2022-09-01 0:18:00,,reinvestment
+673,Justin Walton,Tracy Bell,USD,549,366.82,2022-09-09 9:00:00,,credit card
+674,Anthony Sullivan,Renee Jackson,IDR,550,106.81,2022-09-09 0:35:00,,credit card
+675,Marilyn Phillips,Danielle Wilson,CNY,551,1356.08,2022-09-04 14:20:00,,cheque
+676,Jennifer Bradley,Ernest Orr,IDR,552,1882.89,2022-09-02 9:14:00,,credit card
+677,Jenna Suarez,Cindy Watkins,IDR,553,4736.74,2022-09-09 12:14:00,,cash
+678,Amber Rios,Ryan Martinez,IDR,554,669.22,2022-09-08 15:39:00,,cheque
+679,Stephanie Ross,Shelby Walker,CAD,555,181.33,2022-09-06 1:31:00,,cheque
+680,Cheryl Lee,Jessica Robinson,GBP,556,531.14,2022-09-01 15:58:00,,cheque
+681,Ann Shaw,Ann Shaw,USD,557,410.93,2022-09-09 16:08:00,,wire
+682,Thomas Beck,Robin Sullivan,USD,558,5399.86,2022-09-08 7:45:00,,cheque
+683,Jennifer Cooke,Shannon Little,INR,559,1846.47,2022-09-05 21:07:00,,cheque
+684,Matthew Brown,George Martin,USD,560,49394.04,2022-09-01 4:51:00,,cheque
+685,Calvin Davis,Matthew Tate,SAR,561,443.75,2022-09-07 1:57:00,,cheque
+686,Cameron Ball,David Mclaughlin,USD,562,54401.21,2022-09-01 8:15:00,,wire
+687,Andrew Fisher,Cynthia Freeman,IDR,563,5575.45,2022-09-08 16:21:00,,credit card
+688,Amy Lewis,Michael Snyder,BTC,564,0.006543,2022-09-03 11:19:00,,bitcoin
+689,Michael Whitaker,Michael Whitaker,IDR,565,1118.25,2022-09-01 0:25:00,,reinvestment
+690,Brittney Bates,Michele Grant,IDR,566,206.42,2022-09-05 23:29:00,,cheque
+691,Rebecca Wells,Jamie Rios,CNY,567,186715.95,2022-09-07 22:11:00,,cash
+692,Sean Hale,Joseph Oliver,IDR,568,1827.99,2022-09-09 12:22:00,,wire
+693,Tina Brock,Dawn Ali,USD,569,160.29,2022-09-07 9:41:00,,cheque
+694,Michael Robertson,Brittany Armstrong,BTC,570,2.359695,2022-09-07 17:46:00,,bitcoin
+695,Michelle Farrell,Daniel Armstrong,SAR,571,559.7,2022-09-02 16:45:00,,wire
+696,Mary Hale,Linda Parker,USD,572,19.91,2022-09-03 0:05:00,,credit card
+697,Emily Wilson,Joshua Simmons,CNY,573,14524.3,2022-09-07 1:55:00,,wire
+698,David Turner,David Turner,USD,574,2034.57,2022-09-07 11:46:00,,wire
+699,Deborah Patterson,Rebecca Mendoza,IDR,575,337.94,2022-09-02 5:46:00,,cheque
+700,Jerry Baker,Tracy Bell,USD,576,876.37,2022-09-10 1:40:00,,cheque
+701,Kimberly Johnson,Alan Mata,IDR,577,234.62,2022-09-09 11:46:00,,cash
+702,Chris Diaz,Robert Pugh,USD,578,810934.65,2022-09-09 7:20:00,,cheque
+703,William Baker,Alison Weaver,AUD,579,431.34,2022-09-06 8:10:00,,wire
+704,Matthew Nichols,Thomas Brady,IDR,580,13355.6,2022-09-05 19:59:00,,credit card
+705,Jaclyn Benjamin,Jacqueline Anderson,IDR,581,249798.56,2022-09-04 12:39:00,,wire
+706,Jonathan Christensen,Brian Forbes,AUD,582,69448.48,2022-09-09 1:30:00,,wire
+707,Michael Atkins,Michael Atkins,USD,583,109.87,2022-09-01 7:00:00,,reinvestment
+708,Matthew Morgan,William Harris,SAR,584,7144.33,2022-09-02 15:37:00,,wire
+709,John Sanchez,Jessica Byrd,IDR,585,6927.19,2022-09-02 21:47:00,,credit card
+710,Catherine Luna,Brandon Pham,USD,586,145.2,2022-09-02 21:26:00,,cash
+711,David Hurley,David Hurley,IDR,587,2598.81,2022-09-02 8:55:00,,wire
+712,Norma Gross,Amy Nelson,IDR,588,954.86,2022-09-05 13:46:00,,credit card
+713,Andrew Navarro,Eric Torres,IDR,589,98.47,2022-09-07 0:26:00,,credit card
+714,Shelby Baker,Tami Clark,IDR,590,395.79,2022-09-09 4:55:00,,cash
+715,Jerome Gutierrez,Timothy Ruiz,CAD,591,621.46,2022-09-08 3:20:00,,cheque
+716,Michael Farmer,Michael Farmer,IDR,592,23.03,2022-09-01 15:40:00,,reinvestment
+717,Laura Horne,Adrian Harris,JPY,593,53302.66,2022-09-02 12:17:00,,credit card
+718,Rachel Jones,Angela Young,IDR,594,362.16,2022-09-01 17:55:00,,wire
+719,Kelly Day,Jonathon Norris,IDR,595,193.43,2022-09-10 23:53:00,,cheque
+720,Leslie Marshall,Kayla Hayes,IDR,596,645.6,2022-09-02 4:47:00,,wire
+721,Brandon Woodard,Anthony Gross,CHF,597,3901.6,2022-09-02 4:44:00,,wire
+722,Larry Torres,Robert Roberts,MXN,598,3778018.88,2022-09-02 16:19:00,,cheque
+723,Gregory Duran,Norma Phillips,BRL,599,126.55,2022-09-01 8:52:00,,wire
+724,Spencer Chang,Grant Mcdaniel,IDR,600,50861.56,2022-09-07 18:33:00,,cheque
+725,Cynthia Malone,Paula Oneill,IDR,601,19548.27,2022-09-06 23:09:00,,cheque
+726,Alan Mata,Sheryl Mckee,IDR,602,421.8,2022-09-09 5:45:00,,cash
+727,Anthony Daniels,William Nguyen,USD,603,1010.3,2022-09-08 19:02:00,,cheque
+728,Lori Ferguson,Tamara Williams,IDR,604,698.35,2022-09-01 8:41:00,,cheque
+729,Steve Cunningham,Steve Cunningham,USD,605,8.37,2022-09-01 0:24:00,,reinvestment
+730,Stephanie Freeman,Daniel Taylor,INR,606,406952.25,2022-09-07 17:43:00,,credit card
+731,Monica Lewis,Deborah Sharp,IDR,607,822.6,2022-09-06 13:11:00,,cheque
+732,Ronald Wilson,Zachary Fisher,IDR,608,2446.15,2022-09-07 21:17:00,,credit card
+733,Anne Carter,Sean Marshall MD,CAD,609,5339.93,2022-09-02 12:47:00,,cheque
+734,Crystal Lyons,Tim Bridges,IDR,610,3808.08,2022-09-07 8:20:00,,cheque
+735,Amber Rios,Ryan Martinez,IDR,611,432.76,2022-09-02 15:21:00,,credit card
+736,Lisa Smith,Lisa Smith,SAR,612,16.13,2022-09-01 17:39:00,,reinvestment
+737,Kristina Martin,Courtney Pope,CNY,613,290.78,2022-09-09 17:05:00,,wire
+738,Bryan Lee,Bryan Lee,IDR,614,106283.19,2022-09-02 22:39:00,,wire
+739,Joshua Hodge,Bradley Tucker,USD,615,97.41,2022-09-05 21:30:00,,cash
+740,Andrea Vaughn,Melanie Wilson,IDR,616,51.44,2022-09-05 13:55:00,,cheque
+741,Laura Malone,Laura Malone,IDR,617,22.4,2022-09-01 19:34:00,,reinvestment
+742,Luke Williamson,Anthony Hartman,USD,618,29.69,2022-09-09 6:50:00,,credit card
+743,Michael Medina,Andrea Hodge,CNY,619,7401.24,2022-09-09 12:20:00,,cash
+744,Nancy Stephens,Tracy Bell,USD,620,402.17,2022-09-08 1:39:00,,cheque
+745,Jason Wilkinson,John Sanders,USD,621,743.83,2022-09-05 19:55:00,,cheque
+746,Taylor Beard,Susan Mccullough,CNY,622,4140,2022-09-01 2:03:00,,credit card
+747,Laurie Mendoza,Robert Willis,IDR,623,14.78,2022-09-03 0:06:00,,credit card
+748,Susan Richard,Nicole Taylor,IDR,624,248333.71,2022-09-09 7:39:00,,cheque
+749,Melody Smith,Madison Bender,USD,625,4438,2022-09-07 19:26:00,,credit card
+750,Robin Robinson,Robin Robinson,USD,626,4737.93,2022-09-09 1:40:00,,wire
+751,Richard Thornton,Richard Thornton,INR,627,5891897758,2022-09-01 0:24:00,,reinvestment
+752,Amber Park,Anthony Kennedy,CAD,628,881850.1,2022-09-09 22:37:00,,cheque
+753,Adriana Torres,Julie Wilson,BRL,629,38720.08,2022-09-05 17:22:00,,wire
+754,Alan Joyce,Alan Joyce,IDR,630,23.89,2022-09-01 0:21:00,,reinvestment
+755,Curtis Anderson,Curtis Anderson,USD,631,36825.92,2022-09-01 16:25:00,,reinvestment
+756,Michele Parker,Michele Parker,USD,632,15.03,2022-09-01 0:04:00,,reinvestment
+757,Deborah Pollard,Deborah Pollard,ILS,633,147677.53,2022-09-01 0:23:00,,reinvestment
+758,Tyler Gardner,Ashley Lewis,IDR,634,1037777.51,2022-09-09 16:43:00,,cash
+759,Gary Smith,Jonathan Dunn,INR,635,5125617.02,2022-09-01 0:22:00,,cheque
+760,Colton Jennings,Jon Pham,USD,636,379.16,2022-09-08 12:31:00,,cash
+761,Anthony Phillips,Megan Gentry,USD,637,147.51,2022-09-01 7:43:00,,wire
+762,Vanessa Gregory,Shawn Brown,USD,638,507.46,2022-09-01 7:38:00,,cash
+763,John Young,Alan Mata,IDR,639,113.66,2022-09-05 13:49:00,,cash
+764,Janice Collins,Henry Spence,IDR,640,247466.31,2022-09-08 15:26:00,,cash
+765,Aaron Santos,Tara Bishop,BRL,641,1839.14,2022-09-10 0:02:00,,credit card
+766,April Baldwin,Jim Johnson,MXN,642,6708.74,2022-09-08 7:18:00,,credit card
+767,Barbara Griffin,Randy Blake,IDR,643,405.43,2022-09-04 5:17:00,,cheque
+768,James Bailey,James Bailey,CNY,644,57890.59,2022-09-01 14:13:00,,reinvestment
+769,Amy Salazar,Isaiah Robles,USD,645,14799.75,2022-09-03 6:58:00,,cheque
+770,Jacob Atkins,Allen Cochran,CHF,646,1076.13,2022-09-10 17:59:00,,cheque
+771,Jared Garcia,Jared Garcia,IDR,647,5843.22,2022-09-01 0:22:00,,reinvestment
+772,Randy Smith,Sheri Ortega,USD,648,15.47,2022-09-01 0:03:00,,credit card
+773,Julie Luna,Rebecca Velasquez,BTC,649,0.085733,2022-09-01 16:47:00,,bitcoin
+774,Vincent Nichols,Danny Jones PhD,USD,650,3880.98,2022-09-09 13:56:00,,credit card
+775,Donald Garcia,Allen Lopez,IDR,651,15.7,2022-09-01 15:10:00,,cheque
+776,Laura Miranda,Laura Miranda,IDR,652,364.13,2022-09-01 13:19:00,,wire
+777,Dustin Patterson,Allen Young,USD,653,39.93,2022-09-02 0:24:00,,credit card
+778,Chelsea Stewart,Alicia Gomez,USD,654,148.39,2022-09-02 13:47:00,,credit card
+779,Marcus Wilson,Tracy Bell,USD,655,17751.78,2022-09-02 10:47:00,,credit card
+780,Christine Harris,Dawn Garrett,CHF,656,372.79,2022-09-07 15:40:00,,cheque
+781,Dr. Russell Romero,Tracy Bell,USD,657,519861.93,2022-09-09 8:58:00,,cheque
+782,Frank Mills,Arthur Hoover,USD,658,543.64,2022-09-04 5:20:00,,cheque
+783,Bethany Ramirez,Tracy Bell,USD,659,2049.67,2022-09-08 11:26:00,,credit card
+784,Troy Mills,Troy Mills,IDR,660,378480.92,2022-09-01 19:08:00,,reinvestment
+785,Douglas Davis,Marilyn Horton,INR,661,70209.55,2022-09-02 0:45:00,,cheque
+786,Amy Sampson,Amber Harris,CNY,662,1018.68,2022-09-06 2:14:00,,credit card
+787,Angela Faulkner,Melissa Moon,CAD,663,388.26,2022-09-08 11:59:00,,cheque
+788,Todd Carter,Alexandria Sweeney,CHF,664,141.49,2022-09-07 14:38:00,,wire
+789,Brian Thomas,Dakota Snyder,USD,665,268.77,2022-09-06 13:09:00,,cheque
+790,William Fowler,Robert Werner,IDR,666,165.55,2022-09-01 0:29:00,,credit card
+791,Nathaniel Hester,John Brandt,IDR,667,1293.41,2022-09-07 4:05:00,,cheque
+792,Kenneth Moore,Kenneth Moore,USD,668,8.6,2022-09-01 0:11:00,,reinvestment
+793,Erica Carpenter,Ashley Hogan,IDR,669,147.47,2022-09-03 8:13:00,,cheque
+794,Erika Murphy,Victor Hernandez,BRL,670,157389.69,2022-09-02 6:23:00,,credit card
+795,Zachary Lindsey,Kathleen Vargas,IDR,671,1829808.03,2022-09-01 0:21:00,,cheque
+796,Alan Mata,Jill Baker,IDR,672,125.46,2022-09-09 20:50:00,,cash
+797,Stephanie Summers,Erica Hayes,IDR,673,16481.94,2022-09-01 0:27:00,,wire
+798,Ryan Mooney,Dr. Eric Hudson,USD,674,15411.78,2022-09-06 12:41:00,,wire
+799,Stephen Potts,Alan Mata,IDR,675,190.99,2022-09-06 19:22:00,,cheque
+800,Sharon Webster,Justin Moran,ILS,676,2534.79,2022-09-02 20:34:00,,cheque
+801,Jennifer Larson,Katie Brown,INR,677,735796.14,2022-09-08 2:25:00,,cheque
+802,Lisa Franklin,Alex Rogers,INR,678,181861.65,2022-09-02 5:17:00,,cheque
+803,Joseph Rhodes,Michael Miller,USD,679,214.15,2022-09-05 7:08:00,,cheque
+804,Mark Hill,Omar Livingston,USD,680,61.1,2022-09-02 10:51:00,,cheque
+805,Jacob Jimenez,Tracey Morgan,SAR,681,13778.44,2022-09-09 3:21:00,,cheque
+806,John Shannon,Alan Mata,IDR,682,17426.67,2022-09-01 1:34:00,,cheque
+807,Jonathan Williams,Jonathan Williams,USD,683,84.15,2022-09-06 20:17:00,,wire
+808,Christopher Foster,Meredith Smith,CAD,684,1524341.54,2022-09-07 19:33:00,,cheque
+809,William Bishop,Rachael Holmes,IDR,685,358.08,2022-09-08 12:54:00,,wire
+810,Stanley Brown,Tracy Bell,USD,686,4115.28,2022-09-08 11:40:00,,cheque
+811,Robert Alvarez,John Ramirez,USD,687,5295.65,2022-09-02 20:15:00,,cash
+812,Isaiah Casey,Tracy Bell,USD,688,35.61,2022-09-07 11:15:00,,cheque
+813,Paul Johnson,Debbie Haley,BRL,689,1045.72,2022-09-08 8:18:00,,wire
+814,April Gallagher,Richard Perry,IDR,690,408.31,2022-09-01 10:33:00,,credit card
+815,Erica Tucker,Erica Tucker,BTC,691,0.52748,2022-09-01 5:02:00,,bitcoin
+816,David Moreno,Brian Rojas,IDR,692,19578.66,2022-09-08 15:14:00,,cash
+817,Donna Nichols,Kim Rhodes,IDR,693,954.11,2022-09-08 0:59:00,,credit card
+818,Stacy Lopez,Gary Roberts,BTC,694,0.007742,2022-09-08 1:00:00,,bitcoin
+819,Micheal Anderson,Joseph Krueger,IDR,695,1298.14,2022-09-02 13:44:00,,cheque
+820,Tanya Price,Tanya Price,USD,696,158.48,2022-09-02 22:37:00,,wire
+821,Maria Kim,Anthony Everett,SAR,697,1604.34,2022-09-06 3:08:00,,cheque
+822,Zachary Foster,Daniel Lewis,BRL,698,12280.85,2022-09-01 0:03:00,,cash
+823,Aaron Ramirez,Kristen Freeman,CHF,699,535.26,2022-09-05 2:59:00,,cheque
+824,Mary Fry,Erik Cline,USD,700,5404.52,2022-09-10 15:38:00,,cheque
+825,Anna May,Tracy Bell,USD,701,1570.45,2022-09-04 23:35:00,,cheque
+826,Dana Barrett,Carlos Stewart,USD,702,5084.36,2022-09-02 21:32:00,,cash
+827,Jacqueline Hall,Heather Cooke,IDR,703,45.36,2022-09-01 0:02:00,,credit card
+828,Spencer Merritt,Alex Conrad,CNY,704,7574.85,2022-09-02 14:06:00,,credit card
+829,John Davis,Glenn Anderson,IDR,705,25395.82,2022-09-05 6:41:00,,credit card
+830,David Hanson,David Hanson,SAR,706,374.57,2022-09-01 0:20:00,,reinvestment
+831,Kathryn Marshall,Linda Jones,IDR,707,156.53,2022-09-09 16:52:00,,wire
+832,Blake Castaneda,Blake Castaneda,USD,708,8533.81,2022-09-01 0:28:00,,reinvestment
+833,Pamela Edwards,Pamela Edwards,INR,709,51804.14,2022-09-01 18:44:00,,reinvestment
+834,Amanda Cole MD,Kyle West,USD,710,40.05,2022-09-01 0:21:00,,credit card
+835,Courtney Morgan,Martin Beck,IDR,711,5291.37,2022-09-01 6:10:00,,cheque
+836,Penny Adams,Kristen Cruz,USD,712,4061.26,2022-09-09 3:00:00,,cheque
+837,Martin Mcdowell,Stephanie Mitchell,JPY,713,65630.48,2022-09-06 7:28:00,,credit card
+838,Emily Perez,Emily Perez,USD,714,21694.25,2022-09-01 0:06:00,,reinvestment
+839,Arthur Cooke,Mary Rodriguez,IDR,715,1606.72,2022-09-03 9:38:00,,wire
+840,Zachary Lowe,Stephen Duncan,IDR,716,2191.22,2022-09-01 17:10:00,,cheque
+841,Amanda Bender,Amanda Bender,BRL,717,329.57,2022-09-01 0:17:00,,reinvestment
+842,Mary Goodman MD,Mary Goodman MD,BRL,718,135.67,2022-09-01 0:02:00,,reinvestment
+843,Cindy Watson,James Thompson,IDR,719,1455.09,2022-09-06 15:16:00,,cheque
+844,Gabriel Price,Molly Taylor,CAD,720,674.35,2022-09-08 7:19:00,,cheque
+845,Cheryl Davis,Cheryl Davis,CNY,721,1154268.74,2022-09-01 4:54:00,,reinvestment
+846,Kyle Ryan,Mr. Sean Anderson MD,CAD,722,7868.66,2022-09-01 4:17:00,,cheque
+847,Emily Fowler,Michele Dominguez,IDR,723,905.32,2022-09-05 14:48:00,,cheque
+848,Joshua Rogers,Trevor Mcdonald,BRL,724,749.71,2022-09-02 21:54:00,,cheque
+849,Bradley Meyer,Alexandria Marks,IDR,725,390.71,2022-09-09 10:00:00,,cheque
+850,Dustin Jones,Melissa Moon,CAD,726,187.11,2022-09-09 23:55:00,,cheque
+851,Robert Clark,Christopher Marshall,IDR,727,9361.6,2022-09-01 22:40:00,,wire
+852,Brian Moran,Robert Kidd,USD,728,4540.24,2022-09-02 20:07:00,,cheque
+853,Lindsay Bishop,Robert Juarez,SAR,729,59352.92,2022-09-09 14:25:00,,credit card
+854,Jeremy Mcgrath,Tracie Clark,INR,730,905923.52,2022-09-10 22:27:00,,credit card
+855,Kristen Long,Kristen Long,IDR,731,3796.12,2022-09-01 6:00:00,,reinvestment
+856,Tiffany Stout,Michael Austin,IDR,732,205253.03,2022-09-08 21:45:00,,wire
+857,Paul Patel,Cynthia Williams,IDR,733,2417.92,2022-09-06 13:07:00,,cash
+858,Joseph Hill,Mrs. Laura Colon,BRL,734,1773.74,2022-09-02 18:43:00,,cheque
+859,Ashley Moran,Gary Roberts,BTC,735,0.039721,2022-09-10 2:40:00,,bitcoin
+860,Bernard Campbell,Anthony Cooper,IDR,736,193.47,2022-09-07 14:18:00,,cash
+861,David Garrett,William Duran,IDR,737,161.59,2022-09-02 20:30:00,,credit card
+862,Nina Case,Nina Case,IDR,738,256.05,2022-09-01 13:32:00,,reinvestment
+863,Jenna Roberts,Kimberly Madden,BTC,739,0.018474,2022-09-01 11:34:00,,bitcoin
+864,Travis Shaw,Suzanne Figueroa,IDR,740,2492.48,2022-09-05 0:18:00,,credit card
+865,Tony Waters,Gary Roberts,BTC,741,0.02986,2022-09-02 4:24:00,,bitcoin
+866,Nicole Gonzalez,Alan Mata,IDR,742,8319.67,2022-09-05 1:52:00,,credit card
+867,Debra Gallegos,Ashley Wilson,IDR,743,10170.99,2022-09-02 19:48:00,,wire
+868,Faith Thomas,Veronica Pope MD,IDR,744,10616.62,2022-09-10 15:48:00,,credit card
+869,Corey Dawson,Corey Dawson,JPY,745,1608.55,2022-09-01 0:28:00,,reinvestment
+870,Tara Bell,Brian Hahn,IDR,746,67.68,2022-09-03 5:02:00,,credit card
+871,Kaylee Watson,Jennifer Velazquez,BRL,747,432.07,2022-09-09 2:27:00,,wire
+872,Kristen Burke,Joseph Delacruz,AUD,748,188.11,2022-09-08 0:29:00,,credit card
+873,Edward Morales,Scott Hall,USD,749,432.9,2022-09-01 14:27:00,,credit card
+874,Kathleen Dillon,Cheryl Warren,BTC,750,0.023369,2022-09-08 2:11:00,,bitcoin
+875,Daniel Jennings,Elizabeth Wright,IDR,751,734.04,2022-09-02 15:51:00,,cheque
+876,Deanna Johnson,Mathew Clark,IDR,752,25557.98,2022-09-06 22:06:00,,credit card
+877,Keith Friedman,Ronald Aguilar,USD,753,3610.34,2022-09-01 18:12:00,,wire
+878,Gregory Ortiz,Sarah Deleon,USD,754,46.84,2022-09-05 19:50:00,,wire
+879,Brian Morgan,Christopher Beck,USD,755,1973.5,2022-09-08 0:39:00,,wire
+880,James Figueroa,Zachary Cook Jr.,JPY,756,19739.82,2022-09-10 6:13:00,,credit card
+881,Victor Hudson,Adam Torres,IDR,757,227833.49,2022-09-09 17:40:00,,cheque
+882,Jonathan Miles,Zachary Hines,USD,758,351.68,2022-09-09 19:19:00,,wire
+883,Amy Peters,Jason Mcdaniel,IDR,759,12422.73,2022-09-07 4:11:00,,credit card
+884,John Hernandez,Brittany Taylor,AUD,760,19.2,2022-09-08 0:21:00,,credit card
+885,Kelly Gutierrez MD,Melissa Gomez,RUB,761,4250438.6,2022-09-02 20:29:00,,cheque
+886,Karen Johnson,Christopher Martinez,IDR,762,7480.14,2022-09-05 23:45:00,,cheque
+887,Michael Brown,Michael Brown,USD,763,451.04,2022-09-01 0:24:00,,reinvestment
+888,Dr. Ryan Hendricks,Mark Dean,IDR,764,861693.09,2022-09-04 13:50:00,,cash
+889,Ronald Ryan,Denise Wilson,IDR,765,5.65,2022-09-10 17:36:00,,wire
+890,Paul Alexander,Paul Alexander,BTC,766,0.136615,2022-09-07 22:19:00,,bitcoin
+891,Michael Stevens,Victor Rodriguez,CAD,767,1453.42,2022-09-08 18:36:00,,credit card
+892,Jonathon Smith,Robin Hill,USD,768,121.12,2022-09-07 7:08:00,,cheque
+893,John Swanson,Christopher Shaw,USD,769,609.85,2022-09-09 1:52:00,,credit card
+894,James Stokes,Tracy Bell,USD,770,6342.71,2022-09-06 11:12:00,,cheque
+895,Wendy Sellers,Cheryl Hernandez,CNY,771,220.94,2022-09-08 14:20:00,,cheque
+896,Joshua Doyle,Shannon Jackson,IDR,772,701.17,2022-09-09 6:47:00,,cheque
+897,Misty Huber,Anthony Trevino,CNY,773,688.29,2022-09-07 21:15:00,,credit card
+898,Keith Ruiz,Kathryn Johnson,ILS,774,11150.43,2022-09-01 10:53:00,,credit card
+899,Larry Johnston,Alan Mata,IDR,775,2372.33,2022-09-05 4:28:00,,cash
+900,Dennis Melton,Alan Cochran,SAR,776,7746.43,2022-09-01 11:43:00,,cheque
+901,Hannah Johnson,Jill Knapp,CNY,777,3558.46,2022-09-04 8:08:00,,cheque
+902,April Smith,Corey Esparza,CAD,778,1628.7,2022-09-04 6:39:00,,cheque
+903,Connor Lane,Jeff Williams,BTC,779,0.01023,2022-09-01 18:58:00,,bitcoin
+904,Cindy Hunt,Rebecca Charles,IDR,780,1864.69,2022-09-06 0:05:00,,cheque
+905,Karen Knox,Emily Gray,BTC,781,0.064751,2022-09-06 7:28:00,,bitcoin
+906,Christopher Cooper,Brenda Barrera,USD,782,287.23,2022-09-09 16:02:00,,credit card
+907,Miguel Mendez,Holly Jimenez,USD,783,84.67,2022-09-02 8:34:00,,cash
+908,Breanna Thompson,Breanna Thompson,IDR,784,8.97,2022-09-01 3:59:00,,reinvestment
+909,Regina Harvey,Robert Morales,USD,785,120.17,2022-09-09 16:33:00,,cash
+910,Mark Blackwell III,Mark Blackwell III,CAD,786,103.11,2022-09-02 6:14:00,,wire
+911,Michelle Martinez,Alan Mata,IDR,787,915.66,2022-09-08 9:00:00,,credit card
+912,Kathleen Khan,Danielle Wilson,CNY,788,436807.03,2022-09-02 13:13:00,,cash
+913,Patricia Torres,Aaron Patterson,USD,789,1635.92,2022-09-07 17:18:00,,credit card
+914,Philip Macdonald,Matthew Moore,IDR,790,26.63,2022-09-01 7:52:00,,credit card
+915,Jaime Dean,Alan Mata,IDR,791,554.84,2022-09-09 11:13:00,,credit card
+916,Frank Harris,Frank Harris,IDR,792,16.62,2022-09-01 19:26:00,,reinvestment
+917,Brenda Edwards,Tracy Bell,USD,793,125.15,2022-09-02 17:29:00,,credit card
+918,Jordan Moran,Mrs. Erin Hall,IDR,794,92731.55,2022-09-06 6:22:00,,cheque
+919,Tony Ray,Clayton Banks,IDR,795,3185.74,2022-09-04 3:53:00,,wire
+920,Anna Avila DVM,Jennifer Gross,IDR,796,3498.65,2022-09-08 19:54:00,,cheque
+921,Matthew Sanders,Calvin Clark,JPY,797,972533.04,2022-09-01 0:14:00,,wire
+922,Jennifer Ward,Alan Mata,IDR,798,4416.22,2022-09-01 0:25:00,,credit card
+923,Victoria Reese,Victoria Reese,CNY,799,71.93,2022-09-01 0:08:00,,reinvestment
+924,Kenneth Newton,Jonathan Townsend,IDR,800,20.95,2022-09-01 0:10:00,,credit card
+925,Carolyn Kelly,Stephen Carroll,USD,801,1098.99,2022-09-01 0:09:00,,cheque
+926,Gina Wilson,Stephen Newman,INR,802,1179064.88,2022-09-07 9:00:00,,cheque
+927,Jeffrey Howell,Rachel Jefferson,IDR,803,1071.51,2022-09-09 19:30:00,,cheque
+928,Jerry Ramirez,Ricky Williams,USD,804,339.29,2022-09-06 5:33:00,,cheque
+929,Veronica Robinson,Tiffany Salazar,USD,805,123.26,2022-09-02 2:30:00,,cheque
+930,Jodi Nguyen,Amanda Stone,ILS,806,1165.05,2022-09-09 8:41:00,,cheque
+931,Rebecca Cook,Richard Sanders,USD,807,62324.83,2022-09-07 11:32:00,,cheque
+932,Thomas Winters,Ann Jackson,IDR,808,108.77,2022-09-06 0:04:00,,credit card
+933,Dr. Kimberly Decker,Michael Castro,IDR,809,1155.22,2022-09-07 22:31:00,,cheque
+934,Jennifer David,Frank Martinez,IDR,810,1070.51,2022-09-02 16:51:00,,cheque
+935,Adriana Lewis,Adriana Lewis,IDR,811,481.27,2022-09-09 2:24:00,,wire
+936,Danielle Bond,Alexis King,CAD,812,2667.28,2022-09-02 5:25:00,,cheque
+937,Austin Cline,Tiffany Pace,USD,813,304.02,2022-09-09 9:50:00,,credit card
+938,Meredith Adams,David Pena,USD,814,2385.12,2022-09-01 11:56:00,,wire
+939,Samantha Lambert,Brianna Douglas,USD,815,23.43,2022-09-02 13:54:00,,wire
+940,Cindy Singleton,Christopher Walker,IDR,816,55213373.86,2022-09-02 3:51:00,,cash
+941,Kevin Martinez,Jade Hunter,CHF,817,45502.58,2022-09-01 0:21:00,,cheque
+942,Melissa Newman,Melissa Newman,USD,818,216.3,2022-09-01 0:22:00,,reinvestment
+943,Erik Hughes,Alexander Price,BTC,819,0.038222,2022-09-08 18:42:00,,bitcoin
+944,Kathleen Ferguson,Kathleen Ferguson,USD,820,2767.41,2022-09-01 16:00:00,,reinvestment
+945,Sandra Pacheco,David Valdez,SAR,821,60771.09,2022-09-02 3:36:00,,cheque
+946,Sean Johnson,Thomas Henry,USD,822,135.44,2022-09-09 0:56:00,,wire
+947,Steven Perry,Catherine Newton,BRL,823,212550.01,2022-09-06 19:01:00,,cheque
+948,Micheal Carter,Anthony Ingram,USD,824,69.31,2022-09-08 23:20:00,,cheque
+949,Andrea Ryan,Richard Martinez,USD,825,2230.97,2022-09-05 19:35:00,,wire
+950,Ashley Green,Phyllis Watts,ILS,826,307.14,2022-09-07 13:33:00,,cheque
+951,Sarah Edwards,Sarah Edwards,IDR,827,231.61,2022-09-05 3:49:00,,wire
+952,Susan Rhodes,Marcus Robinson,AUD,828,13167.95,2022-09-06 23:12:00,,credit card
+953,Christopher Hudson,Katherine Glenn,BTC,829,0.608567,2022-09-07 21:46:00,,bitcoin
+954,John Sandoval,John Sandoval,IDR,830,473.91,2022-09-01 0:28:00,,reinvestment
+955,Brad Benson,Jeffrey Castro,CNY,831,95871.72,2022-09-06 3:31:00,,wire
+956,Gail Ward,Carmen Green,IDR,832,1063.95,2022-09-03 4:38:00,,cheque
+957,Alexis Bell,Alexis Bell,CNY,833,68,2022-09-01 0:08:00,,reinvestment
+958,Kurt Ross,Michael Simpson,GBP,834,657.65,2022-09-01 6:01:00,,wire
+959,Lisa Wilkinson,Lisa Wilkinson,USD,835,3827.44,2022-09-01 0:07:00,,reinvestment
+960,Nicholas Thompson,Charles Carlson,IDR,836,523.45,2022-09-02 19:29:00,,credit card
+961,Brandon Nguyen,Robert Flores,IDR,837,383820.28,2022-09-09 21:06:00,,cheque
+962,Lindsey Fields,William Smith,IDR,838,1361.42,2022-09-01 11:13:00,,cheque
+963,Christian Perkins,James Shields,IDR,839,2005.94,2022-09-10 1:28:00,,cheque
+964,Karen Mcclure,Crystal Steele,IDR,840,280.65,2022-09-09 7:55:00,,cheque
+965,Jeanne Barnes,Alan Mata,IDR,841,649.55,2022-09-01 14:40:00,,cash
+966,Maria Mclean,Chad Gomez,INR,842,126272.1,2022-09-02 2:34:00,,credit card
+967,Edward Miller,Jordan Hamilton,CNY,843,1849.58,2022-09-01 16:29:00,,credit card
+968,Elizabeth Hall,Lance Campbell,IDR,844,428.3,2022-09-10 17:16:00,,cheque
+969,Linda Love,James Serrano,IDR,845,7286.6,2022-09-01 8:52:00,,credit card
+970,Justin Molina,Franklin Keller,IDR,846,959.69,2022-09-01 19:39:00,,credit card
+971,Michael Reed,Joshua Moore,IDR,847,251.57,2022-09-09 14:45:00,,wire
+972,Angela Garcia,Harold Jones,IDR,848,152.06,2022-09-02 4:19:00,,cheque
+973,Kelly Sanchez,Nicholas Gonzales,INR,849,19299.31,2022-09-02 20:50:00,,wire
+974,Corey Reed,Jessica Jimenez,CNY,850,34261.63,2022-09-08 19:46:00,,cheque
+975,Mark Smith,Alan Mata,IDR,851,441.95,2022-09-02 8:43:00,,cheque
+976,Mary Stone,David Williams,USD,852,6.64,2022-09-09 10:15:00,,cash
+977,Robert Richardson,Carlos Mahoney,INR,853,516579.23,2022-09-05 23:43:00,,cheque
+978,Jacob Valdez,Krista Pope,CNY,854,3323.14,2022-09-06 6:49:00,,credit card
+979,Anthony Hammond,Stephanie Franklin,CNY,855,2470.6,2022-09-08 22:02:00,,cheque
+980,Margaret Castillo,Timothy Wright,IDR,856,601.05,2022-09-02 0:10:00,,wire
+981,Nichole Snyder,Eric Todd,INR,857,2723.92,2022-09-05 11:23:00,,cash
+982,Julia Marshall,Julia Marshall,BTC,858,9.4,2022-09-01 0:14:00,,bitcoin
+983,Chelsea Hayes,Katrina Jones,INR,859,68778.66,2022-09-06 23:30:00,,cheque
+984,Allison Wood,Jade Wood,USD,860,171.35,2022-09-06 9:34:00,,cheque
+985,Kimberly Hays,Brian Payne,CAD,861,319.43,2022-09-06 11:13:00,,wire
+986,Michael Gay,Victoria Martinez,IDR,862,845839.71,2022-09-01 12:41:00,,cheque
+987,Sarah Washington,Allen Huff IV,IDR,863,9054.18,2022-09-09 15:02:00,,cheque
+988,Jim Ray,Jim Ray,MXN,864,150354.68,2022-09-01 14:38:00,,reinvestment
+989,Charles Morris,Charles Morris,USD,865,660.21,2022-09-01 0:16:00,,reinvestment
+990,Nancy Fleming,Cynthia Sawyer,IDR,866,4442.19,2022-09-05 8:50:00,,credit card
+991,Ashley Haynes,Laura Wells,BTC,867,0.451326,2022-09-06 4:51:00,,bitcoin
+992,Kenneth Hendricks,Monica Scott,MXN,868,29062.07,2022-09-02 21:27:00,,wire
+993,Elijah Moore,Michael White,USD,869,50.1,2022-09-09 23:14:00,,cheque
+994,Luis Mcdonald,Luis Mcdonald,USD,870,822.61,2022-09-06 21:05:00,,wire
+995,Steven Bernard,John Conrad II,CHF,871,2224.26,2022-09-10 16:05:00,,cheque
+996,Allison Simmons,Kevin Ramos,CHF,872,89.49,2022-09-05 22:52:00,,cheque
+997,Roger Rose,Steven Sellers,BTC,873,0.924939,2022-09-09 19:19:00,,bitcoin
+998,Stephen Johnson,Erica Marsh,USD,874,115.71,2022-09-09 3:22:00,,credit card
+999,Andrea James,Alan Mata,IDR,875,1401.57,2022-09-08 18:25:00,,cheque
+1000,Scott Lawson,Scott Lawson,MXN,876,1664716.03,2022-09-01 0:23:00,,reinvestment
+1001,Dawn Hubbard,Hannah Gomez,IDR,877,13350056.59,2022-09-09 16:27:00,,wire
+1002,Angela Miles,Angela Miles,IDR,878,9141.7,2022-09-01 9:21:00,,reinvestment
+1003,Roberto Pierce,Caleb Powell,IDR,879,118742.96,2022-09-02 22:17:00,,wire
+1004,Hannah James,David Gonzales,SAR,880,88.59,2022-09-01 19:48:00,,cheque
+1005,Thomas Ortega,Patricia Sweeney,IDR,881,5988.42,2022-09-05 6:53:00,,credit card
+1006,Vincent Rodriguez,Paul Benson,IDR,882,1021.14,2022-09-09 8:39:00,,cheque
+1007,Andrew Hernandez,Beverly Wells,IDR,883,4191.29,2022-09-01 17:35:00,,cash
+1008,Matthew Wright,Tracy Bell,USD,884,1268.39,2022-09-01 15:54:00,,cheque
+1009,Ryan Roberts,Joshua Lang,USD,885,6125.93,2022-09-09 15:14:00,,cheque
+1010,Brandon Beard,Gregory Stevens,IDR,886,3948.89,2022-09-01 12:31:00,,credit card
+1011,Elizabeth Cole,Jeffrey Bush,USD,887,104.84,2022-09-08 8:08:00,,cheque
+1012,Wanda Miller,Wanda Miller,CNY,888,364.89,2022-09-02 6:15:00,,wire
+1013,Lisa Cowan,Kelly Aguilar PhD,IDR,889,1855.79,2022-09-08 17:00:00,,credit card
+1014,William Chan,Danielle Young,USD,890,5.41,2022-09-01 19:55:00,,wire
+1015,Courtney Brown,Frank Nash,USD,891,38.3,2022-09-05 14:40:00,,wire
+1016,Amy Flores,Kimberly Green,INR,892,153065.68,2022-09-05 1:35:00,,cheque
+1017,Corey Owens,Judith Fitzgerald,MXN,893,17190.04,2022-09-02 18:51:00,,wire
+1018,Raymond Wade,Jonathon Rivera,USD,894,37.02,2022-09-05 17:34:00,,cheque
+1019,Ronald Simmons,Ronald Simmons,USD,895,51.62,2022-09-01 0:15:00,,wire
+1020,Ricky Davidson,Alan Mata,IDR,896,104.43,2022-09-05 6:07:00,,credit card
+1021,Kirk Young,Melissa Smith,IDR,897,103.45,2022-09-02 3:13:00,,cheque
+1022,Kevin Kirk,William Glover,BRL,898,52916.33,2022-09-09 4:54:00,,credit card
+1023,John Butler,Karen Hernandez,USD,899,4348.73,2022-09-01 0:14:00,,wire
+1024,Christopher Lewis,Michael Harris,CNY,900,18.47,2022-09-07 9:48:00,,wire
+1025,Brittany Cummings,Jennifer Williamson,USD,901,278.9,2022-09-05 5:37:00,,cash
+1026,James Montes,Leonard Ferguson,IDR,902,20.42,2022-09-03 12:13:00,,cash
+1027,Laura Richardson,Terry Bowen,ILS,903,13265.61,2022-09-05 9:43:00,,credit card
+1028,Juan Hanson,Steven Tucker,CNY,904,11039.95,2022-09-05 16:53:00,,cheque
+1029,Rebecca Simmons,Tracey Phelps,CNY,905,2084779571,2022-09-08 1:11:00,,cheque
+1030,Cody Flores,Fernando Peters,USD,906,883.88,2022-09-08 16:37:00,,cheque
+1031,April Scott,April Scott,USD,907,1617.92,2022-09-01 0:21:00,,reinvestment
+1032,Paul Harvey,Dalton Mercado,SAR,908,292.57,2022-09-01 0:16:00,,credit card
+1033,Gabriela Wilson,Scott Woods,USD,909,93.4,2022-09-06 19:47:00,,wire
+1034,Lauren Morgan,Lauren Morgan,IDR,910,430.35,2022-09-01 0:27:00,,reinvestment
+1035,Rebecca Bautista,Andrew Cole,USD,911,486.09,2022-09-02 7:08:00,,cheque
+1036,Claudia Mercado,Karen Martin,CHF,912,197.53,2022-09-08 8:54:00,,wire
+1037,Tammy Adams,Mary Moran,ILS,913,52.08,2022-09-02 9:30:00,,cheque
+1038,Thomas Wood,Vanessa Spears,CHF,914,1274.35,2022-09-05 8:41:00,,credit card
+1039,Betty Arnold,Benjamin Mckenzie,BRL,915,3288.47,2022-09-09 23:42:00,,cheque
+1040,Lisa Ramirez,Susan Fernandez,CNY,916,8330,2022-09-01 7:57:00,,wire
+1041,Tony Medina,Sheila Russell,IDR,917,2470.47,2022-09-07 20:13:00,,credit card
+1042,Robert Rhodes,Robert Rhodes,USD,918,5408.17,2022-09-01 0:11:00,,reinvestment
+1043,Paul Beltran,Amy Allen,IDR,919,70.53,2022-09-09 22:15:00,,cheque
+1044,Jasmine Ferrell,Wanda Miller,IDR,920,56.48,2022-09-05 17:03:00,,credit card
+1045,James Lopez,Kelly Quinn,USD,921,3273.4,2022-09-09 16:02:00,,wire
+1046,Lori Davis,Kim Montoya,USD,922,73.85,2022-09-03 1:50:00,,cheque
+1047,Gerald Waters,Felicia Fox,IDR,923,571.85,2022-09-05 9:48:00,,cheque
+1048,Mary Nicholson,Mary Nicholson,IDR,924,34264871.02,2022-09-01 20:01:00,,reinvestment
+1049,Kaitlyn King,Mary Atkinson,USD,925,3671.76,2022-09-02 23:14:00,,credit card
+1050,Abigail Pena,Courtney Whitehead,IDR,926,22245.16,2022-09-07 1:03:00,,cheque
+1051,Courtney Brooks,Amanda Davis,IDR,927,4700.79,2022-09-09 15:46:00,,wire
+1052,Steven Day,Robert Barber,BRL,928,732.43,2022-09-05 11:27:00,,cheque
+1053,Jeremy Hamilton,Brian Morales,USD,929,7512.87,2022-09-06 1:37:00,,credit card
+1054,Emily Ellis,Jason Lloyd,IDR,930,305.96,2022-09-08 20:01:00,,wire
+1055,Aaron Stevens,Danielle Wilson,CNY,931,444.42,2022-09-07 18:47:00,,cheque
+1056,Nicholas Allen,Paula Padilla,CNY,932,709.91,2022-09-07 1:41:00,,credit card
+1057,Christine Simpson,Peter Sosa,IDR,933,13330.89,2022-09-10 19:58:00,,credit card
+1058,Jessica Silva,Scott Meyer,IDR,934,72051.87,2022-09-01 23:59:00,,wire
+1059,Brittany Hernandez,Chris Valdez,IDR,935,597.5,2022-09-07 2:39:00,,cheque
+1060,Kelsey Wise,Julia Morgan,USD,936,0.98,2022-09-09 4:03:00,,wire
+1061,Jaime Gay,Sheila Wagner,IDR,937,224.31,2022-09-07 10:09:00,,wire
+1062,Kyle Robinson,Richard Cunningham,USD,938,1611.88,2022-09-07 3:40:00,,wire
+1063,Kelsey Taylor,Brandon Moore,JPY,939,18117.87,2022-09-10 5:39:00,,wire
+1064,Jeffrey Cowan,Kyle Oliver,IDR,940,6170.88,2022-09-06 20:12:00,,cheque
+1065,Janet Patton,Carolyn Lewis,IDR,941,27352.31,2022-09-04 1:51:00,,cheque
+1066,Robert Lewis,Derrick Nelson,USD,942,279.29,2022-09-06 14:25:00,,credit card
+1067,Crystal Williams,Lindsey Bennett,IDR,943,401940.86,2022-09-01 4:58:00,,wire
+1068,Christie Medina,Renee Parker,USD,944,196.77,2022-09-09 20:36:00,,wire
+1069,Kim Drake,Kim Drake,IDR,945,14.99,2022-09-01 9:14:00,,reinvestment
+1070,Nathaniel Ruiz,Cameron Roberts,USD,946,312.4,2022-09-09 6:02:00,,cheque
+1071,Patrick Young,Nathan Jones,IDR,947,530.44,2022-09-04 12:16:00,,cheque
+1072,Michael Mckay,Juan Taylor Jr.,AUD,948,25276.07,2022-09-03 18:51:00,,cheque
+1073,Julie Flynn,Dylan Collins,USD,949,63.89,2022-09-02 3:36:00,,cheque
+1074,Amy Boyle,Amy Boyle,IDR,950,335065.6,2022-09-01 3:23:00,,reinvestment
+1075,Larry Lowe,Matthew Clements MD,IDR,951,28135.53,2022-09-10 23:02:00,,cheque
+1076,Monica Morales,Michael Peterson,SAR,952,467.87,2022-09-05 22:37:00,,cash
+1077,Michael Roberts DVM,Tara Navarro,USD,953,472.46,2022-09-05 2:31:00,,wire
+1078,Ralph Cook,Matthew Smith,IDR,954,3070.83,2022-09-09 14:05:00,,cash
+1079,Hannah Collins,Melissa Moon,CAD,955,108.31,2022-09-01 8:23:00,,cheque
+1080,Robert White,Brandon Dunn,IDR,956,78503,2022-09-01 0:16:00,,cheque
+1081,Katie Nolan,Adam Martin,USD,957,1520.05,2022-09-07 23:07:00,,cash
+1082,Alexander Smith,Preston Richardson,USD,958,278.92,2022-09-02 18:15:00,,credit card
+1083,Blake Gonzales,Blake Gonzales,USD,959,56.16,2022-09-01 0:23:00,,reinvestment
+1084,Robert Ryan,Shannon Huerta,IDR,960,30.93,2022-09-08 3:44:00,,wire
+1085,Mary Gonzalez,Haley Lopez,USD,961,33.74,2022-09-10 9:33:00,,credit card
+1086,Pamela Howard,Pamela Howard,IDR,962,25534,2022-09-01 0:26:00,,reinvestment
+1087,Paul Clark,Richard Torres,JPY,963,11031.43,2022-09-09 0:11:00,,cheque
+1088,Nicole Ochoa,Clarence Clark,BRL,964,24361175.2,2022-09-09 23:52:00,,wire
+1089,Madison Shepherd,Loretta Whitaker,IDR,965,216.58,2022-09-01 0:05:00,,wire
+1090,Antonio Kim,Cheryl Chan,USD,966,127.09,2022-09-02 15:53:00,,cheque
+1091,Victoria Jones,Jennifer Aguirre,SAR,967,107.48,2022-09-05 0:04:00,,credit card
+1092,Elizabeth Davis,Christine Hall,BRL,968,696.64,2022-09-01 20:43:00,,credit card
+1093,Jasmine Cook,Lisa Henson,SAR,969,533.87,2022-09-02 10:06:00,,cheque
+1094,Thomas Cantrell,Samantha Randolph,IDR,970,543.99,2022-09-02 15:47:00,,wire
+1095,Desiree Stanley,Tristan Lucero,SAR,971,128.21,2022-09-09 0:13:00,,credit card
+1096,Julia Johnson,Tanya Nelson,CNY,972,838.47,2022-09-02 5:50:00,,wire
+1097,Monica Alvarado,Madeline Johnson,AUD,973,520969.77,2022-09-08 16:21:00,,cheque
+1098,Robert Jacobs,Robert Jacobs,INR,974,1343.06,2022-09-01 12:05:00,,reinvestment
+1099,Timothy Garcia,Trevor Hamilton,IDR,975,1666.79,2022-09-09 20:04:00,,wire
+1100,Megan Chambers,Robert Howard,CNY,976,700.34,2022-09-09 16:06:00,,cash
+1101,Tina Hill,Tina Hill,IDR,977,1348184.25,2022-09-01 6:49:00,,reinvestment
+1102,Joshua Butler,Jennifer Ellis,IDR,978,64.41,2022-09-02 21:42:00,,wire
+1103,Anthony Robinson,Jason Conway,GBP,979,429.64,2022-09-04 15:02:00,,wire
+1104,Paul Vaughn,Tracy Bell,USD,980,24834.64,2022-09-02 4:54:00,,credit card
+1105,Ryan Ford,Neil Davis,CAD,981,125.3,2022-09-05 11:34:00,,cheque
+1106,Ashley Yoder,Tracy Knight,IDR,982,619051.6,2022-09-02 22:48:00,,cash
+1107,Jeanette Richards,Ian Kelly,IDR,983,4824.41,2022-09-08 2:57:00,,wire
+1108,David Jones,Scott Howe,IDR,984,897474.42,2022-09-01 21:43:00,,wire
+1109,Savannah Warren,Patricia Medina,CNY,985,6719.33,2022-09-05 10:50:00,,credit card
+1110,Kevin Bowers,Nathan Herrera,SAR,986,1872154.62,2022-09-01 17:32:00,,cheque
+1111,Billy Buchanan,Dennis King,IDR,987,1892.32,2022-09-06 18:13:00,,credit card
+1112,Debbie Haley,Eric Davenport,BRL,988,389.22,2022-09-07 7:26:00,,wire
+1113,Crystal Pennington,Daniel Gutierrez,SAR,989,1489810.65,2022-09-06 18:41:00,,cheque
+1114,Linda Mclaughlin,Linda Mclaughlin,IDR,990,170348.88,2022-09-01 0:15:00,,reinvestment
+1115,Chelsea Gonzalez,Alicia Smith,JPY,991,5669.19,2022-09-08 7:22:00,,cheque
+1116,Andrew Bray,Thomas Miller,CNY,992,81988.45,2022-09-02 9:24:00,,credit card
+1117,Nina Mason,Kelsey Smith,ILS,993,10757.96,2022-09-02 4:40:00,,cheque
+1118,Virginia Smith,Debra Joseph,USD,994,533.74,2022-09-02 1:16:00,,wire
+1119,Alicia Skinner,Alicia Skinner,IDR,995,74773.66,2022-09-02 16:28:00,,wire
+1120,Dr. Kendra Mitchell,Ethan Tanner,IDR,996,131.28,2022-09-09 6:15:00,,credit card
+1121,Linda Hall,Erin Aguilar,USD,997,224.83,2022-09-09 8:42:00,,cheque
+1122,Daniel Jones,Brooke Ware,IDR,998,1914.48,2022-09-05 10:12:00,,cheque
+1123,Jerry Benton,Anthony Salazar,IDR,999,1526.58,2022-09-08 10:13:00,,credit card
