@@ -1,0 +1,31 @@
+timestamp,sender,message
+2024-06-05 15:10:53,user,halo
+2024-06-05 15:10:53,assistant,
+2024-06-05 15:10:56,user,hahaha
+2024-06-05 15:10:56,assistant,"Berikut perbincangan pada pesan sebelumnya: 2024-06-05 15:10:53 - user: halo
+2024-06-05 15:10:53 - assistant: 
+"
+2024-06-05 15:11:05,user,ini kenapa ya
+2024-06-05 15:11:05,assistant,"Berikut perbincangan pada pesan sebelumnya: 2024-06-05 15:10:53 - user: halo
+2024-06-05 15:10:53 - assistant: 
+2024-06-05 15:10:56 - user: hahaha
+2024-06-05 15:10:56 - assistant: Berikut perbincangan pada pesan sebelumnya: 2024-06-05 15:10:53 - user: halo
+2024-06-05 15:10:53 - assistant: 
+
+"
+2024-06-05 15:11:30,user,OIII
+2024-06-05 15:11:30,assistant,"Berikut perbincangan pada pesan sebelumnya: 2024-06-05 15:10:53 - user: halo
+2024-06-05 15:10:53 - assistant: 
+2024-06-05 15:10:56 - user: hahaha
+2024-06-05 15:10:56 - assistant: Berikut perbincangan pada pesan sebelumnya: 2024-06-05 15:10:53 - user: halo
+2024-06-05 15:10:53 - assistant: 
+
+2024-06-05 15:11:05 - user: ini kenapa ya
+2024-06-05 15:11:05 - assistant: Berikut perbincangan pada pesan sebelumnya: 2024-06-05 15:10:53 - user: halo
+2024-06-05 15:10:53 - assistant: 
+2024-06-05 15:10:56 - user: hahaha
+2024-06-05 15:10:56 - assistant: Berikut perbincangan pada pesan sebelumnya: 2024-06-05 15:10:53 - user: halo
+2024-06-05 15:10:53 - assistant: 
+
+
+"

@@ -1,0 +1,871 @@
+timestamp,sender,message
+2024-06-05 14:44:59,user,halo
+2024-06-05 14:44:59,assistant,"Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        "
+2024-06-05 15:08:43,user,siapa yang terlibat
+2024-06-05 15:08:43,assistant,"Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        Berikut perbincangan pada pesan sebelumnya: 2024-06-05 14:44:59 - user: halo
+2024-06-05 14:44:59 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        
+
+        "
+2024-06-05 15:09:11,user,siapa lagi
+2024-06-05 15:09:11,assistant,"Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        Berikut perbincangan pada pesan sebelumnya: 2024-06-05 14:44:59 - user: halo
+2024-06-05 14:44:59 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        
+2024-06-05 15:08:43 - user: siapa yang terlibat
+2024-06-05 15:08:43 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        Berikut perbincangan pada pesan sebelumnya: 2024-06-05 14:44:59 - user: halo
+2024-06-05 14:44:59 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        
+
+        
+
+        "
+2024-06-05 15:09:34,user,halo jeri
+2024-06-05 15:09:34,assistant,"Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        Berikut perbincangan pada pesan sebelumnya: 2024-06-05 14:44:59 - user: halo
+2024-06-05 14:44:59 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        
+2024-06-05 15:08:43 - user: siapa yang terlibat
+2024-06-05 15:08:43 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        Berikut perbincangan pada pesan sebelumnya: 2024-06-05 14:44:59 - user: halo
+2024-06-05 14:44:59 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        
+
+        
+2024-06-05 15:09:11 - user: siapa lagi
+2024-06-05 15:09:11 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        Berikut perbincangan pada pesan sebelumnya: 2024-06-05 14:44:59 - user: halo
+2024-06-05 14:44:59 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        
+2024-06-05 15:08:43 - user: siapa yang terlibat
+2024-06-05 15:08:43 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        Berikut perbincangan pada pesan sebelumnya: 2024-06-05 14:44:59 - user: halo
+2024-06-05 14:44:59 - assistant: Kamu adalah asisten analis fraud dari Drovide Pivide. 
+        Kamu menanggapi pertanyaan secara singkat, padat, dan jelas berdasarkan materi: 
+        *20240524-roundtrip-01*
+Terduga kasus money laundering jenis: Round Trip
+Informasi transaksi dan keterkaitan:
+RECEIVER_ACCOUNT: Musmuliadi
+SENDER_ACCOUNT: Budi Santoso
+TX_TYPE: wire
+TX_AMOUNT: 250000.0
+TIMESTAMP: 2023-05-15 10:30:00
+
+RECEIVER_ACCOUNT: Dewi Sari
+SENDER_ACCOUNT: Masa Metonia Abadi
+TX_TYPE: cash
+TX_AMOUNT: 150000.0
+TIMESTAMP: 2023-05-17 11:15:00
+
+RECEIVER_ACCOUNT: Fajar Hidayat
+SENDER_ACCOUNT: Dewi Sari
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Joko Parwanto
+SENDER_ACCOUNT: Fajar Hidayat
+TX_TYPE: wire
+TX_AMOUNT: 120000.0
+TIMESTAMP: 2023-05-18 16:20:00
+
+RECEIVER_ACCOUNT: Kartika Sari
+SENDER_ACCOUNT: Joko Parwanto
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-24 17:30:00
+
+RECEIVER_ACCOUNT: Budi Santoso
+SENDER_ACCOUNT: Kartika Sari
+TX_TYPE: cash
+TX_AMOUNT: 30000.0
+TIMESTAMP: 2023-05-26 17:30:00
+
+RECEIVER_ACCOUNT: Masa Metonia Abadi
+SENDER_ACCOUNT: Musmuliadi
+TX_TYPE: DIREKTUR
+TX_AMOUNT: nan
+TIMESTAMP: nan
+
+
+
+Rangkuman:
+n_entities_involved: 7
+total_amount: 250000.0
+ML_type: Round Trip
+
+ dan pengetahuanmu tentang fraud di institusi finansial.
+        
+        
+
+        
+
+        
+
+        "
