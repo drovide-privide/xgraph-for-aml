@@ -1,0 +1,62 @@
+ Anti Pencucian Uang dan Pencegahan Pendanaan Terorisme - Bank Indonesia
+
+Latar Belakang APU PPT
+
+Lembaga keuangan sangat rentan terhadap kemungkinan digunakan sebagai media pencucian uang dan pendanaan terorisme, karena tersedia banyak pilihan transaksi bagi pelaku pencucian uang dan pendanaan terorisme dalam upaya melancarka n tindak kejahatannya. Melalui berbagai pilihan transaksi tersebut, seperti transaksi pengiriman uang, lembaga keuangan menjadi pintu masuk harta kekayaan yang merupakan hasil tindak pidana atau merupakan pendanaan kegiatan terorisme ke dalam sistem keuangan yang selanjutnya dapat dimanfaatkan untuk kepentingan pelaku kejahatan. Misalnya untuk pelaku pencucian uang, harta kekayaan tersebut dapat ditarik kembali sebagai harta kekayaan yang seolah-olah sah dan tidak lagi dapat dilacak asal usulnya. Sedangkan untuk pelaku pendanaan terorisme, harta kekayaan tersebut dapat digunakan untuk membiayai kegiatan terorisme.
+
+Seiring dengan perkembangan produk, model bisnis dan teknologi informasi yang semakin kompleks, seluruh Penyedia Jasa Keuangan di bawah pengawasan Bank Indonesia wajib menerapkan Program APU dan PPT secara optimal dan efektif. Penerapan program APU dan PPT tidak saja penting untuk pemberantasan pencucian uang dan pencegahan pendanaan terorisme, melainkan juga untuk mendukung penerapan prinsip kehati-hatian yang dapat melindungi Penyelenggara maupun pengguna jasa dari berbagai risiko yang mungkin timbul.
+APU PPT untuk Mewujudkan Visi SPI 2025
+
+Sistem Pembayaran Indonesia (SPI) 2025 menjamin keseimbangan antara inovasi dengan integritas sistem pembayaran, melalui penerapan Anti Pencucian Uang, Pencegahan Pendanaan Terorisme, serta Pencegahan Pendanaan Proliferasi Senjata Pemusnah Massal sebagaimana Visi 4 Blueprint SPI 2025 yakni “SPI 2025 menjamin keseimbangan antara inovasi dengan consumers protection, integritas dan stabilitas serta persaingan usaha yang sehat melalui penerapan KYC & AML-CFT, kewajiban keterbukaan data/informasi / bisnis publik, dan penerapan regtech dan suptech dalam kewajiban pelaporan, regulasi, dan pengawasan". Publikasi Blueprint SPI 2025 dapat diunduh di sini.
+
+Kebijakan dan Analisis Risiko
+
+Framework APU PPT dibangun untuk mendukung pencapaian Visi SPI 2025 serta mencegah aktivitas pencucian uang, pendanaan terorisme, dan pendanaan proliferasi senjata pemusnah massal yang menimbulkan berbagai risiko, antara lain:
+
+    Mengancam stabilitas perekonomian dan integritas sistem keuangan; 
+    Mengurangi kredibilitas Indonesia di mata internasional; 
+    Meningkatkan risiko investasi;
+    Pendanaan tindak pidana terorisme merupakan salah satu bentuk ancaman bagi kedaulatan negara. 
+
+Adapun capaian akhir dari Implementasi APU PPT pada SPI adalah sebagai berikut:
+
+    Integritas sistem keuangan Indonesia mendukung stabilitas perekonomian; 
+    Kredibilitas dan reputasi Indonesia meningkat di mata internasional, dengan kepatuhan terhadap standar internasional;
+    Integritas sistem keuangan Indonesia mendukung iklim investasi;
+    Aksi teror dapat dimitigasi melalui pencegahan pendanaan terorisme.
+
+VISI_SPI_4_21092020.png
+
+Sectoral Risk Assessment (SRA)
+Bank Indonesia melakukan penilaian risiko Tindak Pidana Pencucian Uang (TPPU), Tindak Pidana Pendanaan Terorisme (TPPT), dan Pendanaan Proliferasi Senjata Pemusnah Massal (PPSPM) pada sektor Penyedia Jasa Pembayaran (PJP) Lembaga Selain Bank dan Kegiatan Usaha Penukaran Valuta Asing (KUPVA) Bukan Bank. Penilaian dilakukan berdasarkan pengguna jasa, negara atau wilayah geografis, produk atau jasa, serta jalur atau jaringan transaksi. Penilaian risiko tersebut dituangkan dalam Sectoral Risk Assessment (SRA) yang mengacu pada National Risk Assesment (NRA) TPPU, TPPT, dan PPSPM. Tujuan dari penyesuaian SRA antara lain:
+
+    Mengidentifikasi dan menganalisis faktor ancaman, kerentanan dan dampak pencucian uang, pendanaan terorisme dan pendanaan proliferasi senjata pemusnah massal;
+    Mengidentifikasi, menganalisis, dan mengevaluasi berbagai risiko pencucian uang, pendanaan terorisme dan pendanaan proliferasi senjata pemusnah massal mencakup pemetaan risiko berdasarkan profil pengguna jasa (perorangan dan badan usaha), wilayah, produk dan layanan, serta jalur atau jaringan transaksi (delivery channel);
+    Mengidentifikasi dan menganalisis ancaman pencucian uang, pendanaan terorisme dan pendanaan proliferasi senjata pemusnah massal yang baru muncul dan/atau berkembang atau “emerging threat"; serta
+    Merumuskan langkah-langkah strategi mitigasi risiko pencucian uang, pendanaan terorisme dan pendanaan proliferasi senjata pemusnah massal.
+
+
+Publikasi NRA TPPU dapat diunduh di sini
+Publikasi NRA TPPT dan PPSPM dapat diunduh di sini
+Publikasi SRA dapat diunduh di sini
+
+SRA_TPPU_2022_.JPG.png 
+SRA_TPPT_2022__.JPG.png 
+ 
+
+Kebijakan APU PPT
+Sebagai Lembaga Pengawas dan Pengatur (LPP), Bank Indonesia telah mengeluarkan berbagai ketentuan dan pedoman terkait APU PPT. Bank Indonesia telah menerbitkan Peraturan Bank Indonesia No.19/10/PBI/2017 tentang Penerapan Anti Pencucian Uang dan Pencegahan Pendanaan Terorisme bagi Penyelenggara Jasa Sistem Pembayaran Selain Bank dan Penyelenggara Kegiatan Usaha Penukaran Valuta Asing Bukan Bank (selanjutnya disebut “PBI APU PPT”).
+Ketentuan dalam PBI APU PPT ini berlaku sejak September 2017 dan bagi PJSP Selain Bank serta Penyelenggara KUPVA Bukan Bank. Dalam PBI tersebut, telah diatur kewajiban penerapan APU PPT oleh Penyelenggara KUPVA Bukan Bank dan PJSP Selain Bank yang meliputi:
+ 
+
+    tugas dan tanggung jawab Direksi dan pengawasan aktif Dewan Komisaris;
+    kebijakan dan prosedur tertulis;
+    proses manajemen risiko; 
+    manajemen sumber daya manusia; dan
+    sistem pengendalian internal.
+
+
+Dalam menyusun PBI APU PPT, BI mengadopsi berbagai ketentuan, antara lain: 
+
+    FATF 40 Recommendations; 
+    Undang-Undang Nomor 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tinda
