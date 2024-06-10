@@ -1,0 +1,988 @@
+RECEIVER_ACCOUNT;SENDER_ACCOUNT;CURRENCY;TX_ID;TX_AMOUNT;TIMESTAMP;TX_TYPE
+Bang Windah Bersaudara;Aliya Zahra;IDR;0;85288343.75;01/08/2022 11:40;wire
+Bang Windah Bersaudara;Ratna Sari;IDR;3;99744072.02;05/08/2022 13:16;wire
+Bang Windah Bersaudara;Dinda Puspita;IDR;718;89123335.48;07/08/2022 09:23;wire
+Bang Windah Bersaudara;Sulastri;IDR;11;96541249.38;08/08/2022 11:24;wire
+Bang Windah Bersaudara;Dewi Lestari;IDR;0;81636241.28;16/08/2022 14:39;wire
+Bang Windah Bersaudara;Rina Kumala;IDR;3;88330866.11;21/08/2022 00:38;wire
+Bang Windah Bersaudara;Bunga Cempaka;IDR;1;96304539.26;22/08/2022 05:10;wire
+Bang Windah Bersaudara;Indah Permata;IDR;21418;97231875.98;05/09/2022 05:12;wire
+Siti Nurhaliza;Bang Windah Bersaudara;EUR;1831;50353.73875;05/09/2022 00:41;wire
+Mutiara Hati;Bang Windah Bersaudara;IDR;1831;82304403.1;06/09/2022 02:57;wire
+Putri Khalisha;Bang Windah Bersaudara;USD;1831;56714.89297;09/09/2022 01:11;wire
+Tania Nadira;Bang Windah Bersaudara;IDR;1831;80089841.52;12/09/2022 13:21;wire
+Keisha Talita;Bang Windah Bersaudara;IDR;1831;91465284.65;14/09/2022 14:52;wire
+Cinta Laura;Bang Windah Bersaudara;IDR;1831;80896193.24;14/09/2022 16:58;wire
+Bunga Melati;Bang Windah Bersaudara;EUR;1831;53834.30481;16/09/2022 17:21;wire
+Rama Arjuna;Bang Windah Bersaudara;EUR;1831;53298.66867;19/09/2022 11:54;wire
+Aliya Mustika;Bang Windah Bersaudara;USD;1831;54695.61531;24/09/2022 19:26;wire
+Aisyah Zaskia;Bang Windah Bersaudara;CAD;1831;32000;04/10/2022 18:44;wire
+Andreas Dwi;Boni Arfan;IDR;27;80885312.52;01/08/2022 12:46;wire
+Mega Alexander;Boni Arfan;USD;27;58592.68558;05/08/2022 07:15;wire
+David Gadgetin;Boni Arfan;RM;27;29000;07/08/2022 04:28;wire
+Andrew Septembrianto;Boni Arfan;IDR;27;87250137.97;09/08/2022 15:01;wire
+Rina Kusumah;Boni Arfan;IDR;27;88867288.18;10/08/2022 15:55;wire
+Bambang Suprapto;Boni Arfan;IDR;27;92641149.99;11/08/2022 00:40;wire
+Indah Sastradihardja;Boni Arfan;IDR;27;90748797.43;11/08/2022 10:16;wire
+Hendra Gunawan;Boni Arfan;BRL;27;29000;11/08/2022 14:15;wire
+Anita Widyasari;Boni Arfan;IDR;27;86106940.36;12/08/2022 12:09;wire
+Toni Sugiarto;Boni Arfan;IDR;27;88800781.93;18/08/2022 06:25;wire
+Budi Prasetyo;Boni Arfan;RM;27;29000;24/08/2022 18:35;wire
+Dian Anggraini;Boni Arfan;IDR;27;89002330.73;29/08/2022 08:34;wire
+Edi Kusmayadi;Boni Arfan;IDR;27;91574087.03;30/08/2022 03:34;wire
+Ferdi Santoso;Boni Arfan;IDR;27;95998772.28;02/09/2022 16:12;wire
+Asep Ramadhan;Budi Prasetyo;USD;6;4835.08;01/08/2022 13:52;wire
+Budi Setiawan;Asep Ramadhan;IDR;111554;32383.44;20/08/2022 06:59;wire
+Musmuliadi;Budi Setiawan;IDR;139674;355107.71;23/08/2022 19:24;wire
+Masa Metonia Abadi;Musmuliadi;;0;0;01/01/2000 00:00;direktur
+Citra Lestari;Masa Metonia Abadi;;1003;15000000;17/05/2023 11:15;trade
+Dewi Sartika;Citra Lestari;EUR;260994;4024.83;24/08/2022 07:07;wire
+Budi Prasetyo;Dewi Sartika;USD;114874;5117.5;26/08/2022 15:07;wire
+Ayu Lestari;Budi Prasetyo;IDR;112010;375849.41;03/09/2022 16:42;wire
+Ani Susanti;Indra Wijaya;USD;21;56787.43011;01/08/2022 13:24;wire
+Bayu Pranata;Indra Wijaya;EUR;21;52358.85796;01/08/2022 15:06;wire
+Citra Dewi;Indra Wijaya;EUR;21;53532.02146;01/08/2022 16:37;wire
+Doni Nugroho;Indra Wijaya;EUR;21;57711.0717;02/08/2022 00:13;wire
+Eka Saputra;Indra Wijaya;USD;21;56678.36522;03/08/2022 16:59;wire
+Fahmi Hidayat;Indra Wijaya;USD;21;55426.20911;05/08/2022 09:48;wire
+Galih Pratama;Indra Wijaya;USD;21;54341.97164;08/08/2022 16:45;wire
+Hani Kusuma;Indra Wijaya;EUR;21;57344.91692;12/08/2022 21:59;wire
+Iwan Setiawan;Indra Wijaya;USD;21;56920.30881;17/08/2022 15:45;wire
+Joko Susilo;Indra Wijaya;EUR;21;50578.67887;21/08/2022 07:03;wire
+Kiki Andriani;Indra Wijaya;EUR;21;52294.28305;24/08/2022 15:21;wire
+Lina Marlina;Indra Wijaya;IDR;21;83740912.42;31/08/2022 11:23;wire
+Yusuf Arifin;Zainal Abidin;IDR;4687;99743996.48;01/08/2022 13:07;wire
+Yusuf Arifin;Dewi Anggraini;IDR;2416;91130131.26;02/08/2022 13:15;wire
+Yusuf Arifin;Feri Widodo;IDR;16327;90581181.95;02/08/2022 13:43;wire
+Yusuf Arifin;Gilang Saputra;IDR;14;84794483.23;06/08/2022 21:39;wire
+Yusuf Arifin;Hana Rahayu;IDR;1512;90256959.63;07/08/2022 16:18;wire
+Yusuf Arifin;Indah Pratiwi;IDR;211621;96892044.02;21/08/2022 18:00;wire
+Yusuf Arifin;Joko Prasetyo;IDR;25;86542771.13;23/08/2022 16:32;wire
+Yusuf Arifin;Kiki Amalia;IDR;220;82395260.55;26/08/2022 00:20;wire
+Yusuf Arifin;Lina Suryani;IDR;4292;90474203.03;27/08/2022 11:26;wire
+Yusuf Arifin;Mira Andriani;IDR;26967;81573062.37;27/08/2022 21:02;wire
+Yusuf Arifin;Nina Kurnia;IDR;357;80723275.84;03/09/2022 05:18;wire
+Rina Suryani;Yusuf Arifin;USD;14902;51409.13491;03/09/2022 15:36;wire
+Sinta Kurnia;Yusuf Arifin;USD;14902;52260.05253;07/09/2022 12:53;wire
+Tina Marlina;Yusuf Arifin;EUR;14902;58883.01756;15/09/2022 03:15;wire
+Udin Surya;Yusuf Arifin;USD;14902;55619.33696;15/09/2022 19:49;wire
+Vita Dewi;Yusuf Arifin;EUR;14902;54907.3341;16/09/2022 18:01;wire
+Wahyu Prasetya;Yusuf Arifin;EUR;14902;54830.64682;19/09/2022 07:12;wire
+Xena Ardi;Yusuf Arifin;USD;14902;56251.77126;20/09/2022 11:34;wire
+Yudi Santoso;Yusuf Arifin;USD;14902;59740.17572;26/09/2022 20:39;wire
+Zara Wijaya;Yusuf Arifin;USD;14902;53599.937;28/09/2022 04:10;wire
+Asep Ramadhan;Yusuf Arifin;EUR;14902;54181.20055;28/09/2022 17:53;wire
+Budi Sudirman;Yusuf Arifin;IDR;14902;91742933.99;01/10/2022 04:48;wire
+Citra Dewi;Yusuf Arifin;USD;14902;53441.16489;02/10/2022 16:33;wire
+Doni Nugroho;Yusuf Arifin;EUR;14902;52731.53096;03/10/2022 16:00;wire
+Eka Saputra;Yusuf Arifin;EUR;14902;58586.4478;05/10/2022 16:26;wire
+Adi Sutarya;Bayu Firmansyah;USD;234525;8240.65;01/08/2022 10:20;wire
+Cici Kartika;Adi Sutarya;RM;82734;1050.01;02/08/2022 20:00;wire
+Dadan Saputra;Cici Kartika;JPY;281507;95729.2;03/08/2022 03:47;wire
+Euis Sulastri;Dadan Saputra;IDR;223529;1230.39;09/08/2022 10:46;wire
+Fajar Supriatna;Euis Sulastri;RM;1;1199.77;11/08/2022 15:59;wire
+Gina Nurdiana;Fajar Supriatna;IDR;152330;1405.88;18/08/2022 13:06;wire
+Hendi Kurnia;Gina Nurdiana;RM;226788;1199.77;21/08/2022 13:56;wire
+Liris Enggar Wardhani;Hendi Kurnia;IDR;226788;1199.77;21/08/2022 13:56;wire
+Linggar Jati Perkasa;Liris Enggar Wardhani;;0;0;01/01/2000 00:00;komisaris
+Hendi Kurnia;Linggar Jati Perkasa;IDR;7030;1495.88;23/08/2022 15:03;vendor
+Iis Rohendi;Hendi Kurnia;IDR;7030;1405.88;23/08/2022 15:03;wire
+Jajang Wahyudi;Iis Rohendi;RM;1442;1341.38;29/08/2022 08:13;wire
+Kiki Sumirat;Jajang Wahyudi;USD;234466;10672.9;29/08/2022 15:48;wire
+Bayu Firmansyah;Kiki Sumirat;IDR;115813;1579.94;29/08/2022 17:54;wire
+Alice Johnson;Bob Smith;RM;250403;557.99;01/08/2022 14:49;wire
+Carol Brown;Alice Johnson;RM;50251;585.12;03/08/2022 15:55;wire
+Dave Wilson;Carol Brown;IDR;31224;685.64;05/08/2022 08:56;wire
+Eve Davis;Dave Wilson;IDR;40363;667.32;07/08/2022 09:22;wire
+Frank Miller;Eve Davis;IDR;29977;705.42;08/08/2022 16:04;wire
+Grace Taylor;Frank Miller;IDR;276490;705.42;11/08/2022 13:46;wire
+Heidi Anderson;Grace Taylor;USD;27512;4590.34;12/08/2022 00:44;wire
+Ivan Thomas;Heidi Anderson;IDR;132268;672.34;13/08/2022 11:56;wire
+Judy Harris;Ivan Thomas;RM;120788;546.13;24/08/2022 12:01;wire
+Bob Smith;Judy Harris;SGD;214872;61138.22;02/09/2022 02:57;wire
+Mallory Martin;Oscar White;IDR;83840;1587.15;01/08/2022 14:55;wire
+Oscar White;Mallory Martin;IDR;256086;1642.77;05/08/2022 00:27;wire
+Trent Moore;Oscar White;IDR;9238;1684;11/08/2022 08:17;wire
+Oscar White;Trent Moore;IDR;20937;1527.5;01/09/2022 16:46;wire
+Victor King;37048;RM;22184;29000;01/08/2022 14:46;wire
+Walter Scott;Victor King;IDR;122407;85912813.79;06/08/2022 12:08;wire
+Xander Young;Victor King;IDR;15398;80557193.96;11/08/2022 21:23;wire
+Yvonne Hall;Victor King;USD;4252;51437.75514;14/08/2022 16:10;wire
+Zach Lee;Victor King;RM;1512;29000;18/08/2022 12:06;wire
+Quinn Perez;Victor King;IDR;8917;92225586;20/08/2022 11:14;wire
+Ralph Brown;Victor King;SGD;50719;57297.32255;22/08/2022 12:44;wire
+Steve Clark;Victor King;IDR;5610;97462899.09;24/08/2022 09:28;wire
+Tiffany Adams;Victor King;IDR;60001;89226643.5;31/08/2022 11:04;wire
+Uma Turner;Victor King;RM;13305;29000;02/09/2022 18:55;wire
+Vivian Cooper;Victor King;RM;3806;29000;04/09/2022 12:20;wire
+John Doe;Jane Smith;USD;36925;132713.46;01/08/2022 00:19;wire
+Mark Brown;John Doe;IDR;119211;18264.2;01/08/2022 13:05;wire
+Sarah Davis;Mark Brown;RM;132965;14567.69;03/08/2022 13:28;wire
+Paul Johnson;Sarah Davis;USD;137089;114329.26;09/08/2022 02:32;wire
+Anna White;Paul Johnson;RM;216618;14567.69;11/08/2022 07:16;wire
+Peter Clark;Anna White;RM;24083;13629.75;13/08/2022 05:09;wire
+Laura Lewis;Peter Clark;USD;38110;97481.96;15/08/2022 18:04;wire
+James Martinez;Laura Lewis;IDR;225015;14054.71;20/08/2022 08:57;wire
+David Rodriguez;James Martinez;IDR;18112;13718.22;22/08/2022 12:08;wire
+Jessica Anderson;David Rodriguez;IDR;7818;12908.33;22/08/2022 19:53;wire
+Daniel Thompson;Jessica Anderson;RM;121523;10636.75;27/08/2022 07:10;wire
+John Doe;Daniel Thompson;SGD;134266;1378736.88;30/08/2022 11:54;wire
+Olivia Harris;Olivia Green;JPY;266946;750000;01/08/2022 00:08;wire
+Olivia Harris;Olivia Baker;JPY;266946;750000;03/08/2022 05:11;wire
+Olivia Harris;Olivia Carter;JPY;266946;750000;05/08/2022 17:35;wire
+Olivia Harris;Olivia Wright;JPY;266946;750000;09/08/2022 02:58;wire
+Olivia Harris;Olivia Hill;JPY;266946;750000;10/08/2022 16:00;wire
+Olivia Harris;Olivia Scott;JPY;266946;750000;13/08/2022 09:37;wire
+Olivia Harris;Olivia Nelson;JPY;266946;750000;19/08/2022 17:43;wire
+Olivia Harris;Olivia Adams;JPY;266946;750000;30/08/2022 03:09;wire
+Olivia Harris;Olivia Clark;JPY;266946;750000;04/09/2022 12:09;wire
+Michael Walker;Andrew Parker;RM;214872;29000;01/08/2022 00:10;wire
+Michael Walker;Emily Harris;RM;214872;29000;01/08/2022 09:21;wire
+Michael Walker;Kevin Allen;RM;214872;29000;06/08/2022 01:57;wire
+Michael Walker;Laura Young;RM;214872;29000;20/08/2022 07:19;wire
+Michael Walker;Richard Baker;RM;214872;29000;20/08/2022 16:11;wire
+Michael Walker;Patricia Lee;RM;214872;29000;29/08/2022 16:22;wire
+Michael Walker;Timothy King;RM;214872;29000;02/09/2022 07:22;wire
+Michael Walker;Angela Scott;RM;214872;29000;03/09/2022 10:20;wire
+Henry Young;Michael Walker;IDR;12582;98281551.73;03/09/2022 14:58;wire
+Emily Allen;Michael Walker;IDR;131185;87096710.41;05/09/2022 05:20;wire
+George King;Michael Walker;IDR;24750;95781236.93;05/09/2022 15:33;wire
+Samantha Wright;Michael Walker;IDR;252970;80642193.15;08/09/2022 15:14;wire
+Grace Turner;Michael Walker;USD;18184;58468.03411;12/09/2022 11:49;wire
+Elizabeth Johnson;Michael Walker;IDR;42957;82267994.2;15/09/2022 14:13;wire
+Christopher Harris;Michael Walker;RM;14639;29000;18/09/2022 01:51;wire
+Matthew Clark;Michael Walker;IDR;24528;85713736.01;19/09/2022 16:40;wire
+Patricia Martinez;Michael Walker;CNY;295119;750000;21/09/2022 13:43;wire
+Joshua Lopez;Michael Walker;IDR;24833;91793150.83;21/09/2022 16:16;wire
+Sophia Robinson;Michael Walker;IDR;110200;89362883.26;23/09/2022 05:15;wire
+Anthony Clark;Michael Walker;RM;249712;29000;26/09/2022 15:04;wire
+Isabella Lewis;Michael Walker;IDR;23608;96653383.01;03/10/2022 16:39;wire
+Charles Lee;Michael Walker;RM;235362;29000;04/10/2022 03:14;wire
+Megan Harris;Michael Walker;IDR;25222;80990726.19;06/10/2022 18:35;wire
+Benjamin Hall;Michael Walker;IDR;15027;99835674.7;06/10/2022 22:33;wire
+Ahmad Sutrisno;Budi Santoso;RM;19876;15030.85;01/08/2022 02:58;wire
+Dewi Andayani;Ahmad Sutrisno;RM;24168;15030.85;02/08/2022 17:54;wire
+Eka Purnama;Dewi Andayani;IDR;8917;17529.17;05/08/2022 02:24;wire
+Fajar Wibowo;Eka Purnama;IDR;256525;17523.41;06/08/2022 15:36;wire
+Gita Lestari;Fajar Wibowo;IDR;11848;16211.36;08/08/2022 11:46;wire
+Hari Nugroho;Gita Lestari;IDR;9238;17278.94;20/08/2022 11:01;wire
+Indah Rahayu;Hari Nugroho;USD;139674;115727.45;25/08/2022 13:04;wire
+Joko Prasetyo;Indah Rahayu;IDR;110859;15740.34;28/08/2022 16:45;wire
+Ahmad Sutrisno;Joko Prasetyo;IDR;13676;15980.75;02/09/2022 08:57;wire
+Bayu Kurnia;Chandra Surya;IDR;23435;87222358.69;01/08/2022 05:41;wire
+Dian Arifin;Bayu Kurnia;USD;117909;59430.42873;19/08/2022 18:03;wire
+Elang Wijaya;Chandra Surya;USD;35862;51159.50173;02/08/2022 13:14;wire
+Dian Arifin;Elang Wijaya;USD;117909;52788.36869;25/08/2022 06:41;wire
+Feni Rahman;Chandra Surya;RM;17291;29000;03/08/2022 12:42;wire
+Dian Arifin;Feni Rahman;USD;117909;59963.1509;28/08/2022 09:27;wire
+Gilang Saputra;Chandra Surya;RM;2044;29000;05/08/2022 18:24;wire
+Dian Arifin;Gilang Saputra;USD;117909;52828.85583;28/08/2022 14:20;wire
+Hendro Setiawan;Chandra Surya;RM;16902;29000;10/08/2022 04:05;wire
+Dian Arifin;Hendro Setiawan;USD;117909;59322.39417;29/08/2022 08:48;wire
+Ika Permata;Chandra Surya;RM;27656;29000;10/08/2022 09:39;wire
+Dian Arifin;Ika Permata;USD;117909;59997.88707;01/09/2022 09:10;wire
+Jaya Mahendra;Chandra Surya;IDR;29556;87019913.88;12/08/2022 12:16;wire
+Dian Arifin;Jaya Mahendra;USD;117909;57722.33971;01/09/2022 19:22;wire
+Krisna Wijaya;Chandra Surya;IDR;239258;93824386.06;13/08/2022 03:52;wire
+Dian Arifin;Krisna Wijaya;USD;117909;56475.53571;03/09/2022 16:56;wire
+Lukman Hakim;Chandra Surya;IDR;135332;93524196.97;17/08/2022 06:07;wire
+Dian Arifin;Lukman Hakim;USD;117909;51800.30489;04/09/2022 05:56;wire
+Maya Sari;Chandra Surya;RM;22483;29000;18/08/2022 05:50;wire
+Dian Arifin;Maya Sari;USD;117909;53764.29484;04/09/2022 19:51;wire
+Nina Ayu;Siti Nurjanah;RM;12866;6969.27;01/08/2022 07:35;wire
+Tri Haryanto;Nina Ayu;IDR;164686;8798.1;05/08/2022 13:55;wire
+Utari Puspita;Tri Haryanto;IDR;213868;9074.27;06/08/2022 06:38;wire
+Vera Melati;Utari Puspita;USD;162967;60433.11;08/08/2022 12:51;wire
+Wawan Firmansyah;Vera Melati;GBP;18;7004.25;15/08/2022 08:50;wire
+Yani Wulandari;Wawan Firmansyah;RM;211768;7088.05;16/08/2022 16:27;wire
+Zainal Arifin;Yani Wulandari;USD;127838;55627.99;21/08/2022 18:21;wire
+Arif Rahman;Zainal Arifin;RM;1213;7088.05;22/08/2022 13:45;wire
+Bambang Suharto;Arif Rahman;IDR;215070;7714.33;25/08/2022 10:04;wire
+Citra Nuraini;Bambang Suharto;RM;3806;6554.56;29/08/2022 16:12;wire
+Doni Hidayat;Citra Nuraini;IDR;171860;7239.53;30/08/2022 12:16;wire
+Siti Nurjanah;Doni Hidayat;IDR;82745;7574.53;01/09/2022 13:47;wire
+Fred King;Fred King;CNY;215;44675.52;01/09/2022 05:54;reinvestment
+Brandon Mann;Brandon Mann;IDR;216;12945.76;01/09/2022 00:23;reinvestment
+James Paul;Allison Lopez;IDR;217;780.19;05/09/2022 01:02;credit card
+Darrell Kelley;Lauren Kelly;JPY;218;651968.5;09/09/2022 21:35;cheque
+Scott Morgan;Joseph Parks;IDR;219;915.26;02/09/2022 03:06;cheque
+Heather Turner;Kimberly Howard;IDR;220;156152.85;07/09/2022 18:32;cheque
+Jeffrey Rodriguez;Gabrielle Hogan DVM;IDR;221;211.27;02/09/2022 06:54;cheque
+Todd Cole;Sharon Foster;IDR;222;4520.89;07/09/2022 20:40;wire
+Kevin Ortiz;Elizabeth Rodriguez;USD;223;132.09;02/09/2022 14:36;cash
+Michael Ramirez;Tracy Bell;USD;224;6319.7;09/09/2022 06:29;cash
+Dr. Anthony Cantu PhD;Michelle Davis;IDR;225;9289.73;09/09/2022 09:57;credit card
+Jason Peck;Nathaniel Phillips;USD;226;106.35;05/09/2022 00:00;cash
+Sara Johnson;Chase Davies;USD;227;9738.51;01/09/2022 03:32;cheque
+Joseph Martin;Joseph Martin;IDR;228;677.62;01/09/2022 00:10;reinvestment
+Oscar Levine;Pamela Arias;IDR;229;714.62;04/09/2022 05:37;credit card
+Lilis Sukmawati;Asep Wahyu;IDR;20;89828097.65;01/08/2022 11:01;wire
+Mamat Permana;Asep Wahyu;GBP;6;6592.91;01/08/2022 11:34;wire
+Nani Cahyani;Asep Wahyu;IDR;5838;87600784.19;04/08/2022 12:40;wire
+Ono Iskandar;Asep Wahyu;RM;28174;29000;18/08/2022 04:56;wire
+Pipit Wulandari;Asep Wahyu;RM;210278;29000;19/08/2022 11:50;wire
+Qori Apriyani;Asep Wahyu;RM;12;29000;20/08/2022 12:18;wire
+Roni Sudirman;Asep Wahyu;IDR;9888;84436765.61;21/08/2022 03:48;wire
+Susi Hartini;Asep Wahyu;IDR;213723;80018063.93;27/08/2022 08:57;wire
+Tatang Supardi;Asep Wahyu;RM;2035;29000;27/08/2022 15:04;wire
+Ujang Suryana;Asep Wahyu;IDR;13514;95655820.92;28/08/2022 10:06;wire
+Vivi Setiawati;Asep Wahyu;USD;43948;59320.56911;28/08/2022 17:23;wire
+Wawan Sopian;Asep Wahyu;RM;11469;29000;04/09/2022 09:39;wire
+Xeni Sukri;Asep Wahyu;IDR;10057;85713433.15;04/09/2022 16:29;wire
+Joshua Peters DDS;Melissa Moon;CAD;243;6780.9;07/09/2022 03:56;credit card
+Veronica Oconnell;Michael Holt;CHF;244;240.91;07/09/2022 09:53;cheque
+Mr. Richard Edwards;Jonathan York;AUD;245;303.4;02/09/2022 12:36;credit card
+Rhonda Lewis;Rhonda Lewis;BTC;246;0.093128;01/09/2022 17:02;bitcoin
+Courtney Thomas;Thomas Alexander;INR;247;4478.33;06/09/2022 22:59;cheque
+Patrick Evans;Gregory Brooks;CNY;248;2999.59;02/09/2022 10:22;cheque
+Austin Yang;Gregory Meyer;IDR;249;206.98;05/09/2022 11:16;credit card
+Mary Blair;Mark Trevino;USD;250;1557.25;10/09/2022 18:42;cheque
+Devin Robinson;Michael Smith;IDR;251;2270.12;06/09/2022 09:29;cash
+Kimberly Johns;Joseph Sullivan;USD;252;8.39;02/09/2022 00:01;credit card
+Derrick Jimenez;Justin French;INR;253;39426.99;06/09/2022 14:46;wire
+Lorraine Keller;Danny Graham;MXN;254;3095.62;04/09/2022 09:21;cheque
+Shelley Howard;Molly Holden;CNY;255;19153.37;05/09/2022 05:45;wire
+Mitchell Gutierrez;Alan Mata;IDR;256;1272.79;01/09/2022 23:41;cheque
+Kaitlin Navarro;Julie Perry;USD;257;1201.34;07/09/2022 23:14;cheque
+Daniel Reynolds;Connor Shepherd;USD;258;4101.7;09/09/2022 06:50;cheque
+Stephanie Lewis;Samantha Allen;BTC;259;2.604277;09/09/2022 21:01;bitcoin
+Michael Burke;Jessica Bridges;USD;260;94.07;07/09/2022 21:03;cheque
+Hailey Martinez;Tracy Bell;USD;261;12.66;08/09/2022 19:05;credit card
+Lori Arnold;Mike Walters;IDR;262;148.16;06/09/2022 09:30;credit card
+Leslie Figueroa;Tracy Walton;USD;263;0.51;01/09/2022 09:21;wire
+Maria Mcintyre;Thomas Mills;IDR;264;248.24;05/09/2022 04:43;cash
+Natalie Phillips;Jason Zhang;USD;265;158.33;03/09/2022 09:10;credit card
+Javier Alexander;Javier Alexander;BTC;266;0.000395;01/09/2022 00:13;bitcoin
+Robert Romero;Derek Jackson;INR;267;75822.87;01/09/2022 19:11;cheque
+Donna Morris;John Suarez;IDR;268;170.75;01/09/2022 21:21;credit card
+Misty Young;Gregory Cunningham;USD;269;189.02;08/09/2022 01:08;credit card
+Victor Murphy;Julie Griffin;USD;270;3697.48;06/09/2022 13:13;cash
+Patrick Miller;Melissa Moon;CAD;271;407.79;07/09/2022 10:30;credit card
+Amanda Sullivan;David Winters;IDR;272;6895.16;09/09/2022 16:03;cash
+Wayne Huynh;Renee Hensley;GBP;273;63.55;05/09/2022 10:59;cash
+Steve Glass;Steve Glass;USD;274;22.99;01/09/2022 20:34;reinvestment
+Heidi Greene;Stephen Morrison;BRL;275;4978.96;02/09/2022 15:10;wire
+Anthony Patton;Anthony Patton;CNY;276;6524.05;01/09/2022 01:06;reinvestment
+Crystal Saunders;Connor Patterson;IDR;277;1249.08;02/09/2022 16:57;credit card
+David Robertson;Alexander Kirby;CNY;278;5.66;06/09/2022 21:23;wire
+Kenneth Sanders;Ryan Melendez;IDR;279;223613.33;08/09/2022 06:48;cheque
+Lisa Dickerson;Evan Perez;IDR;280;581.27;08/09/2022 12:44;cheque
+Terri Zhang;Kathleen Harding;USD;281;57.48;09/09/2022 15:10;wire
+Henry Erickson;Cindy Smith;IDR;282;229.21;07/09/2022 10:42;credit card
+Ann Edwards;Shannon Little;INR;283;311123.67;02/09/2022 00:17;credit card
+Lauren Ryan;Lauren Ryan;IDR;284;18.59;01/09/2022 00:25;reinvestment
+Wayne Jackson;Elizabeth Pearson;IDR;285;63748.15;05/09/2022 02:55;cheque
+Joan Lee;Catherine Trevino;BTC;286;0.064504;09/09/2022 18:35;bitcoin
+Juan Anderson;Marvin Jones;USD;287;11586.95;02/09/2022 22:18;cheque
+Timothy Singh;Timothy Singh;IDR;288;3.64;01/09/2022 00:17;reinvestment
+Eric Pham;Brian Clark;BTC;289;0.02442;07/09/2022 21:22;bitcoin
+Tiffany Brown;Tiffany Brown;IDR;290;5986.57;09/09/2022 09:29;wire
+Lindsay Johnson;John Smith DVM;BRL;291;883.92;08/09/2022 01:39;cash
+Alyssa Simmons;Jessica Herrera;USD;292;775.59;02/09/2022 23:43;credit card
+Valerie Sparks;Shannon Little;INR;293;1419025.94;06/09/2022 00:49;credit card
+Marc Solomon;Christina Tate;CHF;294;2755.1;09/09/2022 03:06;cheque
+Jamie Fitzpatrick;Peggy Smith;AUD;295;1562623.76;05/09/2022 04:52;cheque
+Jacqueline Kennedy;Angela Roman;MXN;296;78.12;01/09/2022 00:11;credit card
+Bryan Hoover;Bryan Hoover;CNY;297;3656.03;01/09/2022 00:13;reinvestment
+Theresa Mccarthy;Theresa Mccarthy;IDR;298;12285.13;01/09/2022 00:20;reinvestment
+Seth Coleman;Michael Turner;USD;299;40.01;03/09/2022 07:19;wire
+Anna Smith;Vanessa Bird;CNY;300;55.51;01/09/2022 00:39;wire
+Kelly Snow;David Tate;USD;301;120.2;05/09/2022 12:09;wire
+Keith Gill;Christopher Malone;IDR;302;12586.01;01/09/2022 23:48;cheque
+Theodore Leach;Mia Baker;IDR;303;83.13;08/09/2022 03:56;cheque
+Miguel Stephenson;Dominique Smith;CNY;304;6517.01;06/09/2022 09:44;wire
+Bianca Hernandez;Kyle Wagner;USD;305;2694.54;02/09/2022 01:25;cheque
+Marcus Schneider;Robert Roberts;MXN;306;89451.41;01/09/2022 13:47;cheque
+Karina Stein;Stephen Perry;BTC;307;0.003761;01/09/2022 00:22;bitcoin
+Kara Hudson;Kevin Price;CNY;308;309699.7;06/09/2022 00:39;wire
+Joseph Marsh;Brandon Smith;BRL;309;39737.77;06/09/2022 16:05;cheque
+Frank Kelly;Frank Kelly;INR;310;1512.21;01/09/2022 04:42;reinvestment
+Amy Santos;Joshua Figueroa;CAD;311;72209.33;07/09/2022 22:22;cheque
+Leah Hudson;Mr. Justin Brown;USD;312;97.69;08/09/2022 13:49;wire
+Lindsey Johnson;Timothy Wood;CAD;313;38.81;05/09/2022 21:38;wire
+Anita Paul;Teresa Schmidt;USD;314;4489.31;08/09/2022 05:33;cheque
+Tammy Owen;Tammy Owen;IDR;315;248924.82;01/09/2022 22:35;reinvestment
+Keith Young;Morgan Marshall;SAR;316;914.79;02/09/2022 23:49;cheque
+Christina Jenkins;Derrick Gray;JPY;317;33979.43;07/09/2022 12:18;credit card
+Jeanette Owens;Alan Mata;IDR;318;464.36;07/09/2022 07:22;cheque
+Michelle Chen;John Coleman;USD;319;1202.8;08/09/2022 01:41;cheque
+Paige Boone;Amy Cook;CNY;320;20761.93;01/09/2022 10:51;credit card
+Christina Smith;Morgan Marshall;SAR;321;1625.29;03/09/2022 19:08;credit card
+Daniel Allen;Kayla Snyder;CNY;322;635883.31;08/09/2022 04:36;cash
+Veronica Savage;Connor Holloway V;IDR;323;5709.7;05/09/2022 12:31;cheque
+Sarah Garza;Daniel Williams;USD;324;29306.45;02/09/2022 19:43;wire
+Cheyenne Hughes;Matthew Little;IDR;325;2008.85;02/09/2022 14:48;cheque
+Joshua Guerrero;Charles Smith;CHF;326;1653.27;08/09/2022 03:12;wire
+Kayla Dodson;Miss Christina Hudson MD;IDR;327;601.46;06/09/2022 18:25;cash
+Susan Rodriguez;Glenn Cooper;INR;328;7072100.24;02/09/2022 13:56;cheque
+Lori Watkins;Alejandro Smith;CHF;329;55.53;05/09/2022 17:46;cheque
+Alicia Bush;Philip Adams;USD;330;36.72;04/09/2022 11:01;wire
+Tara Smith;Leonard Mckinney;IDR;331;13558.22;06/09/2022 10:36;credit card
+Jane Burton;Sean Graham;IDR;332;157.14;04/09/2022 00:21;cheque
+Kristina Guerra;Kristina Guerra;USD;333;238706.38;09/09/2022 05:10;wire
+Jeremy Morgan;Tracy Simpson;USD;334;209.19;03/09/2022 06:47;cheque
+Justin Carlson;Gabriel Arnold;BTC;335;0.264346;02/09/2022 11:54;bitcoin
+Jane Anderson;Travis Madden;BRL;336;575.29;02/09/2022 10:04;cheque
+Elizabeth Hanson;Devon Griffith;IDR;337;10791.05;01/09/2022 22:16;cheque
+Dana Hamilton;Dana Hamilton;IDR;338;4679.9;01/09/2022 07:34;wire
+Kara Smith;Douglas Trevino;AUD;339;298.48;01/09/2022 17:48;credit card
+Robert Fleming;Maxwell Warren;SAR;340;1567.67;01/09/2022 17:28;credit card
+Wesley Mcguire;Jason Burton;AUD;341;37491.37;02/09/2022 13:55;credit card
+Ariel Henson PhD;Ariel Henson PhD;CNY;342;4789.41;01/09/2022 00:01;reinvestment
+Miranda Garcia;Stephen Ortiz;USD;343;102.33;08/09/2022 00:06;credit card
+Jackie Johnson;Timothy Cole;USD;344;189.14;09/09/2022 06:32;cheque
+Juan Welch;Tyler Ware;AUD;345;0.01;01/09/2022 02:10;wire
+Cindy Reyes;Juan Miller;USD;346;26.84;08/09/2022 16:53;credit card
+Jessica Vasquez DVM;Susan Turner;INR;347;24418.31;01/09/2022 21:08;credit card
+Lonnie Brooks;Crystal David;IDR;348;7.91;06/09/2022 15:54;cheque
+Kevin Reyes;Kevin Reyes;IDR;349;1276.9;01/09/2022 00:03;reinvestment
+Kenneth Mcbride;Nicholas Fowler;CNY;350;2778.64;02/09/2022 19:24;credit card
+Christopher Le;Marvin Duran;CNY;351;4593.53;09/09/2022 04:09;credit card
+Justin Downs;Glenda Cohen;JPY;352;39968.02;03/09/2022 22:18;credit card
+Eric Mendez;Shannon Little;INR;353;660448.6;07/09/2022 16:22;cheque
+Arthur Robinson;Monica Bradshaw;INR;354;399850.85;09/09/2022 11:52;wire
+Kristen Warren;Allen Garcia;USD;355;1723.53;08/09/2022 17:50;wire
+Todd Alexander;Cheryl Owens;INR;356;5606720.62;02/09/2022 10:48;cheque
+Cathy Martin;David Ortiz;IDR;357;1216.32;03/09/2022 16:03;credit card
+Daniel Avila;Mr. George Stewart MD;CAD;358;331;05/09/2022 22:53;wire
+Amanda Wilkins;Robert Cummings;IDR;359;151.26;05/09/2022 21:10;credit card
+Joshua Miles;Stephen Harris;IDR;360;22.78;01/09/2022 01:00;cash
+Roy Carlson;Mackenzie Lam;INR;361;1279390.01;09/09/2022 08:26;credit card
+Cole Moss;Donald Perry;BRL;362;118614.43;05/09/2022 03:22;credit card
+Alicia James;Lynn Campbell;IDR;363;51972.92;10/09/2022 22:58;cheque
+Jean Roberts MD;Mr. Ronnie Johnson;IDR;364;477.58;06/09/2022 12:59;wire
+Mrs. Stacy Ware DVM;Amanda Wilkerson;ILS;365;1604.32;04/09/2022 09:04;credit card
+Elizabeth Thomas;Carolyn Hernandez;IDR;366;83.08;02/09/2022 15:21;credit card
+James Mckay;Wesley Richardson;IDR;367;200.78;06/09/2022 03:40;cheque
+Christine Smith;Gary Roberts;BTC;368;0.165322;06/09/2022 12:48;bitcoin
+Tiffany Rivers;Tiffany Rivers;BTC;369;18.055331;01/09/2022 04:42;bitcoin
+Adam Hill;Adam Hill;IDR;370;456576.57;01/09/2022 17:11;reinvestment
+Michelle Wilson;Tracy Bell;USD;371;659.29;01/09/2022 08:55;credit card
+Lisa Nichols;Nathan Holden;SAR;372;753.44;05/09/2022 21:36;cheque
+April York;Brittany Thompson;USD;373;5532.83;02/09/2022 08:41;credit card
+Dale Gonzalez;Mary Rogers;IDR;374;98.2;05/09/2022 21:47;cheque
+Melanie Zamora;Stephen Taylor;AUD;375;10599.87;05/09/2022 04:40;cheque
+Sarah Pace;Gary White;USD;376;4569.97;01/09/2022 22:44;credit card
+Carol Hernandez;Melissa Moon;CAD;377;1737.04;02/09/2022 00:31;cheque
+Matthew Ellis;Alex Larsen;CAD;378;128.23;08/09/2022 00:54;cash
+Jeffrey Cordova;Samuel Rivera;SAR;379;1376.23;07/09/2022 14:01;credit card
+Wesley Johnson;Alan Mata;IDR;380;4058.82;03/09/2022 01:00;cheque
+Aaron Wheeler;Steven Berger;USD;381;63389.95;01/09/2022 00:02;wire
+Cassie Sanford;Rachel Jacobs;IDR;382;22961.93;04/09/2022 09:47;wire
+Sarah Wright;Angela Fitzgerald;IDR;383;521.78;07/09/2022 06:32;wire
+Tara Erickson;Melissa Morris;IDR;384;1314.69;03/09/2022 20:48;cheque
+Alexandra Burke;Alexandra Burke;USD;385;39.41;07/09/2022 02:39;wire
+Brian Steele;Gerald Stevenson;USD;386;494.87;07/09/2022 19:01;credit card
+Bryan Kirk;Samantha Robinson;IDR;387;1766.9;09/09/2022 05:38;cash
+Kimberly Jensen;Alan Mata;IDR;388;23214.3;09/09/2022 12:58;cash
+Joseph Kerr;Jill Hicks;IDR;389;116.42;08/09/2022 16:22;cheque
+Amber Hill;John Hull;BRL;390;1023.14;07/09/2022 03:28;credit card
+Maria Collins;Jonathan Willis;ILS;391;64.17;09/09/2022 23:19;credit card
+Laurie Jordan;Colleen Norris;AUD;392;1566855.58;01/09/2022 01:34;cheque
+Jose Williams;Jose Williams;CAD;393;145.56;01/09/2022 00:15;reinvestment
+Hector Haynes;Kelly Sullivan;JPY;394;427641.21;01/09/2022 10:49;cash
+Amanda Wilson;Mrs. Sandy Spears;USD;395;1554.58;02/09/2022 09:49;cheque
+Samuel Clark;Samuel Clark;USD;396;33218.8;01/09/2022 00:01;reinvestment
+Kyle Baldwin;Steven Goodman;IDR;397;8.83;03/09/2022 11:03;cheque
+Amy Johnston;Amy Williams;IDR;398;1.63;09/09/2022 19:26;wire
+Hailey Briggs;Brenda Lee;USD;399;878.23;03/09/2022 14:11;cheque
+Anthony Smith;Lori Bell;INR;400;237585309.9;01/09/2022 22:19;cheque
+Karina Meadows;Melissa Moon;CAD;401;1574.79;08/09/2022 18:56;cheque
+Jessica Jackson;Melissa Riddle;USD;402;81658.53;01/09/2022 11:59;wire
+Erica Roy;Rebecca Cortez;RUB;403;51809.73;02/09/2022 09:12;credit card
+Nicole Perez;Nicole Perez;IDR;404;12228.76;01/09/2022 06:02;reinvestment
+Raymond White;Mr. Joel Bailey;CNY;405;19371.62;01/09/2022 05:33;cheque
+John Hess;Morgan Grant;IDR;406;96.55;06/09/2022 03:29;credit card
+Amanda Warren;Timothy Smith;GBP;407;5112.13;09/09/2022 08:12;credit card
+Joan Nichols;Brian Stuart;IDR;408;437.27;02/09/2022 15:25;wire
+Brian Zimmerman;Kenneth Boyd;INR;409;4760.08;09/09/2022 00:06;credit card
+David Mcdaniel;Kevin Burton;CNY;410;137663.64;08/09/2022 15:17;wire
+Hunter James;Joshua Holder;IDR;411;755.94;04/09/2022 20:43;credit card
+Natalie Campos;Scott Velazquez;MXN;412;36228.61;02/09/2022 16:41;credit card
+Margaret Davies;Julia Brown;IDR;413;736.52;09/09/2022 09:56;cash
+Shannon Paul;Shannon Paul;IDR;414;579.26;01/09/2022 15:28;wire
+Luis Hall;Luis Hall;BTC;415;314.563929;01/09/2022 00:09;bitcoin
+Jonathan Marshall;Gary Roberts;BTC;416;0.511232;04/09/2022 10:48;bitcoin
+Nicole Mercado;Chad Burns;MXN;417;29858.05;04/09/2022 19:48;credit card
+Christine Horton;Christina Daniels;IDR;418;4562.27;09/09/2022 18:47;wire
+Stephanie Rosario;Matthew Miller;BRL;419;2961.04;02/09/2022 03:16;credit card
+Joshua Smith;Kristen Gutierrez;CNY;420;53295.94;08/09/2022 07:28;credit card
+Tyler Ramirez;Jean Thornton;USD;421;14864.53;05/09/2022 02:34;credit card
+Joseph Thornton;Joseph Thornton;AUD;422;638.06;01/09/2022 00:19;reinvestment
+Louis Oneal;Sean Wade;SAR;423;37.85;03/09/2022 11:40;cheque
+Lindsay Castillo;Brittany Peterson;USD;424;7.51;09/09/2022 00:00;cheque
+David Scott;Dominique Jones;SAR;425;775.99;02/09/2022 00:33;cheque
+Peter Gonzalez V;Isabel Sharp;CHF;426;75.33;09/09/2022 05:15;wire
+Patricia Mccarty;Miranda Phelps;CNY;427;11376.2;10/09/2022 14:09;wire
+Jessica Hooper;Alan Mata;IDR;428;302.36;03/09/2022 21:23;cash
+Nicole Blackburn;Tracey Chaney;USD;429;10902.73;02/09/2022 07:01;cheque
+Angelica Lucas;Gary Roberts;BTC;430;1.25111;06/09/2022 06:12;bitcoin
+Joel Meyer;Jean Fletcher;USD;431;242.17;09/09/2022 02:19;wire
+Christina Watson;Kevin Adams;GBP;432;2808.27;05/09/2022 11:29;wire
+Gwendolyn Schmidt;Alicia Sanchez;AUD;433;180.93;07/09/2022 13:14;credit card
+Adrian Cohen;Matthew Quinn;USD;434;8069.38;03/09/2022 12:02;cheque
+Jennifer Gallagher;Jennifer Gallagher;IDR;435;780.33;01/09/2022 13:20;reinvestment
+Kenneth Marshall;Karen Rhodes;IDR;436;16328.91;09/09/2022 09:04;credit card
+Kenneth Yoder;Michelle White;IDR;437;1519.44;10/09/2022 00:41;cash
+Stephanie Estrada;Alan Mata;IDR;438;6287.49;02/09/2022 21:15;cheque
+Mr. Mathew Hogan;Rhonda Miller;IDR;439;3273.04;09/09/2022 23:44;cheque
+Sandra Cook;Jonathon Shields;AUD;440;2.79;08/09/2022 06:27;wire
+Jon Spencer;Jon Spencer;USD;441;3829.45;08/09/2022 18:01;wire
+Julia Wolfe;Shelly Martinez;USD;442;105.19;08/09/2022 06:30;cheque
+Peggy Vaughn;Luis Edwards;IDR;443;3348.41;07/09/2022 22:18;cheque
+Christopher Taylor;Jon Holmes;IDR;444;1272.75;02/09/2022 05:28;cheque
+Brian Vargas;Brian Vargas;BTC;445;6.739188;01/09/2022 09:27;bitcoin
+Melissa Webb;Sandra Johnson;GBP;446;2014.06;08/09/2022 01:34;cheque
+Javier West;Javier West;USD;447;7635.21;01/09/2022 04:45;reinvestment
+Craig Jordan;Jerry Carpenter;USD;448;6107.12;03/09/2022 08:26;credit card
+Curtis Olson;Dr. Whitney Hoffman MD;BRL;449;3620.11;02/09/2022 02:18;cheque
+Maxwell Gibson MD;Kevin Sanders;BRL;450;12768.09;08/09/2022 17:10;cash
+Jacqueline Martinez;John Zhang;IDR;451;22320.88;09/09/2022 16:57;cheque
+Michelle Jordan;Dr. Matthew Wright;SAR;452;213.81;01/09/2022 02:58;cheque
+David Nash;Darryl Galvan;RUB;453;2001476.76;04/09/2022 03:21;cheque
+April Mullins;Richard Holmes;SAR;454;92373.96;09/09/2022 00:23;credit card
+Ian Turner;James Strickland;IDR;455;1344.49;09/09/2022 20:48;cheque
+Rachel Rogers;Mark Goodman;CAD;456;3.5;07/09/2022 13:46;wire
+Harold Cruz;Alexa Goodwin;USD;457;751.03;08/09/2022 23:26;wire
+Kevin Rios;Angela Neal;ILS;458;993.35;09/09/2022 16:26;credit card
+Mary Burke;Tracy Bell;USD;459;266.62;09/09/2022 09:21;cheque
+Tina Barron;Tina Barron;SAR;460;36.16;01/09/2022 00:02;reinvestment
+Michelle Smith;Sarah Smith;BTC;461;0.015288;07/09/2022 07:40;bitcoin
+Carmen Lopez;Mr. Kyle Cooper;IDR;462;1511.92;04/09/2022 19:06;cheque
+Chelsea Miller;Mary Payne;INR;463;126722533.1;09/09/2022 06:45;cheque
+Ashley Bennett;Andre Butler;CAD;464;181.2;01/09/2022 16:55;cheque
+Donna Mann;Donna Mann;IDR;465;4079.16;01/09/2022 00:11;reinvestment
+Tammy Ortiz;Duane Bennett;CNY;466;96736.39;07/09/2022 04:51;credit card
+Christopher Henderson;Sabrina Hicks;IDR;467;828.24;08/09/2022 12:47;credit card
+Janet Pena;Edward Howard;IDR;468;562.58;01/09/2022 17:50;cheque
+Kevin Rodriguez;Justin Terry;INR;469;16830930.36;02/09/2022 07:39;cheque
+Melissa Cole;Tracy Bell;USD;470;576.61;04/09/2022 13:22;credit card
+Troy Campbell;Curtis Hunter;IDR;471;3226.98;02/09/2022 14:06;cheque
+Adam Best;Lisa Wood;SAR;472;11654.98;10/09/2022 22:41;cheque
+Kevin Moreno;Shawn Gutierrez;IDR;473;2431.81;02/09/2022 22:06;cheque
+Rebecca Romero;Julie Nichols;IDR;474;19.92;09/09/2022 06:10;cash
+Amy Garcia;James Stone;CAD;475;943.05;09/09/2022 14:27;credit card
+Omar Walker;Pamela Greene;IDR;476;4852.76;08/09/2022 21:14;cheque
+Marisa Ramirez;Olivia Mcintosh;IDR;477;42.34;07/09/2022 09:22;cash
+Jessica Horne;Thomas Rowe;USD;478;32000.82;09/09/2022 05:08;cheque
+Brett Olson;Tracy Bell;USD;479;468.29;06/09/2022 09:53;credit card
+Michelle Oneill;Catherine Morse;CNY;480;6413.55;08/09/2022 16:14;cheque
+David Berger;Robert Johnson;USD;481;54825.74;05/09/2022 01:05;cash
+Mary Jacobs;Justin Bell Jr.;IDR;482;2040.89;01/09/2022 21:23;cheque
+Robin Cross;Robin Cross;IDR;483;8941049.96;01/09/2022 00:21;reinvestment
+William Gordon;Mikayla Combs;IDR;484;13.95;08/09/2022 17:54;cash
+Keith Buck;Tyler Smith;USD;485;292.71;07/09/2022 18:44;cheque
+Teresa Ashley;Teresa Ashley;IDR;486;23718.73;01/09/2022 12:54;reinvestment
+Jon Landry;Christopher Rodriguez;CNY;487;26458.66;01/09/2022 15:13;credit card
+Kenneth Edwards;Kenneth Edwards;CNY;488;160.11;01/09/2022 00:09;reinvestment
+Donna Hayes;Paul Chang;IDR;489;440056.5;08/09/2022 21:10;cheque
+Rhonda Fisher;Rhonda Fisher;CNY;490;8931.9;01/09/2022 04:47;reinvestment
+Amanda Wade;Robin Price;USD;491;99.29;01/09/2022 18:23;cheque
+Christine Parker;Abigail Ryan;IDR;492;701.15;07/09/2022 18:03;cheque
+Michael Reyes;Carla Jackson;USD;493;216.2;09/09/2022 11:58;wire
+Larry Mcneil;Renee Greene;CHF;494;51.77;09/09/2022 11:46;wire
+Sarah Rodriguez;Cheryl Arnold;CNY;495;24171.69;05/09/2022 20:57;credit card
+Catherine Perez;Shannon Little;INR;496;142460.38;01/09/2022 00:27;cheque
+Seth Bray;Jeffrey Trevino;BRL;497;2696.31;10/09/2022 22:07;credit card
+Faith Robinson;Susan Reynolds;ILS;498;1829204.46;07/09/2022 07:24;cheque
+Monica Rodgers;Amber Hernandez;CNY;499;8660.12;01/09/2022 04:22;cash
+Devin Bailey;Julie White;IDR;500;928.88;05/09/2022 01:39;cheque
+Joel Blevins;Lauren Washington;CAD;501;109725.31;08/09/2022 12:32;cheque
+Vanessa Smith;Vanessa Smith;GBP;502;511.94;02/09/2022 14:22;wire
+Wendy Gibbs;Duane Turner;CNY;503;9230.69;09/09/2022 18:01;cheque
+Patrick Ramirez;Juan Hatfield;USD;504;64.15;09/09/2022 09:22;cheque
+Dana Dunn;Brittney Robinson;IDR;505;157.98;06/09/2022 09:59;credit card
+Christopher Baldwin;Yolanda West;USD;506;7881.68;03/09/2022 03:02;credit card
+Charles Luna;Vicki Zimmerman;IDR;507;65430.74;03/09/2022 23:49;cheque
+Christopher Maynard;Julie Peterson;IDR;508;239.13;08/09/2022 21:51;credit card
+Christopher Smith;Lori Ewing;IDR;509;65.57;01/09/2022 12:18;cash
+Clarence Hopkins;Melinda Davis;USD;510;272.91;09/09/2022 20:11;wire
+Eric Lewis;Dr. Amy Ward;USD;511;143.22;09/09/2022 18:21;wire
+Andrea Barton;John Williams;IDR;512;3722.34;07/09/2022 07:27;credit card
+Lisa Estrada;Paul Mitchell;USD;513;2856.21;09/09/2022 07:39;credit card
+Ebony Sullivan;Alexis Soto;USD;514;85.99;02/09/2022 00:19;credit card
+Ryan Hernandez;Regina Hammond;SAR;515;46426.82;07/09/2022 10:20;cheque
+Jeremiah Casey;Jeremiah Casey;IDR;516;120.96;02/09/2022 07:09;wire
+Judy Mcclure;Judy Mcclure;CNY;517;127.77;01/09/2022 12:34;reinvestment
+Kelly Petty;Ruth Parker;USD;518;24798.47;02/09/2022 03:02;cash
+Anita Wilson;Danielle Wilson;CNY;519;32983.86;02/09/2022 05:02;cheque
+Edward Hill;Amy Nichols;CNY;520;32804.75;08/09/2022 04:09;cheque
+Kevin English;Jeremy Curry;CNY;521;1149.57;03/09/2022 03:52;credit card
+Brian Rose;Diane Kent;SAR;522;60667.97;07/09/2022 04:14;cheque
+Timothy Russell;Alejandra Gaines;AUD;523;9.96;07/09/2022 03:28;wire
+Dawn Perry;Timothy Owens;CAD;524;639.49;09/09/2022 15:01;cheque
+Amanda Hampton;Peter Watts;USD;525;2383.96;08/09/2022 10:41;cheque
+Travis Miller;Anthony Miller;IDR;526;146.96;10/09/2022 06:27;cheque
+Kelly Miller;Kelly Miller;BTC;527;13.667796;01/09/2022 13:46;bitcoin
+Nicole Cook;Dalton Wheeler;IDR;528;6692.69;04/09/2022 10:10;cheque
+Charlotte Baker;Dr. Catherine Schwartz;USD;529;41572.5;05/09/2022 01:54;wire
+Carly Maddox;Robert Boyle;IDR;530;40.15;03/09/2022 09:29;credit card
+Alyssa Pena;Alyssa Pena;IDR;531;6824.69;02/09/2022 14:57;wire
+Cheyenne Castro;Ashley Daniel;IDR;532;38.6;06/09/2022 09:44;credit card
+Ashley Green;Phyllis Watts;ILS;533;16.7;01/09/2022 04:29;credit card
+Leslie Patterson;Eric Martin;USD;534;747271.29;02/09/2022 14:53;cheque
+Peter Hall;Emma Perry;INR;535;45160.67;05/09/2022 12:14;credit card
+Jason Bradley;Katherine Wilson;IDR;536;90.04;06/09/2022 21:27;cash
+Ashley Davis;Dr. Tyler Bell MD;CHF;537;798.34;06/09/2022 22:47;credit card
+Catherine Hill;Alan Mata;IDR;538;3376.05;07/09/2022 07:45;credit card
+Joanna Meyer;Joanna Meyer;ILS;539;218.9;01/09/2022 00:13;reinvestment
+Paula Torres;Janice Holt;USD;540;1314.84;01/09/2022 05:15;cheque
+Jennifer Ramirez;Megan Mccarty;SAR;541;65252.88;05/09/2022 08:59;credit card
+Rhonda Stewart;Dana Alvarado;JPY;542;1067150906;10/09/2022 05:19;cheque
+John Perkins;Anne Stone;IDR;543;642.72;07/09/2022 11:52;credit card
+Craig Mccoy;Richard York;IDR;544;1608.11;08/09/2022 19:43;credit card
+Frederick Wilson;Briana Miller;IDR;545;3148.16;01/09/2022 14:16;cheque
+Jasmine Greer;Brent Anderson;INR;546;4991134686;02/09/2022 17:09;cash
+Clayton Alvarez;Janet Wood;IDR;547;256.09;02/09/2022 22:43;cheque
+Jason Pineda;Jason Pineda;USD;548;3.21;01/09/2022 00:18;reinvestment
+Justin Walton;Tracy Bell;USD;549;366.82;09/09/2022 09:00;credit card
+Anthony Sullivan;Renee Jackson;IDR;550;106.81;09/09/2022 00:35;credit card
+Marilyn Phillips;Danielle Wilson;CNY;551;1356.08;04/09/2022 14:20;cheque
+Jennifer Bradley;Ernest Orr;IDR;552;1882.89;02/09/2022 09:14;credit card
+Jenna Suarez;Cindy Watkins;IDR;553;4736.74;09/09/2022 12:14;cash
+Amber Rios;Ryan Martinez;IDR;554;669.22;08/09/2022 15:39;cheque
+Stephanie Ross;Shelby Walker;CAD;555;181.33;06/09/2022 01:31;cheque
+Cheryl Lee;Jessica Robinson;GBP;556;531.14;01/09/2022 15:58;cheque
+Ann Shaw;Ann Shaw;USD;557;410.93;09/09/2022 16:08;wire
+Thomas Beck;Robin Sullivan;USD;558;5399.86;08/09/2022 07:45;cheque
+Jennifer Cooke;Shannon Little;INR;559;1846.47;05/09/2022 21:07;cheque
+Matthew Brown;George Martin;USD;560;49394.04;01/09/2022 04:51;cheque
+Calvin Davis;Matthew Tate;SAR;561;443.75;07/09/2022 01:57;cheque
+Cameron Ball;David Mclaughlin;USD;562;54401.21;01/09/2022 08:15;wire
+Andrew Fisher;Cynthia Freeman;IDR;563;5575.45;08/09/2022 16:21;credit card
+Amy Lewis;Michael Snyder;BTC;564;0.006543;03/09/2022 11:19;bitcoin
+Michael Whitaker;Michael Whitaker;IDR;565;1118.25;01/09/2022 00:25;reinvestment
+Brittney Bates;Michele Grant;IDR;566;206.42;05/09/2022 23:29;cheque
+Rebecca Wells;Jamie Rios;CNY;567;186715.95;07/09/2022 22:11;cash
+Sean Hale;Joseph Oliver;IDR;568;1827.99;09/09/2022 12:22;wire
+Tina Brock;Dawn Ali;USD;569;160.29;07/09/2022 09:41;cheque
+Michael Robertson;Brittany Armstrong;BTC;570;2.359695;07/09/2022 17:46;bitcoin
+Michelle Farrell;Daniel Armstrong;SAR;571;559.7;02/09/2022 16:45;wire
+Mary Hale;Linda Parker;USD;572;19.91;03/09/2022 00:05;credit card
+Emily Wilson;Joshua Simmons;CNY;573;14524.3;07/09/2022 01:55;wire
+David Turner;David Turner;USD;574;2034.57;07/09/2022 11:46;wire
+Deborah Patterson;Rebecca Mendoza;IDR;575;337.94;02/09/2022 05:46;cheque
+Jerry Baker;Tracy Bell;USD;576;876.37;10/09/2022 01:40;cheque
+Kimberly Johnson;Alan Mata;IDR;577;234.62;09/09/2022 11:46;cash
+Chris Diaz;Robert Pugh;USD;578;810934.65;09/09/2022 07:20;cheque
+William Baker;Alison Weaver;AUD;579;431.34;06/09/2022 08:10;wire
+Matthew Nichols;Thomas Brady;IDR;580;13355.6;05/09/2022 19:59;credit card
+Jaclyn Benjamin;Jacqueline Anderson;IDR;581;249798.56;04/09/2022 12:39;wire
+Jonathan Christensen;Brian Forbes;AUD;582;69448.48;09/09/2022 01:30;wire
+Michael Atkins;Michael Atkins;USD;583;109.87;01/09/2022 07:00;reinvestment
+Matthew Morgan;William Harris;SAR;584;7144.33;02/09/2022 15:37;wire
+John Sanchez;Jessica Byrd;IDR;585;6927.19;02/09/2022 21:47;credit card
+Catherine Luna;Brandon Pham;USD;586;145.2;02/09/2022 21:26;cash
+David Hurley;David Hurley;IDR;587;2598.81;02/09/2022 08:55;wire
+Norma Gross;Amy Nelson;IDR;588;954.86;05/09/2022 13:46;credit card
+Andrew Navarro;Eric Torres;IDR;589;98.47;07/09/2022 00:26;credit card
+Shelby Baker;Tami Clark;IDR;590;395.79;09/09/2022 04:55;cash
+Jerome Gutierrez;Timothy Ruiz;CAD;591;621.46;08/09/2022 03:20;cheque
+Michael Farmer;Michael Farmer;IDR;592;23.03;01/09/2022 15:40;reinvestment
+Laura Horne;Adrian Harris;JPY;593;53302.66;02/09/2022 12:17;credit card
+Rachel Jones;Angela Young;IDR;594;362.16;01/09/2022 17:55;wire
+Kelly Day;Jonathon Norris;IDR;595;193.43;10/09/2022 23:53;cheque
+Leslie Marshall;Kayla Hayes;IDR;596;645.6;02/09/2022 04:47;wire
+Brandon Woodard;Anthony Gross;CHF;597;3901.6;02/09/2022 04:44;wire
+Larry Torres;Robert Roberts;MXN;598;3778018.88;02/09/2022 16:19;cheque
+Gregory Duran;Norma Phillips;BRL;599;126.55;01/09/2022 08:52;wire
+Spencer Chang;Grant Mcdaniel;IDR;600;50861.56;07/09/2022 18:33;cheque
+Cynthia Malone;Paula Oneill;IDR;601;19548.27;06/09/2022 23:09;cheque
+Alan Mata;Sheryl Mckee;IDR;602;421.8;09/09/2022 05:45;cash
+Anthony Daniels;William Nguyen;USD;603;1010.3;08/09/2022 19:02;cheque
+Lori Ferguson;Tamara Williams;IDR;604;698.35;01/09/2022 08:41;cheque
+Steve Cunningham;Steve Cunningham;USD;605;8.37;01/09/2022 00:24;reinvestment
+Stephanie Freeman;Daniel Taylor;INR;606;406952.25;07/09/2022 17:43;credit card
+Monica Lewis;Deborah Sharp;IDR;607;822.6;06/09/2022 13:11;cheque
+Ronald Wilson;Zachary Fisher;IDR;608;2446.15;07/09/2022 21:17;credit card
+Anne Carter;Sean Marshall MD;CAD;609;5339.93;02/09/2022 12:47;cheque
+Crystal Lyons;Tim Bridges;IDR;610;3808.08;07/09/2022 08:20;cheque
+Amber Rios;Ryan Martinez;IDR;611;432.76;02/09/2022 15:21;credit card
+Lisa Smith;Lisa Smith;SAR;612;16.13;01/09/2022 17:39;reinvestment
+Kristina Martin;Courtney Pope;CNY;613;290.78;09/09/2022 17:05;wire
+Bryan Lee;Bryan Lee;IDR;614;106283.19;02/09/2022 22:39;wire
+Joshua Hodge;Bradley Tucker;USD;615;97.41;05/09/2022 21:30;cash
+Andrea Vaughn;Melanie Wilson;IDR;616;51.44;05/09/2022 13:55;cheque
+Laura Malone;Laura Malone;IDR;617;22.4;01/09/2022 19:34;reinvestment
+Luke Williamson;Anthony Hartman;USD;618;29.69;09/09/2022 06:50;credit card
+Michael Medina;Andrea Hodge;CNY;619;7401.24;09/09/2022 12:20;cash
+Nancy Stephens;Tracy Bell;USD;620;402.17;08/09/2022 01:39;cheque
+Jason Wilkinson;John Sanders;USD;621;743.83;05/09/2022 19:55;cheque
+Taylor Beard;Susan Mccullough;CNY;622;4140;01/09/2022 02:03;credit card
+Laurie Mendoza;Robert Willis;IDR;623;14.78;03/09/2022 00:06;credit card
+Susan Richard;Nicole Taylor;IDR;624;248333.71;09/09/2022 07:39;cheque
+Melody Smith;Madison Bender;USD;625;4438;07/09/2022 19:26;credit card
+Robin Robinson;Robin Robinson;USD;626;4737.93;09/09/2022 01:40;wire
+Richard Thornton;Richard Thornton;INR;627;5891897758;01/09/2022 00:24;reinvestment
+Amber Park;Anthony Kennedy;CAD;628;881850.1;09/09/2022 22:37;cheque
+Adriana Torres;Julie Wilson;BRL;629;38720.08;05/09/2022 17:22;wire
+Alan Joyce;Alan Joyce;IDR;630;23.89;01/09/2022 00:21;reinvestment
+Curtis Anderson;Curtis Anderson;USD;631;36825.92;01/09/2022 16:25;reinvestment
+Michele Parker;Michele Parker;USD;632;15.03;01/09/2022 00:04;reinvestment
+Deborah Pollard;Deborah Pollard;ILS;633;147677.53;01/09/2022 00:23;reinvestment
+Tyler Gardner;Ashley Lewis;IDR;634;1037777.51;09/09/2022 16:43;cash
+Gary Smith;Jonathan Dunn;INR;635;5125617.02;01/09/2022 00:22;cheque
+Colton Jennings;Jon Pham;USD;636;379.16;08/09/2022 12:31;cash
+Anthony Phillips;Megan Gentry;USD;637;147.51;01/09/2022 07:43;wire
+Vanessa Gregory;Shawn Brown;USD;638;507.46;01/09/2022 07:38;cash
+John Young;Alan Mata;IDR;639;113.66;05/09/2022 13:49;cash
+Janice Collins;Henry Spence;IDR;640;247466.31;08/09/2022 15:26;cash
+Aaron Santos;Tara Bishop;BRL;641;1839.14;10/09/2022 00:02;credit card
+April Baldwin;Jim Johnson;MXN;642;6708.74;08/09/2022 07:18;credit card
+Barbara Griffin;Randy Blake;IDR;643;405.43;04/09/2022 05:17;cheque
+James Bailey;James Bailey;CNY;644;57890.59;01/09/2022 14:13;reinvestment
+Amy Salazar;Isaiah Robles;USD;645;14799.75;03/09/2022 06:58;cheque
+Jacob Atkins;Allen Cochran;CHF;646;1076.13;10/09/2022 17:59;cheque
+Jared Garcia;Jared Garcia;IDR;647;5843.22;01/09/2022 00:22;reinvestment
+Randy Smith;Sheri Ortega;USD;648;15.47;01/09/2022 00:03;credit card
+Julie Luna;Rebecca Velasquez;BTC;649;0.085733;01/09/2022 16:47;bitcoin
+Vincent Nichols;Danny Jones PhD;USD;650;3880.98;09/09/2022 13:56;credit card
+Donald Garcia;Allen Lopez;IDR;651;15.7;01/09/2022 15:10;cheque
+Laura Miranda;Laura Miranda;IDR;652;364.13;01/09/2022 13:19;wire
+Dustin Patterson;Allen Young;USD;653;39.93;02/09/2022 00:24;credit card
+Chelsea Stewart;Alicia Gomez;USD;654;148.39;02/09/2022 13:47;credit card
+Marcus Wilson;Tracy Bell;USD;655;17751.78;02/09/2022 10:47;credit card
+Christine Harris;Dawn Garrett;CHF;656;372.79;07/09/2022 15:40;cheque
+Dr. Russell Romero;Tracy Bell;USD;657;519861.93;09/09/2022 08:58;cheque
+Frank Mills;Arthur Hoover;USD;658;543.64;04/09/2022 05:20;cheque
+Bethany Ramirez;Tracy Bell;USD;659;2049.67;08/09/2022 11:26;credit card
+Troy Mills;Troy Mills;IDR;660;378480.92;01/09/2022 19:08;reinvestment
+Douglas Davis;Marilyn Horton;INR;661;70209.55;02/09/2022 00:45;cheque
+Amy Sampson;Amber Harris;CNY;662;1018.68;06/09/2022 02:14;credit card
+Angela Faulkner;Melissa Moon;CAD;663;388.26;08/09/2022 11:59;cheque
+Todd Carter;Alexandria Sweeney;CHF;664;141.49;07/09/2022 14:38;wire
+Brian Thomas;Dakota Snyder;USD;665;268.77;06/09/2022 13:09;cheque
+William Fowler;Robert Werner;IDR;666;165.55;01/09/2022 00:29;credit card
+Nathaniel Hester;John Brandt;IDR;667;1293.41;07/09/2022 04:05;cheque
+Kenneth Moore;Kenneth Moore;USD;668;8.6;01/09/2022 00:11;reinvestment
+Erica Carpenter;Ashley Hogan;IDR;669;147.47;03/09/2022 08:13;cheque
+Erika Murphy;Victor Hernandez;BRL;670;157389.69;02/09/2022 06:23;credit card
+Zachary Lindsey;Kathleen Vargas;IDR;671;1829808.03;01/09/2022 00:21;cheque
+Alan Mata;Jill Baker;IDR;672;125.46;09/09/2022 20:50;cash
+Stephanie Summers;Erica Hayes;IDR;673;16481.94;01/09/2022 00:27;wire
+Ryan Mooney;Dr. Eric Hudson;USD;674;15411.78;06/09/2022 12:41;wire
+Stephen Potts;Alan Mata;IDR;675;190.99;06/09/2022 19:22;cheque
+Sharon Webster;Justin Moran;ILS;676;2534.79;02/09/2022 20:34;cheque
+Jennifer Larson;Katie Brown;INR;677;735796.14;08/09/2022 02:25;cheque
+Lisa Franklin;Alex Rogers;INR;678;181861.65;02/09/2022 05:17;cheque
+Joseph Rhodes;Michael Miller;USD;679;214.15;05/09/2022 07:08;cheque
+Mark Hill;Omar Livingston;USD;680;61.1;02/09/2022 10:51;cheque
+Jacob Jimenez;Tracey Morgan;SAR;681;13778.44;09/09/2022 03:21;cheque
+John Shannon;Alan Mata;IDR;682;17426.67;01/09/2022 01:34;cheque
+Jonathan Williams;Jonathan Williams;USD;683;84.15;06/09/2022 20:17;wire
+Christopher Foster;Meredith Smith;CAD;684;1524341.54;07/09/2022 19:33;cheque
+William Bishop;Rachael Holmes;IDR;685;358.08;08/09/2022 12:54;wire
+Stanley Brown;Tracy Bell;USD;686;4115.28;08/09/2022 11:40;cheque
+Robert Alvarez;John Ramirez;USD;687;5295.65;02/09/2022 20:15;cash
+Isaiah Casey;Tracy Bell;USD;688;35.61;07/09/2022 11:15;cheque
+Paul Johnson;Debbie Haley;BRL;689;1045.72;08/09/2022 08:18;wire
+April Gallagher;Richard Perry;IDR;690;408.31;01/09/2022 10:33;credit card
+Erica Tucker;Erica Tucker;BTC;691;0.52748;01/09/2022 05:02;bitcoin
+David Moreno;Brian Rojas;IDR;692;19578.66;08/09/2022 15:14;cash
+Donna Nichols;Kim Rhodes;IDR;693;954.11;08/09/2022 00:59;credit card
+Stacy Lopez;Gary Roberts;BTC;694;0.007742;08/09/2022 01:00;bitcoin
+Micheal Anderson;Joseph Krueger;IDR;695;1298.14;02/09/2022 13:44;cheque
+Tanya Price;Tanya Price;USD;696;158.48;02/09/2022 22:37;wire
+Maria Kim;Anthony Everett;SAR;697;1604.34;06/09/2022 03:08;cheque
+Zachary Foster;Daniel Lewis;BRL;698;12280.85;01/09/2022 00:03;cash
+Aaron Ramirez;Kristen Freeman;CHF;699;535.26;05/09/2022 02:59;cheque
+Mary Fry;Erik Cline;USD;700;5404.52;10/09/2022 15:38;cheque
+Anna May;Tracy Bell;USD;701;1570.45;04/09/2022 23:35;cheque
+Dana Barrett;Carlos Stewart;USD;702;5084.36;02/09/2022 21:32;cash
+Jacqueline Hall;Heather Cooke;IDR;703;45.36;01/09/2022 00:02;credit card
+Spencer Merritt;Alex Conrad;CNY;704;7574.85;02/09/2022 14:06;credit card
+John Davis;Glenn Anderson;IDR;705;25395.82;05/09/2022 06:41;credit card
+David Hanson;David Hanson;SAR;706;374.57;01/09/2022 00:20;reinvestment
+Kathryn Marshall;Linda Jones;IDR;707;156.53;09/09/2022 16:52;wire
+Blake Castaneda;Blake Castaneda;USD;708;8533.81;01/09/2022 00:28;reinvestment
+Pamela Edwards;Pamela Edwards;INR;709;51804.14;01/09/2022 18:44;reinvestment
+Amanda Cole MD;Kyle West;USD;710;40.05;01/09/2022 00:21;credit card
+Courtney Morgan;Martin Beck;IDR;711;5291.37;01/09/2022 06:10;cheque
+Penny Adams;Kristen Cruz;USD;712;4061.26;09/09/2022 03:00;cheque
+Martin Mcdowell;Stephanie Mitchell;JPY;713;65630.48;06/09/2022 07:28;credit card
+Emily Perez;Emily Perez;USD;714;21694.25;01/09/2022 00:06;reinvestment
+Arthur Cooke;Mary Rodriguez;IDR;715;1606.72;03/09/2022 09:38;wire
+Zachary Lowe;Stephen Duncan;IDR;716;2191.22;01/09/2022 17:10;cheque
+Amanda Bender;Amanda Bender;BRL;717;329.57;01/09/2022 00:17;reinvestment
+Mary Goodman MD;Mary Goodman MD;BRL;718;135.67;01/09/2022 00:02;reinvestment
+Cindy Watson;James Thompson;IDR;719;1455.09;06/09/2022 15:16;cheque
+Gabriel Price;Molly Taylor;CAD;720;674.35;08/09/2022 07:19;cheque
+Cheryl Davis;Cheryl Davis;CNY;721;1154268.74;01/09/2022 04:54;reinvestment
+Kyle Ryan;Mr. Sean Anderson MD;CAD;722;7868.66;01/09/2022 04:17;cheque
+Emily Fowler;Michele Dominguez;IDR;723;905.32;05/09/2022 14:48;cheque
+Joshua Rogers;Trevor Mcdonald;BRL;724;749.71;02/09/2022 21:54;cheque
+Bradley Meyer;Alexandria Marks;IDR;725;390.71;09/09/2022 10:00;cheque
+Dustin Jones;Melissa Moon;CAD;726;187.11;09/09/2022 23:55;cheque
+Robert Clark;Christopher Marshall;IDR;727;9361.6;01/09/2022 22:40;wire
+Brian Moran;Robert Kidd;USD;728;4540.24;02/09/2022 20:07;cheque
+Lindsay Bishop;Robert Juarez;SAR;729;59352.92;09/09/2022 14:25;credit card
+Jeremy Mcgrath;Tracie Clark;INR;730;905923.52;10/09/2022 22:27;credit card
+Kristen Long;Kristen Long;IDR;731;3796.12;01/09/2022 06:00;reinvestment
+Tiffany Stout;Michael Austin;IDR;732;205253.03;08/09/2022 21:45;wire
+Paul Patel;Cynthia Williams;IDR;733;2417.92;06/09/2022 13:07;cash
+Joseph Hill;Mrs. Laura Colon;BRL;734;1773.74;02/09/2022 18:43;cheque
+Ashley Moran;Gary Roberts;BTC;735;0.039721;10/09/2022 02:40;bitcoin
+Bernard Campbell;Anthony Cooper;IDR;736;193.47;07/09/2022 14:18;cash
+David Garrett;William Duran;IDR;737;161.59;02/09/2022 20:30;credit card
+Nina Case;Nina Case;IDR;738;256.05;01/09/2022 13:32;reinvestment
+Jenna Roberts;Kimberly Madden;BTC;739;0.018474;01/09/2022 11:34;bitcoin
+Travis Shaw;Suzanne Figueroa;IDR;740;2492.48;05/09/2022 00:18;credit card
+Tony Waters;Gary Roberts;BTC;741;0.02986;02/09/2022 04:24;bitcoin
+Nicole Gonzalez;Alan Mata;IDR;742;8319.67;05/09/2022 01:52;credit card
+Debra Gallegos;Ashley Wilson;IDR;743;10170.99;02/09/2022 19:48;wire
+Faith Thomas;Veronica Pope MD;IDR;744;10616.62;10/09/2022 15:48;credit card
+Corey Dawson;Corey Dawson;JPY;745;1608.55;01/09/2022 00:28;reinvestment
+Tara Bell;Brian Hahn;IDR;746;67.68;03/09/2022 05:02;credit card
+Kaylee Watson;Jennifer Velazquez;BRL;747;432.07;09/09/2022 02:27;wire
+Kristen Burke;Joseph Delacruz;AUD;748;188.11;08/09/2022 00:29;credit card
+Edward Morales;Scott Hall;USD;749;432.9;01/09/2022 14:27;credit card
+Kathleen Dillon;Cheryl Warren;BTC;750;0.023369;08/09/2022 02:11;bitcoin
+Daniel Jennings;Elizabeth Wright;IDR;751;734.04;02/09/2022 15:51;cheque
+Deanna Johnson;Mathew Clark;IDR;752;25557.98;06/09/2022 22:06;credit card
+Keith Friedman;Ronald Aguilar;USD;753;3610.34;01/09/2022 18:12;wire
+Gregory Ortiz;Sarah Deleon;USD;754;46.84;05/09/2022 19:50;wire
+Brian Morgan;Christopher Beck;USD;755;1973.5;08/09/2022 00:39;wire
+James Figueroa;Zachary Cook Jr.;JPY;756;19739.82;10/09/2022 06:13;credit card
+Victor Hudson;Adam Torres;IDR;757;227833.49;09/09/2022 17:40;cheque
+Jonathan Miles;Zachary Hines;USD;758;351.68;09/09/2022 19:19;wire
+Amy Peters;Jason Mcdaniel;IDR;759;12422.73;07/09/2022 04:11;credit card
+John Hernandez;Brittany Taylor;AUD;760;19.2;08/09/2022 00:21;credit card
+Kelly Gutierrez MD;Melissa Gomez;RUB;761;4250438.6;02/09/2022 20:29;cheque
+Karen Johnson;Christopher Martinez;IDR;762;7480.14;05/09/2022 23:45;cheque
+Michael Brown;Michael Brown;USD;763;451.04;01/09/2022 00:24;reinvestment
+Dr. Ryan Hendricks;Mark Dean;IDR;764;861693.09;04/09/2022 13:50;cash
+Ronald Ryan;Denise Wilson;IDR;765;5.65;10/09/2022 17:36;wire
+Paul Alexander;Paul Alexander;BTC;766;0.136615;07/09/2022 22:19;bitcoin
+Michael Stevens;Victor Rodriguez;CAD;767;1453.42;08/09/2022 18:36;credit card
+Jonathon Smith;Robin Hill;USD;768;121.12;07/09/2022 07:08;cheque
+John Swanson;Christopher Shaw;USD;769;609.85;09/09/2022 01:52;credit card
+James Stokes;Tracy Bell;USD;770;6342.71;06/09/2022 11:12;cheque
+Wendy Sellers;Cheryl Hernandez;CNY;771;220.94;08/09/2022 14:20;cheque
+Joshua Doyle;Shannon Jackson;IDR;772;701.17;09/09/2022 06:47;cheque
+Misty Huber;Anthony Trevino;CNY;773;688.29;07/09/2022 21:15;credit card
+Keith Ruiz;Kathryn Johnson;ILS;774;11150.43;01/09/2022 10:53;credit card
+Larry Johnston;Alan Mata;IDR;775;2372.33;05/09/2022 04:28;cash
+Dennis Melton;Alan Cochran;SAR;776;7746.43;01/09/2022 11:43;cheque
+Hannah Johnson;Jill Knapp;CNY;777;3558.46;04/09/2022 08:08;cheque
+April Smith;Corey Esparza;CAD;778;1628.7;04/09/2022 06:39;cheque
+Connor Lane;Jeff Williams;BTC;779;0.01023;01/09/2022 18:58;bitcoin
+Cindy Hunt;Rebecca Charles;IDR;780;1864.69;06/09/2022 00:05;cheque
+Karen Knox;Emily Gray;BTC;781;0.064751;06/09/2022 07:28;bitcoin
+Christopher Cooper;Brenda Barrera;USD;782;287.23;09/09/2022 16:02;credit card
+Miguel Mendez;Holly Jimenez;USD;783;84.67;02/09/2022 08:34;cash
+Breanna Thompson;Breanna Thompson;IDR;784;8.97;01/09/2022 03:59;reinvestment
+Regina Harvey;Robert Morales;USD;785;120.17;09/09/2022 16:33;cash
+Mark Blackwell III;Mark Blackwell III;CAD;786;103.11;02/09/2022 06:14;wire
+Michelle Martinez;Alan Mata;IDR;787;915.66;08/09/2022 09:00;credit card
+Kathleen Khan;Danielle Wilson;CNY;788;436807.03;02/09/2022 13:13;cash
+Patricia Torres;Aaron Patterson;USD;789;1635.92;07/09/2022 17:18;credit card
+Philip Macdonald;Matthew Moore;IDR;790;26.63;01/09/2022 07:52;credit card
+Jaime Dean;Alan Mata;IDR;791;554.84;09/09/2022 11:13;credit card
+Frank Harris;Frank Harris;IDR;792;16.62;01/09/2022 19:26;reinvestment
+Brenda Edwards;Tracy Bell;USD;793;125.15;02/09/2022 17:29;credit card
+Jordan Moran;Mrs. Erin Hall;IDR;794;92731.55;06/09/2022 06:22;cheque
+Tony Ray;Clayton Banks;IDR;795;3185.74;04/09/2022 03:53;wire
+Anna Avila DVM;Jennifer Gross;IDR;796;3498.65;08/09/2022 19:54;cheque
+Matthew Sanders;Calvin Clark;JPY;797;972533.04;01/09/2022 00:14;wire
+Jennifer Ward;Alan Mata;IDR;798;4416.22;01/09/2022 00:25;credit card
+Victoria Reese;Victoria Reese;CNY;799;71.93;01/09/2022 00:08;reinvestment
+Kenneth Newton;Jonathan Townsend;IDR;800;20.95;01/09/2022 00:10;credit card
+Carolyn Kelly;Stephen Carroll;USD;801;1098.99;01/09/2022 00:09;cheque
+Gina Wilson;Stephen Newman;INR;802;1179064.88;07/09/2022 09:00;cheque
+Jeffrey Howell;Rachel Jefferson;IDR;803;1071.51;09/09/2022 19:30;cheque
+Jerry Ramirez;Ricky Williams;USD;804;339.29;06/09/2022 05:33;cheque
+Veronica Robinson;Tiffany Salazar;USD;805;123.26;02/09/2022 02:30;cheque
+Jodi Nguyen;Amanda Stone;ILS;806;1165.05;09/09/2022 08:41;cheque
+Rebecca Cook;Richard Sanders;USD;807;62324.83;07/09/2022 11:32;cheque
+Thomas Winters;Ann Jackson;IDR;808;108.77;06/09/2022 00:04;credit card
+Dr. Kimberly Decker;Michael Castro;IDR;809;1155.22;07/09/2022 22:31;cheque
+Jennifer David;Frank Martinez;IDR;810;1070.51;02/09/2022 16:51;cheque
+Adriana Lewis;Adriana Lewis;IDR;811;481.27;09/09/2022 02:24;wire
+Danielle Bond;Alexis King;CAD;812;2667.28;02/09/2022 05:25;cheque
+Austin Cline;Tiffany Pace;USD;813;304.02;09/09/2022 09:50;credit card
+Meredith Adams;David Pena;USD;814;2385.12;01/09/2022 11:56;wire
+Samantha Lambert;Brianna Douglas;USD;815;23.43;02/09/2022 13:54;wire
+Cindy Singleton;Christopher Walker;IDR;816;55213373.86;02/09/2022 03:51;cash
+Kevin Martinez;Jade Hunter;CHF;817;45502.58;01/09/2022 00:21;cheque
+Melissa Newman;Melissa Newman;USD;818;216.3;01/09/2022 00:22;reinvestment
+Erik Hughes;Alexander Price;BTC;819;0.038222;08/09/2022 18:42;bitcoin
+Kathleen Ferguson;Kathleen Ferguson;USD;820;2767.41;01/09/2022 16:00;reinvestment
+Sandra Pacheco;David Valdez;SAR;821;60771.09;02/09/2022 03:36;cheque
+Sean Johnson;Thomas Henry;USD;822;135.44;09/09/2022 00:56;wire
+Steven Perry;Catherine Newton;BRL;823;212550.01;06/09/2022 19:01;cheque
+Micheal Carter;Anthony Ingram;USD;824;69.31;08/09/2022 23:20;cheque
+Andrea Ryan;Richard Martinez;USD;825;2230.97;05/09/2022 19:35;wire
+Ashley Green;Phyllis Watts;ILS;826;307.14;07/09/2022 13:33;cheque
+Sarah Edwards;Sarah Edwards;IDR;827;231.61;05/09/2022 03:49;wire
+Susan Rhodes;Marcus Robinson;AUD;828;13167.95;06/09/2022 23:12;credit card
+Christopher Hudson;Katherine Glenn;BTC;829;0.608567;07/09/2022 21:46;bitcoin
+John Sandoval;John Sandoval;IDR;830;473.91;01/09/2022 00:28;reinvestment
+Brad Benson;Jeffrey Castro;CNY;831;95871.72;06/09/2022 03:31;wire
+Gail Ward;Carmen Green;IDR;832;1063.95;03/09/2022 04:38;cheque
+Alexis Bell;Alexis Bell;CNY;833;68;01/09/2022 00:08;reinvestment
+Kurt Ross;Michael Simpson;GBP;834;657.65;01/09/2022 06:01;wire
+Lisa Wilkinson;Lisa Wilkinson;USD;835;3827.44;01/09/2022 00:07;reinvestment
+Nicholas Thompson;Charles Carlson;IDR;836;523.45;02/09/2022 19:29;credit card
+Brandon Nguyen;Robert Flores;IDR;837;383820.28;09/09/2022 21:06;cheque
+Lindsey Fields;William Smith;IDR;838;1361.42;01/09/2022 11:13;cheque
+Christian Perkins;James Shields;IDR;839;2005.94;10/09/2022 01:28;cheque
+Karen Mcclure;Crystal Steele;IDR;840;280.65;09/09/2022 07:55;cheque
+Jeanne Barnes;Alan Mata;IDR;841;649.55;01/09/2022 14:40;cash
+Maria Mclean;Chad Gomez;INR;842;126272.1;02/09/2022 02:34;credit card
+Edward Miller;Jordan Hamilton;CNY;843;1849.58;01/09/2022 16:29;credit card
+Elizabeth Hall;Lance Campbell;IDR;844;428.3;10/09/2022 17:16;cheque
+Linda Love;James Serrano;IDR;845;7286.6;01/09/2022 08:52;credit card
+Justin Molina;Franklin Keller;IDR;846;959.69;01/09/2022 19:39;credit card
+Michael Reed;Joshua Moore;IDR;847;251.57;09/09/2022 14:45;wire
+Angela Garcia;Harold Jones;IDR;848;152.06;02/09/2022 04:19;cheque
+Kelly Sanchez;Nicholas Gonzales;INR;849;19299.31;02/09/2022 20:50;wire
+Corey Reed;Jessica Jimenez;CNY;850;34261.63;08/09/2022 19:46;cheque
+Mark Smith;Alan Mata;IDR;851;441.95;02/09/2022 08:43;cheque
+Mary Stone;David Williams;USD;852;6.64;09/09/2022 10:15;cash
+Robert Richardson;Carlos Mahoney;INR;853;516579.23;05/09/2022 23:43;cheque
+Jacob Valdez;Krista Pope;CNY;854;3323.14;06/09/2022 06:49;credit card
+Anthony Hammond;Stephanie Franklin;CNY;855;2470.6;08/09/2022 22:02;cheque
+Margaret Castillo;Timothy Wright;IDR;856;601.05;02/09/2022 00:10;wire
+Nichole Snyder;Eric Todd;INR;857;2723.92;05/09/2022 11:23;cash
+Julia Marshall;Julia Marshall;BTC;858;9.4;01/09/2022 00:14;bitcoin
+Chelsea Hayes;Katrina Jones;INR;859;68778.66;06/09/2022 23:30;cheque
+Allison Wood;Jade Wood;USD;860;171.35;06/09/2022 09:34;cheque
+Kimberly Hays;Brian Payne;CAD;861;319.43;06/09/2022 11:13;wire
+Michael Gay;Victoria Martinez;IDR;862;845839.71;01/09/2022 12:41;cheque
+Sarah Washington;Allen Huff IV;IDR;863;9054.18;09/09/2022 15:02;cheque
+Jim Ray;Jim Ray;MXN;864;150354.68;01/09/2022 14:38;reinvestment
+Charles Morris;Charles Morris;USD;865;660.21;01/09/2022 00:16;reinvestment
+Nancy Fleming;Cynthia Sawyer;IDR;866;4442.19;05/09/2022 08:50;credit card
+Ashley Haynes;Laura Wells;BTC;867;0.451326;06/09/2022 04:51;bitcoin
+Kenneth Hendricks;Monica Scott;MXN;868;29062.07;02/09/2022 21:27;wire
+Elijah Moore;Michael White;USD;869;50.1;09/09/2022 23:14;cheque
+Luis Mcdonald;Luis Mcdonald;USD;870;822.61;06/09/2022 21:05;wire
+Steven Bernard;John Conrad II;CHF;871;2224.26;10/09/2022 16:05;cheque
+Allison Simmons;Kevin Ramos;CHF;872;89.49;05/09/2022 22:52;cheque
+Roger Rose;Steven Sellers;BTC;873;0.924939;09/09/2022 19:19;bitcoin
+Stephen Johnson;Erica Marsh;USD;874;115.71;09/09/2022 03:22;credit card
+Andrea James;Alan Mata;IDR;875;1401.57;08/09/2022 18:25;cheque
+Scott Lawson;Scott Lawson;MXN;876;1664716.03;01/09/2022 00:23;reinvestment
+Dawn Hubbard;Hannah Gomez;IDR;877;13350056.59;09/09/2022 16:27;wire
+Angela Miles;Angela Miles;IDR;878;9141.7;01/09/2022 09:21;reinvestment
+Roberto Pierce;Caleb Powell;IDR;879;118742.96;02/09/2022 22:17;wire
+Hannah James;David Gonzales;SAR;880;88.59;01/09/2022 19:48;cheque
+Thomas Ortega;Patricia Sweeney;IDR;881;5988.42;05/09/2022 06:53;credit card
+Vincent Rodriguez;Paul Benson;IDR;882;1021.14;09/09/2022 08:39;cheque
+Andrew Hernandez;Beverly Wells;IDR;883;4191.29;01/09/2022 17:35;cash
+Matthew Wright;Tracy Bell;USD;884;1268.39;01/09/2022 15:54;cheque
+Ryan Roberts;Joshua Lang;USD;885;6125.93;09/09/2022 15:14;cheque
+Brandon Beard;Gregory Stevens;IDR;886;3948.89;01/09/2022 12:31;credit card
+Elizabeth Cole;Jeffrey Bush;USD;887;104.84;08/09/2022 08:08;cheque
+Wanda Miller;Wanda Miller;CNY;888;364.89;02/09/2022 06:15;wire
+Lisa Cowan;Kelly Aguilar PhD;IDR;889;1855.79;08/09/2022 17:00;credit card
+William Chan;Danielle Young;USD;890;5.41;01/09/2022 19:55;wire
+Courtney Brown;Frank Nash;USD;891;38.3;05/09/2022 14:40;wire
+Amy Flores;Kimberly Green;INR;892;153065.68;05/09/2022 01:35;cheque
+Corey Owens;Judith Fitzgerald;MXN;893;17190.04;02/09/2022 18:51;wire
+Raymond Wade;Jonathon Rivera;USD;894;37.02;05/09/2022 17:34;cheque
+Ronald Simmons;Ronald Simmons;USD;895;51.62;01/09/2022 00:15;wire
+Ricky Davidson;Alan Mata;IDR;896;104.43;05/09/2022 06:07;credit card
+Kirk Young;Melissa Smith;IDR;897;103.45;02/09/2022 03:13;cheque
+Kevin Kirk;William Glover;BRL;898;52916.33;09/09/2022 04:54;credit card
+John Butler;Karen Hernandez;USD;899;4348.73;01/09/2022 00:14;wire
+Christopher Lewis;Michael Harris;CNY;900;18.47;07/09/2022 09:48;wire
+Brittany Cummings;Jennifer Williamson;USD;901;278.9;05/09/2022 05:37;cash
+James Montes;Leonard Ferguson;IDR;902;20.42;03/09/2022 12:13;cash
+Laura Richardson;Terry Bowen;ILS;903;13265.61;05/09/2022 09:43;credit card
+Juan Hanson;Steven Tucker;CNY;904;11039.95;05/09/2022 16:53;cheque
+Rebecca Simmons;Tracey Phelps;CNY;905;2084779571;08/09/2022 01:11;cheque
+Cody Flores;Fernando Peters;USD;906;883.88;08/09/2022 16:37;cheque
+April Scott;April Scott;USD;907;1617.92;01/09/2022 00:21;reinvestment
+Paul Harvey;Dalton Mercado;SAR;908;292.57;01/09/2022 00:16;credit card
+Gabriela Wilson;Scott Woods;USD;909;93.4;06/09/2022 19:47;wire
+Lauren Morgan;Lauren Morgan;IDR;910;430.35;01/09/2022 00:27;reinvestment
+Rebecca Bautista;Andrew Cole;USD;911;486.09;02/09/2022 07:08;cheque
+Claudia Mercado;Karen Martin;CHF;912;197.53;08/09/2022 08:54;wire
+Tammy Adams;Mary Moran;ILS;913;52.08;02/09/2022 09:30;cheque
+Thomas Wood;Vanessa Spears;CHF;914;1274.35;05/09/2022 08:41;credit card
+Betty Arnold;Benjamin Mckenzie;BRL;915;3288.47;09/09/2022 23:42;cheque
+Lisa Ramirez;Susan Fernandez;CNY;916;8330;01/09/2022 07:57;wire
+Tony Medina;Sheila Russell;IDR;917;2470.47;07/09/2022 20:13;credit card
+Robert Rhodes;Robert Rhodes;USD;918;5408.17;01/09/2022 00:11;reinvestment
+Paul Beltran;Amy Allen;IDR;919;70.53;09/09/2022 22:15;cheque
+Jasmine Ferrell;Wanda Miller;IDR;920;56.48;05/09/2022 17:03;credit card
+James Lopez;Kelly Quinn;USD;921;3273.4;09/09/2022 16:02;wire
+Lori Davis;Kim Montoya;USD;922;73.85;03/09/2022 01:50;cheque
+Gerald Waters;Felicia Fox;IDR;923;571.85;05/09/2022 09:48;cheque
+Mary Nicholson;Mary Nicholson;IDR;924;34264871.02;01/09/2022 20:01;reinvestment
+Kaitlyn King;Mary Atkinson;USD;925;3671.76;02/09/2022 23:14;credit card
+Abigail Pena;Courtney Whitehead;IDR;926;22245.16;07/09/2022 01:03;cheque
+Courtney Brooks;Amanda Davis;IDR;927;4700.79;09/09/2022 15:46;wire
+Steven Day;Robert Barber;BRL;928;732.43;05/09/2022 11:27;cheque
+Jeremy Hamilton;Brian Morales;USD;929;7512.87;06/09/2022 01:37;credit card
+Emily Ellis;Jason Lloyd;IDR;930;305.96;08/09/2022 20:01;wire
+Aaron Stevens;Danielle Wilson;CNY;931;444.42;07/09/2022 18:47;cheque
+Nicholas Allen;Paula Padilla;CNY;932;709.91;07/09/2022 01:41;credit card
+Christine Simpson;Peter Sosa;IDR;933;13330.89;10/09/2022 19:58;credit card
+Jessica Silva;Scott Meyer;IDR;934;72051.87;01/09/2022 23:59;wire
+Brittany Hernandez;Chris Valdez;IDR;935;597.5;07/09/2022 02:39;cheque
+Kelsey Wise;Julia Morgan;USD;936;0.98;09/09/2022 04:03;wire
+Jaime Gay;Sheila Wagner;IDR;937;224.31;07/09/2022 10:09;wire
+Kyle Robinson;Richard Cunningham;USD;938;1611.88;07/09/2022 03:40;wire
+Kelsey Taylor;Brandon Moore;JPY;939;18117.87;10/09/2022 05:39;wire
+Jeffrey Cowan;Kyle Oliver;IDR;940;6170.88;06/09/2022 20:12;cheque
+Janet Patton;Carolyn Lewis;IDR;941;27352.31;04/09/2022 01:51;cheque
+Robert Lewis;Derrick Nelson;USD;942;279.29;06/09/2022 14:25;credit card
+Crystal Williams;Lindsey Bennett;IDR;943;401940.86;01/09/2022 04:58;wire
+Christie Medina;Renee Parker;USD;944;196.77;09/09/2022 20:36;wire
+Kim Drake;Kim Drake;IDR;945;14.99;01/09/2022 09:14;reinvestment
+Nathaniel Ruiz;Cameron Roberts;USD;946;312.4;09/09/2022 06:02;cheque
+Patrick Young;Nathan Jones;IDR;947;530.44;04/09/2022 12:16;cheque
+Michael Mckay;Juan Taylor Jr.;AUD;948;25276.07;03/09/2022 18:51;cheque
+Julie Flynn;Dylan Collins;USD;949;63.89;02/09/2022 03:36;cheque
+Amy Boyle;Amy Boyle;IDR;950;335065.6;01/09/2022 03:23;reinvestment
+Larry Lowe;Matthew Clements MD;IDR;951;28135.53;10/09/2022 23:02;cheque
+Monica Morales;Michael Peterson;SAR;952;467.87;05/09/2022 22:37;cash
+Michael Roberts DVM;Tara Navarro;USD;953;472.46;05/09/2022 02:31;wire
+Ralph Cook;Matthew Smith;IDR;954;3070.83;09/09/2022 14:05;cash
+Hannah Collins;Melissa Moon;CAD;955;108.31;01/09/2022 08:23;cheque
+Robert White;Brandon Dunn;IDR;956;78503;01/09/2022 00:16;cheque
+Katie Nolan;Adam Martin;USD;957;1520.05;07/09/2022 23:07;cash
+Alexander Smith;Preston Richardson;USD;958;278.92;02/09/2022 18:15;credit card
+Blake Gonzales;Blake Gonzales;USD;959;56.16;01/09/2022 00:23;reinvestment
+Robert Ryan;Shannon Huerta;IDR;960;30.93;08/09/2022 03:44;wire
+Mary Gonzalez;Haley Lopez;USD;961;33.74;10/09/2022 09:33;credit card
+Pamela Howard;Pamela Howard;IDR;962;25534;01/09/2022 00:26;reinvestment
+Paul Clark;Richard Torres;JPY;963;11031.43;09/09/2022 00:11;cheque
+Nicole Ochoa;Clarence Clark;BRL;964;24361175.2;09/09/2022 23:52;wire
+Madison Shepherd;Loretta Whitaker;IDR;965;216.58;01/09/2022 00:05;wire
+Antonio Kim;Cheryl Chan;USD;966;127.09;02/09/2022 15:53;cheque
+Victoria Jones;Jennifer Aguirre;SAR;967;107.48;05/09/2022 00:04;credit card
+Elizabeth Davis;Christine Hall;BRL;968;696.64;01/09/2022 20:43;credit card
+Jasmine Cook;Lisa Henson;SAR;969;533.87;02/09/2022 10:06;cheque
+Thomas Cantrell;Samantha Randolph;IDR;970;543.99;02/09/2022 15:47;wire
+Desiree Stanley;Tristan Lucero;SAR;971;128.21;09/09/2022 00:13;credit card
+Julia Johnson;Tanya Nelson;CNY;972;838.47;02/09/2022 05:50;wire
+Monica Alvarado;Madeline Johnson;AUD;973;520969.77;08/09/2022 16:21;cheque
+Robert Jacobs;Robert Jacobs;INR;974;1343.06;01/09/2022 12:05;reinvestment
+Timothy Garcia;Trevor Hamilton;IDR;975;1666.79;09/09/2022 20:04;wire
+Megan Chambers;Robert Howard;CNY;976;700.34;09/09/2022 16:06;cash
+Tina Hill;Tina Hill;IDR;977;1348184.25;01/09/2022 06:49;reinvestment
+Joshua Butler;Jennifer Ellis;IDR;978;64.41;02/09/2022 21:42;wire
+Anthony Robinson;Jason Conway;GBP;979;429.64;04/09/2022 15:02;wire
+Paul Vaughn;Tracy Bell;USD;980;24834.64;02/09/2022 04:54;credit card
+Ryan Ford;Neil Davis;CAD;981;125.3;05/09/2022 11:34;cheque
+Ashley Yoder;Tracy Knight;IDR;982;619051.6;02/09/2022 22:48;cash
+Jeanette Richards;Ian Kelly;IDR;983;4824.41;08/09/2022 02:57;wire
+David Jones;Scott Howe;IDR;984;897474.42;01/09/2022 21:43;wire
+Savannah Warren;Patricia Medina;CNY;985;6719.33;05/09/2022 10:50;credit card
+Kevin Bowers;Nathan Herrera;SAR;986;1872154.62;01/09/2022 17:32;cheque
+Billy Buchanan;Dennis King;IDR;987;1892.32;06/09/2022 18:13;credit card
+Debbie Haley;Eric Davenport;BRL;988;389.22;07/09/2022 07:26;wire
+Crystal Pennington;Daniel Gutierrez;SAR;989;1489810.65;06/09/2022 18:41;cheque
+Linda Mclaughlin;Linda Mclaughlin;IDR;990;170348.88;01/09/2022 00:15;reinvestment
+Chelsea Gonzalez;Alicia Smith;JPY;991;5669.19;08/09/2022 07:22;cheque
+Andrew Bray;Thomas Miller;CNY;992;81988.45;02/09/2022 09:24;credit card
+Nina Mason;Kelsey Smith;ILS;993;10757.96;02/09/2022 04:40;cheque
+Virginia Smith;Debra Joseph;USD;994;533.74;02/09/2022 01:16;wire
+Alicia Skinner;Alicia Skinner;IDR;995;74773.66;02/09/2022 16:28;wire
+Dr. Kendra Mitchell;Ethan Tanner;IDR;996;131.28;09/09/2022 06:15;credit card
+Linda Hall;Erin Aguilar;USD;997;224.83;09/09/2022 08:42;cheque
+Daniel Jones;Brooke Ware;IDR;998;1914.48;05/09/2022 10:12;cheque
+Jerry Benton;Anthony Salazar;IDR;999;1526.58;08/09/2022 10:13;credit card
